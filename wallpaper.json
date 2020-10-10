@@ -1,0 +1,1759 @@
+[
+  {
+    "Name": "abstract wall",
+    "Filename": "RoomTexWallAbstract00",
+    "Internal ID": 4873,
+    "Unique Entry ID": "FpdbDr4PMe5WdEZkA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Abstract_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "ancient wall",
+    "Filename": "RoomTexWallEgypt00",
+    "Internal ID": 4936,
+    "Unique Entry ID": "Y2pykQMhqbEoGGa62",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ancient_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "apple wall",
+    "Filename": "RoomTexWallApple00",
+    "Internal ID": 4916,
+    "Unique Entry ID": "roJZFWataeLQK6vqa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Apple_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "aqua tile wall",
+    "Filename": "RoomTexWallTile01",
+    "Internal ID": 4930,
+    "Unique Entry ID": "6NXvjsdpxJLbd96RM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Aqua_Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "arched-window wall",
+    "Filename": "RoomSpWallGlass00",
+    "Internal ID": 5482,
+    "Unique Entry ID": "TzS5oe6a7KyBezmLS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Arched-Window_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "autumn wall",
+    "Filename": "RoomSpWallAutumun00",
+    "Internal ID": 4905,
+    "Unique Entry ID": "KfLqJKhWtys8v86ig",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Autumn_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "backyard-fence wall",
+    "Filename": "RoomSpWallBackyard00",
+    "Internal ID": 5481,
+    "Unique Entry ID": "oPYWjEfm7BqHTYipq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Backyard-Fence_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "bamboo wall",
+    "Filename": "RoomTexWallBamboo00",
+    "Internal ID": 4833,
+    "Unique Entry ID": "MYpD6DoNCPDw6d9t3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bamboo_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "bamboo-grove wall",
+    "Filename": "RoomTexWallChikurin00",
+    "Internal ID": 4853,
+    "Unique Entry ID": "LbsrED9Rwg6SHTCpa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bamboo-Grove_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "bamboo-screen wall",
+    "Filename": "RoomTexWallRattan00",
+    "Internal ID": 4836,
+    "Unique Entry ID": "MZt39wkPG6P7iWG2M",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bamboo-Screen_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "bank-vault wall",
+    "Filename": "RoomTexWallSafeBox00",
+    "Internal ID": 4839,
+    "Unique Entry ID": "HrgjLfo8tPzP2zpbE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bank-Vault_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "basic wall",
+    "Filename": "RoomSpWallSimplePanel00",
+    "Internal ID": 5559,
+    "Unique Entry ID": "FJxKPu5W2sd2YWQfA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Basic_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "beaded-curtain wall",
+    "Filename": "RoomTexWallBeadsCurtain00",
+    "Internal ID": 4877,
+    "Unique Entry ID": "M3mNZS2vSaHaiujcH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beaded-Curtain_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "beige art-deco wall",
+    "Filename": "RoomTexWallArtDeco00",
+    "Internal ID": 4817,
+    "Unique Entry ID": "2zmJaMB2B9i8gLTKt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beige_Art-Deco_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "beige blossoming wall",
+    "Filename": "RoomTexWallCountry00",
+    "Internal ID": 4831,
+    "Unique Entry ID": "CF5325jZx7pNsqb6Z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beige_Blossoming_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "beige desert-tile wall",
+    "Filename": "RoomTexWallMorocco00",
+    "Internal ID": 4834,
+    "Unique Entry ID": "qZrgjoMjxz9ehXqa4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beige_Desert-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "black botanical-tile wall",
+    "Filename": "RoomTexWallWoodTile03",
+    "Internal ID": 6877,
+    "Unique Entry ID": "PEcX9J774Ffd6Gn8S",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black_Botanical-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "black hallway wall",
+    "Filename": "RoomTexWallHall03",
+    "Internal ID": 6862,
+    "Unique Entry ID": "pQrYRHsmovBApejNJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black_Hallway_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "black perforated-board wall",
+    "Filename": "RoomTexWallPegboard02",
+    "Internal ID": 4922,
+    "Unique Entry ID": "7fMiJATy4fWP4DpoC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black_Perforated-Board_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "black two-toned tile wall",
+    "Filename": "RoomTexWallTwoToneTile06",
+    "Internal ID": 6859,
+    "Unique Entry ID": "aF8tqscwpShhhsASx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black_Two-Toned_Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "black-brick wall",
+    "Filename": "RoomTexWallBrick02",
+    "Internal ID": 4929,
+    "Unique Entry ID": "tCex7y47sAsaD44Wm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black-Brick_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "black-crown wall",
+    "Filename": "RoomTexWallCrown01",
+    "Internal ID": 4815,
+    "Unique Entry ID": "4cCAvP8bbCYcyAyBE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black-Crown_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blackboard wall",
+    "Filename": "RoomTexWallBlackBoard00",
+    "Internal ID": 4882,
+    "Unique Entry ID": "Aseoowo4cuXJqyWaA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blackboard_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue blossoming wall",
+    "Filename": "RoomTexWallCountry02",
+    "Internal ID": 4896,
+    "Unique Entry ID": "SZWxorHWvT7vhGXsj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Blossoming_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue camo wall",
+    "Filename": "RoomTexWallCamouflage01",
+    "Internal ID": 4884,
+    "Unique Entry ID": "xQ2EDvGyh76skJyX3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Camo_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue delicate-blooms wall",
+    "Filename": "RoomTexWallManor03",
+    "Internal ID": 6852,
+    "Unique Entry ID": "7Fb4nvMvoxtCZRQv7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Delicate-Blooms_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue desert-tile wall",
+    "Filename": "RoomTexWallMorocco01",
+    "Internal ID": 4835,
+    "Unique Entry ID": "vgNuogZ2JG2eZEBni",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Desert-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue diner wall",
+    "Filename": "RoomTexWallDiner00",
+    "Internal ID": 7241,
+    "Unique Entry ID": "GjJT3k3neqwzenXku",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Diner_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue flower-print wall",
+    "Filename": "RoomTexWallFlower03",
+    "Internal ID": 6873,
+    "Unique Entry ID": "Hfm5a2EozWyQws3Tv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Flower-Print_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue heart-pattern wall",
+    "Filename": "RoomTexWallHeart00",
+    "Internal ID": 4874,
+    "Unique Entry ID": "9dXvZ4H39kton3Tcj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Heart-Pattern_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue honeycomb-tile wall",
+    "Filename": "RoomTexWallHoneycomb01",
+    "Internal ID": 4912,
+    "Unique Entry ID": "Fht6yazsmMqdtEYQb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Honeycomb-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue intricate wall",
+    "Filename": "RoomTexWallFlowerPop00",
+    "Internal ID": 4848,
+    "Unique Entry ID": "p65nAJPAzQRgrjmDk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Intricate_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue molded-panel wall",
+    "Filename": "RoomTexWallPanelMold01",
+    "Internal ID": 4871,
+    "Unique Entry ID": "NpLfp6Jj3N5SDZJGK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Molded-Panel_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue painted-wood wall",
+    "Filename": "RoomTexWallPaintWood00",
+    "Internal ID": 4948,
+    "Unique Entry ID": "taLRgdodXzdzaAqA5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Painted-Wood_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue playroom wall",
+    "Filename": "RoomTexWallToy00",
+    "Internal ID": 4888,
+    "Unique Entry ID": "GFvGWj5w9m6i5eRwu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Playroom_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue quilt wall",
+    "Filename": "RoomTexWallDollhouse01",
+    "Internal ID": 7277,
+    "Unique Entry ID": "PPTLt5GQAdAhgRkxx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Quilt_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue shanty wall",
+    "Filename": "RoomTexWallTin02",
+    "Internal ID": 4925,
+    "Unique Entry ID": "izNEFpPcp7pZaokHC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Shanty_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue simple-cloth wall",
+    "Filename": "RoomTexWallSimple03",
+    "Internal ID": 4869,
+    "Unique Entry ID": "KEN3oXsCwXwBcrfyD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Simple-Cloth_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue subway-tile wall",
+    "Filename": "RoomTexWallMetro00",
+    "Internal ID": 4940,
+    "Unique Entry ID": "mJ2HZDvnKgWB4TfXD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Subway-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue tile wall",
+    "Filename": "RoomTexWallTile03",
+    "Internal ID": 7127,
+    "Unique Entry ID": "gFc6NFYEbm8AqnpNu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue two-toned tile wall",
+    "Filename": "RoomTexWallTwoToneTile05",
+    "Internal ID": 6858,
+    "Unique Entry ID": "97tHxtBzbMechYNAe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Two-Toned_Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue-crown wall",
+    "Filename": "RoomTexWallCrown00",
+    "Internal ID": 4814,
+    "Unique Entry ID": "k3b6CntCn3X84TN8X",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue-Crown_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue-paint wall",
+    "Filename": "RoomTexWallStucco03",
+    "Internal ID": 4811,
+    "Unique Entry ID": "Pdr9WyCDQ9MBgG2qf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue-Paint_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue-rose wall",
+    "Filename": "RoomTexWallRose03",
+    "Internal ID": 6869,
+    "Unique Entry ID": "24hAjZQPsBXg3qHgw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue-Rose_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "blue-striped wall",
+    "Filename": "RoomTexWallStripe03",
+    "Internal ID": 4945,
+    "Unique Entry ID": "ZN2NXtCWSxQyeY9TF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue-Striped_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "botanical-tile wall",
+    "Filename": "RoomTexWallWoodTile02",
+    "Internal ID": 6876,
+    "Unique Entry ID": "gAvEyZiovXdKht7Db",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Botanical-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "brown botanical-tile wall",
+    "Filename": "RoomTexWallWoodTile01",
+    "Internal ID": 4827,
+    "Unique Entry ID": "FBLdaz4BkJbYvtdhy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Botanical-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "brown diner wall",
+    "Filename": "RoomTexWallDiner03",
+    "Internal ID": 7244,
+    "Unique Entry ID": "wtnNQikxNEJkL753p",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Diner_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "brown hallway wall",
+    "Filename": "RoomTexWallHall00",
+    "Internal ID": 4806,
+    "Unique Entry ID": "hFcaZ4n9ktaGNSTBE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Hallway_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "brown herringbone wall",
+    "Filename": "RoomTexWallHerringbone00",
+    "Internal ID": 4804,
+    "Unique Entry ID": "oYALopoXWt2ZRT7Ej",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Herringbone_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "brown shanty wall",
+    "Filename": "RoomTexWallTin03",
+    "Internal ID": 4926,
+    "Unique Entry ID": "MHxmHT82gP3odiLwv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Shanty_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "brown wedding wall",
+    "Filename": "RoomSpWallChurch01",
+    "Internal ID": 12468,
+    "Unique Entry ID": "micAswPDNsNS2A2mb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Wedding_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "brown-brick wall",
+    "Filename": "RoomTexWallBrick03",
+    "Internal ID": 6850,
+    "Unique Entry ID": "BE69b25WcF47xAqdG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown-Brick_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "brown-crown wall",
+    "Filename": "RoomTexWallCrown03",
+    "Internal ID": 6851,
+    "Unique Entry ID": "oL8aBjZoFCFKEEgAg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown-Crown_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day wall",
+    "Filename": "RoomTexWallEaster00",
+    "Internal ID": 5231,
+    "Unique Entry ID": "dEoSTZADDLkvmDHuY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "butterflies wall",
+    "Filename": "RoomTexWallInsect00",
+    "Internal ID": 4880,
+    "Unique Entry ID": "gJEmy4shFTnDB9Pjy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Butterflies_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "cabin wall",
+    "Filename": "RoomTexWallLog00",
+    "Internal ID": 4840,
+    "Unique Entry ID": "sAEWR5uKGAXM6utL7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cabin_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "café-curtain wall",
+    "Filename": "RoomSpWallCafe00",
+    "Internal ID": 5483,
+    "Unique Entry ID": "ficQ2fw73rzF5EJBB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Café-Curtain_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "camo wall",
+    "Filename": "RoomTexWallCamouflage00",
+    "Internal ID": 4883,
+    "Unique Entry ID": "gBLHTGPLB65iZypbn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Camo_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "chain-link fence",
+    "Filename": "RoomSpWallEmptyLot00",
+    "Internal ID": 5485,
+    "Unique Entry ID": "Qwbt8qxT8yN9XfXdR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chain-Link_Fence_(New_Horizons)"
+  },
+  {
+    "Name": "cherry wall",
+    "Filename": "RoomTexWallCherry00",
+    "Internal ID": 4919,
+    "Unique Entry ID": "tcMuDzZqtDYs29Asm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "cherry-blossom-trees wall",
+    "Filename": "RoomSpWallSakura00",
+    "Internal ID": 7205,
+    "Unique Entry ID": "LrRvk9Twg87SSqNR4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry-Blossom-Trees_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "chic tearoom wall",
+    "Filename": "RoomTexWallMud03",
+    "Internal ID": 11176,
+    "Unique Entry ID": "juLfiYnkF3x3wSAMZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chic_Tearoom_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "chic wall",
+    "Filename": "RoomTexWallClassic00",
+    "Internal ID": 4828,
+    "Unique Entry ID": "QMofvFznsaNcsDTqg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chic_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "chocolate hallway wall",
+    "Filename": "RoomTexWallHall01",
+    "Internal ID": 4807,
+    "Unique Entry ID": "WZfDqbGb3cACFJWrg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chocolate_Hallway_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "chocolate herringbone wall",
+    "Filename": "RoomTexWallHerringbone01",
+    "Internal ID": 4805,
+    "Unique Entry ID": "TpZxYjK6NorSqDMwu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chocolate_Herringbone_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "circuit-board wall",
+    "Filename": "RoomTexWallGeek00",
+    "Internal ID": 4821,
+    "Unique Entry ID": "Ms4DDtXTTGMwXdvvy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Circuit-Board_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "cityscape wall",
+    "Filename": "RoomSpWallNightView00",
+    "Internal ID": 5400,
+    "Unique Entry ID": "9B4hFDTD7xM8goPGs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cityscape_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "classic-library wall",
+    "Filename": "RoomTexWallLibrary00",
+    "Internal ID": 4837,
+    "Unique Entry ID": "YbYmnjKXc49cyT6GB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Classic-Library_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "colorful puzzle wall",
+    "Filename": "RoomTexWallPuzzle01",
+    "Internal ID": 4887,
+    "Unique Entry ID": "gpsYwFiGd3coj2eBS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Puzzle_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "colorful-tile wall",
+    "Filename": "RoomTexWallTile02",
+    "Internal ID": 4931,
+    "Unique Entry ID": "yu9xkApAW49Zhhf9i",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "common wall",
+    "Filename": "RoomTexWallCommon00",
+    "Internal ID": 4795,
+    "Unique Entry ID": "nLsLm3SoBAKtH5DmF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Common_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "concrete wall",
+    "Filename": "RoomTexWallConcrete00",
+    "Internal ID": 4890,
+    "Unique Entry ID": "jmixjxLNuH9jRQhyr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Concrete_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "construction-site wall",
+    "Filename": "RoomTexWallBlueSheet00",
+    "Internal ID": 4843,
+    "Unique Entry ID": "gDubZLr2wi622j5De",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Construction-Site_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "crepe-design wall",
+    "Filename": "RoomTexWallCrepe00",
+    "Internal ID": 4841,
+    "Unique Entry ID": "dBSCiiYyny3ReAbgo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crepe-Design_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "cute blue wall",
+    "Filename": "RoomTexWallCute02",
+    "Internal ID": 7217,
+    "Unique Entry ID": "KFhQNtCs6tx9sj7dy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Blue_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "cute red wall",
+    "Filename": "RoomTexWallCute01",
+    "Internal ID": 7216,
+    "Unique Entry ID": "qYZyrdquxzvHErF5n",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Red_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "cute white wall",
+    "Filename": "RoomTexWallCute00",
+    "Internal ID": 7215,
+    "Unique Entry ID": "McKcAab2qjAaviYvA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_White_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "cute yellow wall",
+    "Filename": "RoomTexWallCute03",
+    "Internal ID": 7218,
+    "Unique Entry ID": "6j8PFwiuCwkN7GP5b",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Yellow_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "dark wooden-mosaic wall",
+    "Filename": "RoomTexWallMixPlankWood01",
+    "Internal ID": 4860,
+    "Unique Entry ID": "zZ6oMsuRibBQMkCA7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Wooden-Mosaic_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "dark-chocolate wall",
+    "Filename": "RoomTexWallChocolate00",
+    "Internal ID": 4932,
+    "Unique Entry ID": "MWLvj23WuHrEJkMjk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark-Chocolate_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "desert vista",
+    "Filename": "RoomSpWallDesert00",
+    "Internal ID": 5488,
+    "Unique Entry ID": "o45mte3eFoaM3ts98",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Desert_Vista_(New_Horizons)"
+  },
+  {
+    "Name": "dig-site wall",
+    "Filename": "RoomTexWallStratum00",
+    "Internal ID": 5222,
+    "Unique Entry ID": "Rj3X2dJ5WfYu3wpMP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dig-Site_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "dirt-clod wall",
+    "Filename": "RoomTexWallOldSoil00",
+    "Internal ID": 4856,
+    "Unique Entry ID": "LCJDGnfwuHqkgfxJB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dirt-Clod_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "dojo wall",
+    "Filename": "RoomTexWallBaseboards00",
+    "Internal ID": 5227,
+    "Unique Entry ID": "sLYrC9TRZJDMCZjM6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dojo_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "dungeon wall",
+    "Filename": "RoomSpWallJail00",
+    "Internal ID": 5509,
+    "Unique Entry ID": "zcHJb34EruL2Szn87",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dungeon_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "exquisite wall",
+    "Filename": "RoomTexWallChina00",
+    "Internal ID": 4866,
+    "Unique Entry ID": "TPZRP5K6z87YHs6TC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Exquisite_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "fireworks-show wall",
+    "Filename": "RoomSpWallFireworks00",
+    "Internal ID": 13230,
+    "Unique Entry ID": "poLXZmMTa2bYsAYpe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fireworks-Show_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "forest wall",
+    "Filename": "RoomTexWallMushForest00",
+    "Internal ID": 7187,
+    "Unique Entry ID": "ogwkK7pveFmag6MXj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Forest_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "future-tech wall",
+    "Filename": "RoomSpWallTechnology00",
+    "Internal ID": 5494,
+    "Unique Entry ID": "JawM9P46KeFwGXdsm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Future-Tech_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "garbage-heap wall",
+    "Filename": "RoomTexWallGarbage00",
+    "Internal ID": 5229,
+    "Unique Entry ID": "KfoTScCc4NZruFYd8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Garbage-Heap_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "gold-screen wall",
+    "Filename": "RoomTexWallFusumaGorgeous00",
+    "Internal ID": 4820,
+    "Unique Entry ID": "CucFATJt8EtZmbKFX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gold-Screen_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "golden wall",
+    "Filename": "RoomTexWallGold00",
+    "Internal ID": 4894,
+    "Unique Entry ID": "uyLj28ErYLEjpYzEF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "gray diner wall",
+    "Filename": "RoomTexWallDiner02",
+    "Internal ID": 7243,
+    "Unique Entry ID": "eTcpWCGHCzsdGRs7k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gray_Diner_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "gray molded-panel wall",
+    "Filename": "RoomTexWallPanelMold02",
+    "Internal ID": 4872,
+    "Unique Entry ID": "49g9WCb7cvS8kpqDF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gray_Molded-Panel_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "gray shanty wall",
+    "Filename": "RoomTexWallTin00",
+    "Internal ID": 4923,
+    "Unique Entry ID": "7uz4sbe5zSfsa8PqK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gray_Shanty_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "gray-striped wall",
+    "Filename": "RoomTexWallStripe02",
+    "Internal ID": 4944,
+    "Unique Entry ID": "xWHnQXK7duTWZ8GrD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gray-Striped_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green blossoming wall",
+    "Filename": "RoomTexWallCountry03",
+    "Internal ID": 4903,
+    "Unique Entry ID": "ZPCtPY4gYYKPn7ipQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Blossoming_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green delicate-blooms wall",
+    "Filename": "RoomTexWallManor02",
+    "Internal ID": 4898,
+    "Unique Entry ID": "rsBmsGkcmQYWzEivw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Delicate-Blooms_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green flower-print wall",
+    "Filename": "RoomTexWallFlower01",
+    "Internal ID": 4935,
+    "Unique Entry ID": "oYN6MCEQENZymoKdm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Flower-Print_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green honeycomb-tile wall",
+    "Filename": "RoomTexWallHoneycomb02",
+    "Internal ID": 4913,
+    "Unique Entry ID": "Aws33pgNCEygKeaB4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Honeycomb-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green intricate wall",
+    "Filename": "RoomTexWallFlowerPop02",
+    "Internal ID": 6878,
+    "Unique Entry ID": "hD6uCKiZPpJC6eqom",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Intricate_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green molded-panel wall",
+    "Filename": "RoomTexWallPanelMold03",
+    "Internal ID": 6854,
+    "Unique Entry ID": "L5cttCqv5dPEpZNwm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Molded-Panel_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green painted-wood wall",
+    "Filename": "RoomTexWallPaintWood01",
+    "Internal ID": 4949,
+    "Unique Entry ID": "wDrM2ExdLkKTKohtr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Painted-Wood_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green playroom wall",
+    "Filename": "RoomTexWallToy02",
+    "Internal ID": 6866,
+    "Unique Entry ID": "hrZPmBpEgQ8SZm2oe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Playroom_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green wedding wall",
+    "Filename": "RoomSpWallChurch02",
+    "Internal ID": 12469,
+    "Unique Entry ID": "WvGCWHyf2NKwuiZ7Z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Wedding_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "green-paint wall",
+    "Filename": "RoomTexWallStucco04",
+    "Internal ID": 4812,
+    "Unique Entry ID": "3ZHQo8e8Wqgw4cpwy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green-Paint_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "groovy wall",
+    "Filename": "RoomTexWallPsyche00",
+    "Internal ID": 4846,
+    "Unique Entry ID": "gt5Bv4qHoaZ9QCyj4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Groovy_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "harmonious wall",
+    "Filename": "RoomTexWallOriental00",
+    "Internal ID": 11180,
+    "Unique Entry ID": "uCzqeq8GvfKRsWRd4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Harmonious_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "heavy-curtain wall",
+    "Filename": "RoomTexWallThickCurtain00",
+    "Internal ID": 4878,
+    "Unique Entry ID": "mKPtEN398qGZ7Yryu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heavy-Curtain_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "honeycomb wall",
+    "Filename": "RoomTexWallHoney00",
+    "Internal ID": 4865,
+    "Unique Entry ID": "hB3LqvkNidDmzrZ8z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Honeycomb_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "honeycomb-tile wall",
+    "Filename": "RoomTexWallHoneycomb00",
+    "Internal ID": 4909,
+    "Unique Entry ID": "S3bCMm6KGHKF6Ynzg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Honeycomb-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "ice wall",
+    "Filename": "RoomSpWallIce00",
+    "Internal ID": 5505,
+    "Unique Entry ID": "d84Y3R4CzrtjCasov",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ice_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "iceberg wall",
+    "Filename": "RoomTexWallIceFloe00",
+    "Internal ID": 5662,
+    "Unique Entry ID": "XqrwARWP9bzsmsjiF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iceberg_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "imperial wall",
+    "Filename": "RoomTexWallDynasty00",
+    "Internal ID": 5224,
+    "Unique Entry ID": "YkuzvDjqXDB9CYHhm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Imperial_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "industrial wall",
+    "Filename": "RoomTexWallFactory00",
+    "Internal ID": 4876,
+    "Unique Entry ID": "ao5GCHQqnwssDNRGN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Industrial_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "ivy wall",
+    "Filename": "RoomTexWallIvy00",
+    "Internal ID": 4850,
+    "Unique Entry ID": "t6XmWqkyhZt8Axyeh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ivy_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "Jingle wall",
+    "Filename": "RoomSpWallXmas00",
+    "Internal ID": 5230,
+    "Unique Entry ID": "ZjBHKK8ckePAaKpxe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jingle_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "jungle wall",
+    "Filename": "RoomTexWallJungle00",
+    "Internal ID": 5457,
+    "Unique Entry ID": "pJFdFWHgQRiYAn67i",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jungle_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "kisses wall",
+    "Filename": "RoomTexWallKiss00",
+    "Internal ID": 4881,
+    "Unique Entry ID": "ZeuGwoWptbyaQDsbu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kisses_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "laboratory wall",
+    "Filename": "RoomSpWallLabo00",
+    "Internal ID": 5495,
+    "Unique Entry ID": "kNrqC5Xs7RFybYfkN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Laboratory_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "lattice wall",
+    "Filename": "RoomTexWallLattice00",
+    "Internal ID": 4830,
+    "Unique Entry ID": "ZQFuCuh6fdtufMYzs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lattice_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "magma-cavern wall",
+    "Filename": "RoomSpWallVolcano00",
+    "Internal ID": 5506,
+    "Unique Entry ID": "ugvpYYqX4F9bgLbnj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Magma-Cavern_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "manga-library wall",
+    "Filename": "RoomTexWallLibrary01",
+    "Internal ID": 4838,
+    "Unique Entry ID": "wRBeXRoDHw6Curx44",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Manga-Library_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "mangrove wall",
+    "Filename": "RoomTexWallMangrove00",
+    "Internal ID": 5514,
+    "Unique Entry ID": "j8cYo8ozHYBaAm3JH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mangrove_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "marine pop wall",
+    "Filename": "RoomTexWallFish00",
+    "Internal ID": 4879,
+    "Unique Entry ID": "DmheJHpCg6xk8dX3R",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Marine_Pop_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "meadow vista",
+    "Filename": "RoomSpWallHighLands00",
+    "Internal ID": 5484,
+    "Unique Entry ID": "QdWj45HftWrWwC3dH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Meadow_Vista_(New_Horizons)"
+  },
+  {
+    "Name": "mermaid wall",
+    "Filename": "RoomSpWallMermaid00",
+    "Internal ID": 12566,
+    "Unique Entry ID": "MP44TSDm3ADQzbMq2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mermaid_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "misty-garden wall",
+    "Filename": "RoomSpWallRain00",
+    "Internal ID": 11915,
+    "Unique Entry ID": "hgiWgFTr76YtZH8sH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Misty-Garden_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "mod wall",
+    "Filename": "RoomTexWallMod00",
+    "Internal ID": 4908,
+    "Unique Entry ID": "Tiya4QoMRwThyKcG8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mod_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "modern shoji-screen wall",
+    "Filename": "RoomSpWallShojiModem00",
+    "Internal ID": 4864,
+    "Unique Entry ID": "WBh8T7xJBavLRKZpB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Modern_Shoji-Screen_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "modern tearoom wall",
+    "Filename": "RoomTexWallMud02",
+    "Internal ID": 11178,
+    "Unique Entry ID": "Yk5NZC7SSyjDEpnA7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Modern_Tearoom_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "modern wood wall",
+    "Filename": "RoomTexWallMixwood00",
+    "Internal ID": 4904,
+    "Unique Entry ID": "KZjTLMR8uhbpJGQ64",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Modern_Wood_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "monochromatic dotted wall",
+    "Filename": "RoomTexWallDot00",
+    "Internal ID": 4892,
+    "Unique Entry ID": "SWkrbmL8ME6NeQd9Q",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monochromatic_Dotted_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "monochromatic-tile wall",
+    "Filename": "RoomTexWallTile00",
+    "Internal ID": 4910,
+    "Unique Entry ID": "6pk8nNbm4EmT3PrBr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monochromatic-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "mortar wall",
+    "Filename": "RoomTexWallPlaster00",
+    "Internal ID": 5215,
+    "Unique Entry ID": "mfRLEniEAEB9YAjCY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mortar_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "mosaic-tile wall",
+    "Filename": "RoomTexWallMosaicTile00",
+    "Internal ID": 4862,
+    "Unique Entry ID": "2T8d9sRKwijHhESDS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mosaic-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "mossy-garden wall",
+    "Filename": "RoomTexWallMoss00",
+    "Internal ID": 5458,
+    "Unique Entry ID": "nuuPHdxH5skMPdehs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mossy-Garden_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "mush wall",
+    "Filename": "RoomTexWallMush00",
+    "Internal ID": 5164,
+    "Unique Entry ID": "6xJHWgQgJA9e2n4jJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mush_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. wall",
+    "Filename": "RoomTexWallFirst00",
+    "Internal ID": 6004,
+    "Unique Entry ID": "e7uEC5di7XvHpvkuk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Wall_(New_Horizons)"
+  },
+  {
+    "Name": "ocean-horizon wall",
+    "Filename": "RoomSpWallHorizon00",
+    "Internal ID": 5486,
+    "Unique Entry ID": "BYpn3AZyJ8PWCAxHj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ocean-Horizon_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "office wall",
+    "Filename": "RoomTexWallOffice00",
+    "Internal ID": 5218,
+    "Unique Entry ID": "gSMtrRvmA9mYgtKtD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Office_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "old wallpaper",
+    "Filename": "RoomTexWallOld00",
+    "Internal ID": 4857,
+    "Unique Entry ID": "LvLyyhmz3TH3qjBi4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Old_Wallpaper_(New_Horizons)"
+  },
+  {
+    "Name": "olive desert-tile wall",
+    "Filename": "RoomTexWallMorocco03",
+    "Internal ID": 6863,
+    "Unique Entry ID": "z5bNEBbKNL56CwQKo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Olive_Desert-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "orange camo wall",
+    "Filename": "RoomTexWallCamouflage03",
+    "Internal ID": 6855,
+    "Unique Entry ID": "xiaFSrf6okC624pCz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange_Camo_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "orange molded-panel wall",
+    "Filename": "RoomTexWallPanelMold00",
+    "Internal ID": 4870,
+    "Unique Entry ID": "zW3vwqmKDGhK68rCJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange_Molded-Panel_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "orange wall",
+    "Filename": "RoomTexWallOrange00",
+    "Internal ID": 4915,
+    "Unique Entry ID": "4GirW6p4notkWfhs7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "orange-paint wall",
+    "Filename": "RoomTexWallStucco01",
+    "Internal ID": 4809,
+    "Unique Entry ID": "TFsdbmb9sti7Gz3pt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange-Paint_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "paintball wall",
+    "Filename": "RoomTexWallAtelier00",
+    "Internal ID": 4854,
+    "Unique Entry ID": "qnE76Sd6WdnihirBL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paintball_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "palace wall",
+    "Filename": "RoomSpWallPalace00",
+    "Internal ID": 5502,
+    "Unique Entry ID": "fGigBL7P6sRsv25Au",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Palace_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "party wall",
+    "Filename": "RoomTexWallParty00",
+    "Internal ID": 5226,
+    "Unique Entry ID": "9v4H4NeFMQR9tKLj7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Party_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pastel dotted wall",
+    "Filename": "RoomTexWallDot01",
+    "Internal ID": 4899,
+    "Unique Entry ID": "m4ha6kr7tPuio5AcL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pastel_Dotted_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pastel puzzle wall",
+    "Filename": "RoomTexWallPuzzle00",
+    "Internal ID": 4886,
+    "Unique Entry ID": "b3EvGiavTx8QPHrfP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pastel_Puzzle_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "peach two-toned tile wall",
+    "Filename": "RoomTexWallTwoToneTile04",
+    "Internal ID": 6857,
+    "Unique Entry ID": "m9bGMPzT4cjdMddyY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peach_Two-Toned_Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "peach wall",
+    "Filename": "RoomTexWallPeach00",
+    "Internal ID": 4918,
+    "Unique Entry ID": "cpGXBrDm4SXGAXraz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peach_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pear wall",
+    "Filename": "RoomTexWallPear00",
+    "Internal ID": 4917,
+    "Unique Entry ID": "vtaaw7vsoJD8meQuM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pear_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "perforated-board wall",
+    "Filename": "RoomTexWallPegboard01",
+    "Internal ID": 4921,
+    "Unique Entry ID": "BThQrmfp4EnBqyfv3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Perforated-Board_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink blossoming wall",
+    "Filename": "RoomTexWallCountry01",
+    "Internal ID": 4895,
+    "Unique Entry ID": "zgZSrtarnCJG53AdD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Blossoming_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink diner wall",
+    "Filename": "RoomTexWallDiner01",
+    "Internal ID": 7242,
+    "Unique Entry ID": "MXeKHor4q66HH3GJs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Diner_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink flower-print wall",
+    "Filename": "RoomTexWallFlower00",
+    "Internal ID": 4893,
+    "Unique Entry ID": "eCN5rZb7sXsoWSCmW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Flower-Print_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink heart-pattern wall",
+    "Filename": "RoomTexWallHeart01",
+    "Internal ID": 4875,
+    "Unique Entry ID": "4f732CJdDvXxHDQsd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Heart-Pattern_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink painted-wood wall",
+    "Filename": "RoomTexWallPaintWood02",
+    "Internal ID": 4802,
+    "Unique Entry ID": "tjx2TsuHTcr4jaMHM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Painted-Wood_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink playroom wall",
+    "Filename": "RoomTexWallToy01",
+    "Internal ID": 4889,
+    "Unique Entry ID": "xYNWemEyTsD9zG8iC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Playroom_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink quilt wall",
+    "Filename": "RoomTexWallDollhouse00",
+    "Internal ID": 7274,
+    "Unique Entry ID": "gToedZLPo7MbMvpah",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Quilt_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink shanty wall",
+    "Filename": "RoomTexWallTin01",
+    "Internal ID": 4924,
+    "Unique Entry ID": "WfmPknxrLpp25SMbS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Shanty_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink simple-cloth wall",
+    "Filename": "RoomTexWallSimple02",
+    "Internal ID": 4868,
+    "Unique Entry ID": "mH2zs7NpfPgERmHwm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Simple-Cloth_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink-crown wall",
+    "Filename": "RoomTexWallCrown02",
+    "Internal ID": 4816,
+    "Unique Entry ID": "cwBg3xvzjfh2qm7Lg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink-Crown_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pink-striped wall",
+    "Filename": "RoomTexWallStripe01",
+    "Internal ID": 4943,
+    "Unique Entry ID": "Pwd2z87xxFm52tA28",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink-Striped_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "pirate wall",
+    "Filename": "RoomSpWallPirates00",
+    "Internal ID": 12567,
+    "Unique Entry ID": "DydGczJz6fqyAZJuA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "purple camo wall",
+    "Filename": "RoomTexWallCamouflage02",
+    "Internal ID": 4885,
+    "Unique Entry ID": "AY2jSyyAd4BD74xQ7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Camo_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "purple desert-tile wall",
+    "Filename": "RoomTexWallMorocco02",
+    "Internal ID": 6864,
+    "Unique Entry ID": "2y5jPPPs3so7APToC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Desert-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "purple dotted wall",
+    "Filename": "RoomTexWallDot04",
+    "Internal ID": 4902,
+    "Unique Entry ID": "JRu4Xs5kYG4ognk2P",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Dotted_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "purple puzzle wall",
+    "Filename": "RoomTexWallPuzzle03",
+    "Internal ID": 6875,
+    "Unique Entry ID": "iG8MR3f2F2jDsLjT9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Puzzle_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "purple quilt wall",
+    "Filename": "RoomTexWallDollhouse03",
+    "Internal ID": 7275,
+    "Unique Entry ID": "tmY5uczEnYXA6fdeQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Quilt_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "purple-rose wall",
+    "Filename": "RoomTexWallRose01",
+    "Internal ID": 4907,
+    "Unique Entry ID": "kHEHhFZSfDXTHtZAa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple-Rose_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "rammed-earth wall",
+    "Filename": "RoomTexWallHanchiku00",
+    "Internal ID": 4845,
+    "Unique Entry ID": "9AafcLh3QkLp2tdWj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rammed-Earth_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "ramshackle wall",
+    "Filename": "RoomTexWallRuins00",
+    "Internal ID": 5225,
+    "Unique Entry ID": "bTb98gEchXobwaqdt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ramshackle_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "red art-deco wall",
+    "Filename": "RoomTexWallArtDeco01",
+    "Internal ID": 4818,
+    "Unique Entry ID": "R3zgKkrxc3ar4y9A8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Art-Deco_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "red delicate-blooms wall",
+    "Filename": "RoomTexWallManor01",
+    "Internal ID": 4897,
+    "Unique Entry ID": "F7oWFwEAh4evtkJcb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Delicate-Blooms_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "red dotted wall",
+    "Filename": "RoomTexWallDot02",
+    "Internal ID": 4900,
+    "Unique Entry ID": "3mfqbt8sXR88eDfTk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Dotted_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "red heart-pattern wall",
+    "Filename": "RoomTexWallHeart03",
+    "Internal ID": 6870,
+    "Unique Entry ID": "TPrtAkkWJa7KpLady",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Heart-Pattern_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "red intricate wall",
+    "Filename": "RoomTexWallFlowerPop03",
+    "Internal ID": 6879,
+    "Unique Entry ID": "yasngHr44QgXc9tYs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Intricate_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "red perforated-board wall",
+    "Filename": "RoomTexWallPegboard03",
+    "Internal ID": 6853,
+    "Unique Entry ID": "TCLSE3BdkCQeiM7wX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Perforated-Board_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "red two-toned tile wall",
+    "Filename": "RoomTexWallTwoToneTile03",
+    "Internal ID": 6856,
+    "Unique Entry ID": "u9dKmtft32t4cxxiW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Two-Toned_Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "red-brick wall",
+    "Filename": "RoomTexWallBrick01",
+    "Internal ID": 4928,
+    "Unique Entry ID": "Hu3jyiCP23j78PCdX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red-Brick_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "retro flower-print wall",
+    "Filename": "RoomTexWallKitsch00",
+    "Internal ID": 4847,
+    "Unique Entry ID": "MdWwebM7zyeBdykxp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Flower-Print_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "rice-paddy wall",
+    "Filename": "RoomSpWallFarm00",
+    "Internal ID": 5487,
+    "Unique Entry ID": "TnHvGeJGKioxc95mH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rice-Paddy_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "ringside seating",
+    "Filename": "RoomSpWallWrestling00",
+    "Internal ID": 5512,
+    "Unique Entry ID": "bg9rQRYAbzeD8rLCw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ringside_Seating_(New_Horizons)"
+  },
+  {
+    "Name": "rock-climbing wall",
+    "Filename": "RoomTexWallBouldering00",
+    "Internal ID": 4851,
+    "Unique Entry ID": "CRvqDNWfXzY2ibXvG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rock-Climbing_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "rose wall",
+    "Filename": "RoomTexWallRose00",
+    "Internal ID": 4906,
+    "Unique Entry ID": "azgSWFRcgeuopRWrH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rose_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "ruins wall",
+    "Filename": "RoomTexWallRemains00",
+    "Internal ID": 5228,
+    "Unique Entry ID": "ZHiKhqts5brebhYH9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ruins_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "rustic-stone wall",
+    "Filename": "RoomTexWallStone00",
+    "Internal ID": 4813,
+    "Unique Entry ID": "xP7S673w2oNwNHowp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rustic-Stone_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "sakura-wood wall",
+    "Filename": "RoomTexWallSolidWood00",
+    "Internal ID": 4947,
+    "Unique Entry ID": "jFtMrj8NBC3o4ALzG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sakura-Wood_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "sci-fi wall",
+    "Filename": "RoomSpWallSF00",
+    "Internal ID": 5510,
+    "Unique Entry ID": "y48TLWMbXCbrWQp5a",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sci-Fi_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "screen wall",
+    "Filename": "RoomTexWallFusuma00",
+    "Internal ID": 4819,
+    "Unique Entry ID": "wk4ST89FjabXnZPXy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Screen_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "sea view",
+    "Filename": "RoomSpWallSeaView00",
+    "Internal ID": 5501,
+    "Unique Entry ID": "fHQn9EzoTxznm7nJ9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sea_View_(New_Horizons)"
+  },
+  {
+    "Name": "security-monitors wall",
+    "Filename": "RoomSpWallMonitor00",
+    "Internal ID": 5491,
+    "Unique Entry ID": "N6T3rBvQdYoJoXkrH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Security-Monitors_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "sepia puzzle wall",
+    "Filename": "RoomTexWallPuzzle02",
+    "Internal ID": 6874,
+    "Unique Entry ID": "2mtYv7D25wDqMWi6P",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sepia_Puzzle_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "server-room wall",
+    "Filename": "RoomSpWallServer00",
+    "Internal ID": 5490,
+    "Unique Entry ID": "ycnhxNaWfeXEq5x7A",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Server-Room_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "shoji screen",
+    "Filename": "RoomSpWallShoji00",
+    "Internal ID": 4863,
+    "Unique Entry ID": "5RdqeAZAvdCR5QxqM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shoji_Screen_(New_Horizons)"
+  },
+  {
+    "Name": "shutter wall",
+    "Filename": "RoomTexWallShutter00",
+    "Internal ID": 4825,
+    "Unique Entry ID": "4ez74JDpR9kmiroQr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shutter_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "ski-slope wall",
+    "Filename": "RoomSpWallGelande00",
+    "Internal ID": 5498,
+    "Unique Entry ID": "hCdDcFDBWEe6pmctp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski-Slope_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "skull wall",
+    "Filename": "RoomSpWallSkull00",
+    "Internal ID": 5520,
+    "Unique Entry ID": "7GLt2YDxMDyp8EJth",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Skull_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "sky wall",
+    "Filename": "RoomSpWallCloud00",
+    "Internal ID": 5504,
+    "Unique Entry ID": "9YmTrPqSZRCvxRtLi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sky_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "skyscraper wall",
+    "Filename": "RoomTexWallSkyscraper00",
+    "Internal ID": 4852,
+    "Unique Entry ID": "Ah36ZRM9QBHBt7HZF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Skyscraper_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "snowflake wall",
+    "Filename": "RoomTexWallSnowCrystal00",
+    "Internal ID": 4855,
+    "Unique Entry ID": "w5MEjbgphAwDo42mk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snowflake_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "soothing tearoom wall",
+    "Filename": "RoomTexWallMud01",
+    "Internal ID": 11177,
+    "Unique Entry ID": "Bke28iGoY3LhDagx4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Soothing_Tearoom_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "spooky wall",
+    "Filename": "RoomTexWallHalloween00",
+    "Internal ID": 13224,
+    "Unique Entry ID": "hD6Y9zX2se2nKpxWy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spooky_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "stacked-wood wall",
+    "Filename": "RoomTexWallFireWood00",
+    "Internal ID": 4844,
+    "Unique Entry ID": "TZi9bo7GYzJxPJNNe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stacked-Wood_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "stadium wall",
+    "Filename": "RoomSpWallStadium00",
+    "Internal ID": 5503,
+    "Unique Entry ID": "oJoGTXMzLnYTpdBaf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stadium_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "standard tearoom wall",
+    "Filename": "RoomTexWallMud00",
+    "Internal ID": 5521,
+    "Unique Entry ID": "4Zv8KLzxrsm6k53pN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Standard_Tearoom_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "starry wall",
+    "Filename": "RoomSpWallStarPrint00",
+    "Internal ID": 5528,
+    "Unique Entry ID": "sjnLXANKDEPMzdGbn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Starry_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "starry-sky wall",
+    "Filename": "RoomSpWallStarSky00",
+    "Internal ID": 5500,
+    "Unique Entry ID": "iMQgW8pWYPWbj9Qom",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Starry-Sky_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "stately wall",
+    "Filename": "RoomTexWallRenaissance00",
+    "Internal ID": 4861,
+    "Unique Entry ID": "BdPATBHc8m7YvJzwP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stately_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "steel-frame wall",
+    "Filename": "RoomTexWallSteel00",
+    "Internal ID": 4801,
+    "Unique Entry ID": "K2uSKanJ3r6bQt6MG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Steel-Frame_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "stone wall",
+    "Filename": "RoomTexWallBasement00",
+    "Internal ID": 5216,
+    "Unique Entry ID": "8hnPcADHfoEpvgSAS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stone_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "stormy-night wall",
+    "Filename": "RoomSpWallThunder00",
+    "Internal ID": 5499,
+    "Unique Entry ID": "Y3sjyMeHtDFcdBfrM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stormy-Night_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "straw wall",
+    "Filename": "RoomTexWallStraw00",
+    "Internal ID": 5217,
+    "Unique Entry ID": "u3orRaGAX2iwdtCLG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Straw_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "strawberry-chocolate wall",
+    "Filename": "RoomTexWallChocolate02",
+    "Internal ID": 4934,
+    "Unique Entry ID": "G5QeNa2L26MwuCexA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Strawberry-Chocolate_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "street-art wall",
+    "Filename": "RoomTexWallStreetArt00",
+    "Internal ID": 5221,
+    "Unique Entry ID": "88hCuytidryqimPXr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Street-Art_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "summit wall",
+    "Filename": "RoomSpWallMountainTop00",
+    "Internal ID": 5513,
+    "Unique Entry ID": "hFmF2iNjDvLGfF3Rf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Summit_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "tree-lined wall",
+    "Filename": "RoomTexWallRoadsideTree00",
+    "Internal ID": 5456,
+    "Unique Entry ID": "aLzrLXC7Nyk6h6pDw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tree-Lined_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "tropical vista",
+    "Filename": "RoomSpWallTropical00",
+    "Internal ID": 5661,
+    "Unique Entry ID": "sZgNFwEcxpLSAxB4X",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tropical_Vista_(New_Horizons)"
+  },
+  {
+    "Name": "underwater wall",
+    "Filename": "RoomSpWallFishTank00",
+    "Internal ID": 5508,
+    "Unique Entry ID": "QXNnruZcwJursNmjP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Underwater_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "wavy-tile wall",
+    "Filename": "RoomTexWallWaveTile00",
+    "Internal ID": 4832,
+    "Unique Entry ID": "eLQ2JDZKjrzcnP9gn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wavy-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "wedding-party wall",
+    "Filename": "RoomTexWallJuneBride00",
+    "Internal ID": 12461,
+    "Unique Entry ID": "xT6kyFtbGPpR8nRM3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wedding-Party_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "western vista",
+    "Filename": "RoomSpWallWilderness00",
+    "Internal ID": 5489,
+    "Unique Entry ID": "tYFKmm4XzGGGQAcfG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Western_Vista_(New_Horizons)"
+  },
+  {
+    "Name": "white botanical-tile wall",
+    "Filename": "RoomTexWallWoodTile00",
+    "Internal ID": 4826,
+    "Unique Entry ID": "QyrvwKiKMmNvm7KxR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Botanical-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white delicate-blooms wall",
+    "Filename": "RoomTexWallManor00",
+    "Internal ID": 4891,
+    "Unique Entry ID": "ZDpt8b6TTGr2hihP5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Delicate-Blooms_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white hallway wall",
+    "Filename": "RoomTexWallHall02",
+    "Internal ID": 6861,
+    "Unique Entry ID": "HZoM3iHpKrQPBK2Gh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Hallway_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white honeycomb-tile wall",
+    "Filename": "RoomTexWallHoneycomb03",
+    "Internal ID": 4914,
+    "Unique Entry ID": "K8mdzBZZeBLxZEAzZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Honeycomb-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white painted-wood wall",
+    "Filename": "RoomTexWallPaintWood03",
+    "Internal ID": 4803,
+    "Unique Entry ID": "cN4bnHaw4mruhnMZk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Painted-Wood_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white perforated-board wall",
+    "Filename": "RoomTexWallPegboard00",
+    "Internal ID": 4920,
+    "Unique Entry ID": "krohWS7x49N2hCKrF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Perforated-Board_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white simple-cloth wall",
+    "Filename": "RoomTexWallSimple00",
+    "Internal ID": 4939,
+    "Unique Entry ID": "z2Zh2fzFwCbvMDm8J",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Simple-Cloth_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white subway-tile wall",
+    "Filename": "RoomTexWallMetro01",
+    "Internal ID": 4941,
+    "Unique Entry ID": "ajXm5zy9pwf7XEyHF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Subway-Tile_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white wedding wall",
+    "Filename": "RoomSpWallChurch00",
+    "Internal ID": 12466,
+    "Unique Entry ID": "mKuptCLkH2MknX2PN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Wedding_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white-brick wall",
+    "Filename": "RoomTexWallBrick00",
+    "Internal ID": 4927,
+    "Unique Entry ID": "htjwxjceb2hc6GxjX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White-Brick_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white-chocolate wall",
+    "Filename": "RoomTexWallChocolate01",
+    "Internal ID": 4933,
+    "Unique Entry ID": "6qMhFdc2nDSvJSCfT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White-Chocolate_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "white-rose wall",
+    "Filename": "RoomTexWallRose02",
+    "Internal ID": 6868,
+    "Unique Entry ID": "yksDvcnnKqM7tnzas",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White-Rose_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "wild-wood wall",
+    "Filename": "RoomTexWallWildWood00",
+    "Internal ID": 4858,
+    "Unique Entry ID": "vhJr7B96SnG3xQQCs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wild-Wood_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "wooden-knot wall",
+    "Filename": "RoomTexWallCedar00",
+    "Internal ID": 4911,
+    "Unique Entry ID": "puQYs9hygxfcQWsjt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden-Knot_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "wooden-mosaic wall",
+    "Filename": "RoomTexWallMixPlankWood00",
+    "Internal ID": 4859,
+    "Unique Entry ID": "RgzoarteJyzD4xSAm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden-Mosaic_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "woodland wall",
+    "Filename": "RoomTexWallJukai00",
+    "Internal ID": 5223,
+    "Unique Entry ID": "2B4YTYqnm64vgANY4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Woodland_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "yellow flower-print wall",
+    "Filename": "RoomTexWallFlower02",
+    "Internal ID": 6872,
+    "Unique Entry ID": "esknqzcAenk8uqzYk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Flower-Print_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "yellow heart-pattern wall",
+    "Filename": "RoomTexWallHeart02",
+    "Internal ID": 6871,
+    "Unique Entry ID": "BqWMEqc2tL8CnPAmd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Heart-Pattern_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "yellow intricate wall",
+    "Filename": "RoomTexWallFlowerPop01",
+    "Internal ID": 4849,
+    "Unique Entry ID": "FrZas8MjMdjDTPvkX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Intricate_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "yellow playroom wall",
+    "Filename": "RoomTexWallToy03",
+    "Internal ID": 6865,
+    "Unique Entry ID": "mraytANoYBQvA8qAk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Playroom_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "yellow quilt wall",
+    "Filename": "RoomTexWallDollhouse02",
+    "Internal ID": 7276,
+    "Unique Entry ID": "ysEdh2vpCpg5qBcNg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Quilt_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "yellow simple-cloth wall",
+    "Filename": "RoomTexWallSimple01",
+    "Internal ID": 4867,
+    "Unique Entry ID": "7sSXFNqcYgPMcGY8k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Simple-Cloth_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "yellow-paint wall",
+    "Filename": "RoomTexWallStucco00",
+    "Internal ID": 4808,
+    "Unique Entry ID": "TySAA4kKqyvGGeZ5C",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow-Paint_Wall_(New_Horizons)"
+  },
+  {
+    "Name": "yellow-striped wall",
+    "Filename": "RoomTexWallStripe04",
+    "Internal ID": 4946,
+    "Unique Entry ID": "N6sef3YhY973LDgdR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow-Striped_Wall_(New_Horizons)"
+  }
+]

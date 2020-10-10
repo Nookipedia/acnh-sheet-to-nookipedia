@@ -1,0 +1,548 @@
+[
+  {
+    "Name": "antique boots",
+    "Internal ID": 11689,
+    "Unique Entry ID": "hpTunJzb4CJPueMW7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Antique_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "armor shoes",
+    "Internal ID": 5472,
+    "Unique Entry ID": "osBLFxSiCDnRf8eXR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Armor_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "babouches",
+    "Internal ID": 10112,
+    "Unique Entry ID": "N9jHqLCE8WsfZxJHo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Babouches_(New_Horizons)"
+  },
+  {
+    "Name": "ballet slippers",
+    "Internal ID": 10158,
+    "Unique Entry ID": "oQNLiop5Do6CH5eTu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ballet_Slippers_(New_Horizons)"
+  },
+  {
+    "Name": "basketball shoes",
+    "Internal ID": 5638,
+    "Unique Entry ID": "7xRWZmoxAaCxRYMuJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Basketball_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "beaded sandals",
+    "Internal ID": 10139,
+    "Unique Entry ID": "ukMZbdaNwYXQgdzEJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beaded_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "boots",
+    "Internal ID": 11685,
+    "Unique Entry ID": "ffPXk8bFosbBzhxRo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Boots_(New_Horizons)"
+  },
+  {
+    "Name": "business shoes",
+    "Internal ID": 4730,
+    "Unique Entry ID": "JxbjRNkGXgodBD8P7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Business_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "cleats",
+    "Internal ID": 10248,
+    "Unique Entry ID": "Pr3hHw8YguTL57DwF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cleats_(New_Horizons)"
+  },
+  {
+    "Name": "comfy sandals",
+    "Internal ID": 10700,
+    "Unique Entry ID": "7qmEHHQRDzoZwjzqi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Comfy_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "cowboy boots",
+    "Internal ID": 11254,
+    "Unique Entry ID": "xv62ZghErnQR8Q73m",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cowboy_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "cross-belt sandals",
+    "Internal ID": 10122,
+    "Unique Entry ID": "qAwap9h6YjWohE39n",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cross-Belt_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "cute sneakers",
+    "Internal ID": 10267,
+    "Unique Entry ID": "9tQTbbf9bPTKu7qWz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Sneakers_(New_Horizons)"
+  },
+  {
+    "Name": "DAL slippers",
+    "Internal ID": 12130,
+    "Unique Entry ID": "gg8YSYsr2xNKYS9rd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:DAL_Slippers_(New_Horizons)"
+  },
+  {
+    "Name": "earth-egg shoes",
+    "Internal ID": 12455,
+    "Unique Entry ID": "PXnPHB4ZkaMwv3Y7s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Earth-Egg_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "embroidered shoes",
+    "Internal ID": 11987,
+    "Unique Entry ID": "rzZXksuyaHbm4SMM9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Embroidered_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "faux-fur ankle booties",
+    "Internal ID": 11683,
+    "Unique Entry ID": "jdCjhSTkbKzX85LN2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Faux-Fur_Ankle_Booties_(New_Horizons)"
+  },
+  {
+    "Name": "faux-shearling boots",
+    "Internal ID": 11550,
+    "Unique Entry ID": "GG7HfiPFNJvLwh5XC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Faux-Shearling_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "faux-suede sneakers",
+    "Internal ID": 10080,
+    "Unique Entry ID": "PcsAkqLHgZo2yhwSH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Faux-Suede_Sneakers_(New_Horizons)"
+  },
+  {
+    "Name": "flashy animal boots",
+    "Internal ID": 13414,
+    "Unique Entry ID": "drgjAsFgNKMfycSKd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flashy_Animal_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "flip-flops",
+    "Internal ID": 10735,
+    "Unique Entry ID": "43ihwwTdqsQFFdDra",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flip-Flops_(New_Horizons)"
+  },
+  {
+    "Name": "flower sandals",
+    "Internal ID": 10131,
+    "Unique Entry ID": "zEAdQCRGCGkGXo3zH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flower_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "ghillie brogues",
+    "Internal ID": 11478,
+    "Unique Entry ID": "2mGMrrGvMowcBDYh7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ghillie_Brogues_(New_Horizons)"
+  },
+  {
+    "Name": "gladiator sandals",
+    "Internal ID": 11251,
+    "Unique Entry ID": "sKQvzqzGvs2ykcSbz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gladiator_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "gold-armor shoes",
+    "Internal ID": 5524,
+    "Unique Entry ID": "HE5wbwjxnuqXWwuTq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gold-Armor_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "hi-tech sneakers",
+    "Internal ID": 10252,
+    "Unique Entry ID": "PtSjcthWToYvF8son",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hi-Tech_Sneakers_(New_Horizons)"
+  },
+  {
+    "Name": "high-tops",
+    "Internal ID": 10045,
+    "Unique Entry ID": "49789htHCpZsBFEYb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:High-Tops_(New_Horizons)"
+  },
+  {
+    "Name": "house slippers",
+    "Internal ID": 5564,
+    "Unique Entry ID": "tZ2mLMoSBry5tTdA6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:House_Slippers_(New_Horizons)"
+  },
+  {
+    "Name": "jester's shoes",
+    "Internal ID": 11558,
+    "Unique Entry ID": "niQbfxs5g6937bDmP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jester's_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "kiddie sneakers",
+    "Internal ID": 10264,
+    "Unique Entry ID": "oxQ6Zq7k9LLPhxMyj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kiddie_Sneakers_(New_Horizons)"
+  },
+  {
+    "Name": "kimono sandals",
+    "Internal ID": 10965,
+    "Unique Entry ID": "EgT778SJG3yj69j9X",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kimono_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "kung-fu shoes",
+    "Internal ID": 9846,
+    "Unique Entry ID": "uNAzFWaTbC7Qsp2cD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kung-Fu_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle pumps",
+    "Internal ID": 11766,
+    "Unique Entry ID": "WHsTLAXaLK3xxLsGE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Pumps_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle sneakers",
+    "Internal ID": 11771,
+    "Unique Entry ID": "5hkTnYdABuHSECmDm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Sneakers_(New_Horizons)"
+  },
+  {
+    "Name": "lace-up boots",
+    "Internal ID": 11257,
+    "Unique Entry ID": "vMF7xDM6WkNnoSn5g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lace-Up_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "leaf-egg shoes",
+    "Internal ID": 12457,
+    "Unique Entry ID": "LE3RpADLBDaJ7hHNP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leaf-Egg_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "leopard pumps",
+    "Internal ID": 10132,
+    "Unique Entry ID": "4dWXRYLHywa22CiDJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leopard_Pumps_(New_Horizons)"
+  },
+  {
+    "Name": "loafers",
+    "Internal ID": 11450,
+    "Unique Entry ID": "pKntHcedJhPRZKHmf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Loafers_(New_Horizons)"
+  },
+  {
+    "Name": "mage's booties",
+    "Internal ID": 11562,
+    "Unique Entry ID": "ncnoEonPFECoYQJdP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mage's_Booties_(New_Horizons)"
+  },
+  {
+    "Name": "mage's boots",
+    "Internal ID": 13429,
+    "Unique Entry ID": "SAWt75Q3tmy3FkGxK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mage's_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "mary janes",
+    "Internal ID": 10163,
+    "Unique Entry ID": "fs9C7jNtLwxKADExm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mary_Janes_(New_Horizons)"
+  },
+  {
+    "Name": "mermaid shoes",
+    "Internal ID": 12660,
+    "Unique Entry ID": "8iHuRzCYLdvJauWuf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mermaid_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "moccasin boots",
+    "Internal ID": 11459,
+    "Unique Entry ID": "8oSWwD9gw84jXsvEm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Moccasin_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "moccasins",
+    "Internal ID": 11467,
+    "Unique Entry ID": "EEsaJmPjGLnXNxFKm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Moccasins_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. slippers",
+    "Internal ID": 5630,
+    "Unique Entry ID": "Aba2jKEYFb3ZSzoWv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Slippers_(New_Horizons)"
+  },
+  {
+    "Name": "outdoor sandals",
+    "Internal ID": 10712,
+    "Unique Entry ID": "iZnEdXRHGkB8upzKY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoor_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "paw slippers",
+    "Internal ID": 10977,
+    "Unique Entry ID": "yrXceyd3fyhzg4PDD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paw_Slippers_(New_Horizons)"
+  },
+  {
+    "Name": "pirate boots",
+    "Internal ID": 12665,
+    "Unique Entry ID": "zAZBCXyxcZiXQJeGt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "pleather ankle booties",
+    "Internal ID": 11679,
+    "Unique Entry ID": "ckPxzgw73nbjWg6Bq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Ankle_Booties_(New_Horizons)"
+  },
+  {
+    "Name": "pleather sneakers",
+    "Internal ID": 4716,
+    "Unique Entry ID": "MvyqYcx2cPGoDnG2F",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Sneakers_(New_Horizons)"
+  },
+  {
+    "Name": "pom-pom boots",
+    "Internal ID": 11694,
+    "Unique Entry ID": "PyrYHQEgWYw5A5xxe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pom-Pom_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "power boots",
+    "Internal ID": 11799,
+    "Unique Entry ID": "7hsm7pbTKWbeaqHQc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Power_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "rain boots",
+    "Internal ID": 11557,
+    "Unique Entry ID": "dBLH9boiqRY25CAkE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rain_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "recycled boots",
+    "Internal ID": 12326,
+    "Unique Entry ID": "pymFdvNQcZoDF2EQg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Recycled_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "restroom slippers",
+    "Internal ID": 10105,
+    "Unique Entry ID": "YgbKhnaDc53vupcpX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Restroom_Slippers_(New_Horizons)"
+  },
+  {
+    "Name": "ribbon sandals",
+    "Internal ID": 10721,
+    "Unique Entry ID": "Wq5syMKeGKA2qbD2s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ribbon_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "rubber-toe high tops",
+    "Internal ID": 10058,
+    "Unique Entry ID": "atTwSXfw9x52DbZRj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rubber-Toe_High_Tops_(New_Horizons)"
+  },
+  {
+    "Name": "rubber-toe sneakers",
+    "Internal ID": 10073,
+    "Unique Entry ID": "n9ef92fAk5TDu29EN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rubber-Toe_Sneakers_(New_Horizons)"
+  },
+  {
+    "Name": "samurai greaves",
+    "Internal ID": 11569,
+    "Unique Entry ID": "MB4ES9NjTNx2DE5Ps",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Samurai_Greaves_(New_Horizons)"
+  },
+  {
+    "Name": "shiny bow platform shoes",
+    "Internal ID": 10153,
+    "Unique Entry ID": "vm3ugd64szb933prn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shiny_Bow_Platform_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "shower sandals",
+    "Internal ID": 10696,
+    "Unique Entry ID": "TeepAoZAHJGpJXXv7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shower_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "ski boots",
+    "Internal ID": 5660,
+    "Unique Entry ID": "n2QGDJbTEi3ttYi7o",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "sky-egg shoes",
+    "Internal ID": 12459,
+    "Unique Entry ID": "cfFHEY8TX3qfsWXc5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sky-Egg_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "slip-on loafers",
+    "Internal ID": 10082,
+    "Unique Entry ID": "evdWzeC43jXRiwusj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slip-On_Loafers_(New_Horizons)"
+  },
+  {
+    "Name": "slip-on sandals",
+    "Internal ID": 10099,
+    "Unique Entry ID": "2DKQL5YxfRBYfyoSJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slip-On_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "slip-on school shoes",
+    "Internal ID": 5473,
+    "Unique Entry ID": "AGAqPgkMwAgR4rP3d",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slip-On_School_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "slippers",
+    "Internal ID": 10085,
+    "Unique Entry ID": "bpzqd39eBwbJssiHz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slippers_(New_Horizons)"
+  },
+  {
+    "Name": "space boots",
+    "Internal ID": 5760,
+    "Unique Entry ID": "wJ5GGhiCqRiGiyADm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Space_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "sporty sandals",
+    "Internal ID": 5824,
+    "Unique Entry ID": "dB9Zh49MxmTnhe2sT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sporty_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "steel-toed boots",
+    "Internal ID": 11236,
+    "Unique Entry ID": "QsKyMZv4z788odcXQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Steel-Toed_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "stone-egg shoes",
+    "Internal ID": 12456,
+    "Unique Entry ID": "iNjeDCdctCeLqyxjv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stone-Egg_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "strappy heels",
+    "Internal ID": 10144,
+    "Unique Entry ID": "chbFMWwZyPPaqbkjg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Strappy_Heels_(New_Horizons)"
+  },
+  {
+    "Name": "traditional flower shoes",
+    "Internal ID": 5622,
+    "Unique Entry ID": "p8rmo5DkHoGjSK5SA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Traditional_Flower_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "trekking shoes",
+    "Internal ID": 11242,
+    "Unique Entry ID": "Ywpc2D7NoK2qBxf6F",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Trekking_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "velour boots",
+    "Internal ID": 11675,
+    "Unique Entry ID": "tAmnjnqTjNDGCWarN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Velour_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "vinyl round-toed pumps",
+    "Internal ID": 10119,
+    "Unique Entry ID": "nTzMdQGrukqyBP8tk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Vinyl_Round-Toed_Pumps_(New_Horizons)"
+  },
+  {
+    "Name": "visual-punk boots",
+    "Internal ID": 5609,
+    "Unique Entry ID": "hP4STomyv7jb7tKnT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Visual-Punk_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "walking shoes",
+    "Internal ID": 10998,
+    "Unique Entry ID": "KWAceiwcGzkfNab4o",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Walking_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "water sandals",
+    "Internal ID": 10715,
+    "Unique Entry ID": "zE2ydSF3h8ZEQDoN6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Water_Sandals_(New_Horizons)"
+  },
+  {
+    "Name": "water shoes",
+    "Internal ID": 10276,
+    "Unique Entry ID": "TZMXjppMESwhT2hZt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Water_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "water-egg shoes",
+    "Internal ID": 12460,
+    "Unique Entry ID": "CT5SYnidy4tF7xneW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Water-Egg_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "wedding pumps",
+    "Internal ID": 12495,
+    "Unique Entry ID": "ZXMfkX6hWrb3Bf4cJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wedding_Pumps_(New_Horizons)"
+  },
+  {
+    "Name": "wedding shoes",
+    "Internal ID": 12496,
+    "Unique Entry ID": "j2RAxuwc7BvaMTicF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wedding_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "wingtip shoes",
+    "Internal ID": 11472,
+    "Unique Entry ID": "P69MLRkggjw9LcDbY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wingtip_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "winklepickers",
+    "Internal ID": 11462,
+    "Unique Entry ID": "xTXhymN8bhf3HnQJE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Winklepickers_(New_Horizons)"
+  },
+  {
+    "Name": "wood-egg shoes",
+    "Internal ID": 12458,
+    "Unique Entry ID": "8ZgL3dbCk7dXrNite",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wood-Egg_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "wooden clogs",
+    "Internal ID": 10985,
+    "Unique Entry ID": "brPp9ECXpN3EfhFPY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden_Clogs_(New_Horizons)"
+  },
+  {
+    "Name": "work boots",
+    "Internal ID": 11247,
+    "Unique Entry ID": "5m2NP7dcLbtght3Zq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Work_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "wrestling shoes",
+    "Internal ID": 10259,
+    "Unique Entry ID": "AH4NE2FJGLZC8gMtg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wrestling_Shoes_(New_Horizons)"
+  },
+  {
+    "Name": "zap boots",
+    "Internal ID": 5624,
+    "Unique Entry ID": "8rjzx96Avdzbq7hFv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Zap_Boots_(New_Horizons)"
+  },
+  {
+    "Name": "zori",
+    "Internal ID": 10974,
+    "Unique Entry ID": "zTMWqRabE8s4dFwn4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Zori_(New_Horizons)"
+  }
+]

@@ -1,0 +1,1255 @@
+[
+  {
+    "Name": "aqua tile flooring",
+    "Filename": "RoomTexFloorTile01",
+    "Internal ID": 5036,
+    "Unique Entry ID": "JmNGqRhEow3PH7bgk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Aqua_Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "arabesque flooring",
+    "Filename": "RoomTexFloorArabesque00",
+    "Internal ID": 4953,
+    "Unique Entry ID": "4dabyuetmZD5dDdCH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Arabesque_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "arched-brick flooring",
+    "Filename": "RoomTexFloorArchBrick00",
+    "Internal ID": 4998,
+    "Unique Entry ID": "CSPoYJzCnzWjqWrj5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Arched-Brick_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "argyle tile flooring",
+    "Filename": "RoomTexFloorTileWood00",
+    "Internal ID": 4994,
+    "Unique Entry ID": "BH8PqRSou2XjQ8ppQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Argyle_Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "artsy parquet flooring",
+    "Filename": "RoomTexFloorParquetArt00",
+    "Internal ID": 5232,
+    "Unique Entry ID": "fbfCzw546bWEF95Aq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Artsy_Parquet_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "backyard lawn",
+    "Filename": "RoomTexFloorLawn00",
+    "Internal ID": 4979,
+    "Unique Entry ID": "kANgKb2s4a6pMSjnd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Backyard_Lawn_(New_Horizons)"
+  },
+  {
+    "Name": "bamboo flooring",
+    "Filename": "RoomTexFloorBamboo00",
+    "Internal ID": 4964,
+    "Unique Entry ID": "gMeLjZdPobbrt58sT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bamboo_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "basement flooring",
+    "Filename": "RoomTexFloorBasement00",
+    "Internal ID": 4797,
+    "Unique Entry ID": "DgaMSqGEyko87dD3H",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Basement_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "beige desert-tile flooring",
+    "Filename": "RoomTexFloorMorocco00",
+    "Internal ID": 4965,
+    "Unique Entry ID": "yhH3pNWq8L8j48tHW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beige_Desert-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "berry-chocolates flooring",
+    "Filename": "RoomTexFloorChocolate02",
+    "Internal ID": 5053,
+    "Unique Entry ID": "E7Mfi6saTnBEgW6o8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Berry-Chocolates_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "birch flooring",
+    "Filename": "RoomTexFloorBirch00",
+    "Internal ID": 5032,
+    "Unique Entry ID": "2tg7thFuaxAAiDTsv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Birch_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "black iron-parquet flooring",
+    "Filename": "RoomTexFloorParquetIron02",
+    "Internal ID": 5066,
+    "Unique Entry ID": "24iNYeWLqkR2juaqx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black_Iron-Parquet_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "black-brick flooring",
+    "Filename": "RoomTexFloorBrick02",
+    "Internal ID": 4976,
+    "Unique Entry ID": "9KuQFNKWxmCH4Wmvh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black-Brick_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "blue camo flooring",
+    "Filename": "RoomTexFloorCamouflage01",
+    "Internal ID": 5016,
+    "Unique Entry ID": "bGQTqfoWhW5TNdLM9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Camo_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "blue desert-tile flooring",
+    "Filename": "RoomTexFloorMorocco01",
+    "Internal ID": 4966,
+    "Unique Entry ID": "zJsrCJgAeFsymNzjq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Desert-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "blue dot flooring",
+    "Filename": "RoomTexFloorDot04",
+    "Internal ID": 5028,
+    "Unique Entry ID": "cpSuDLw7NNyxB5fCs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Dot_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "blue floral flooring",
+    "Filename": "RoomTexFloorDecoWood01",
+    "Internal ID": 5074,
+    "Unique Entry ID": "XMaNPpWPhwfMY6L5G",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Floral_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "blue honeycomb tile",
+    "Filename": "RoomTexFloorHoneycomb01",
+    "Internal ID": 5040,
+    "Unique Entry ID": "rYSDNLpsxE2ec3g9W",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Honeycomb_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "blue mosaic-tile flooring",
+    "Filename": "RoomTexFloorTile03",
+    "Internal ID": 6846,
+    "Unique Entry ID": "y7utgb97MDffD3CWY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Mosaic-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "blue rubber flooring",
+    "Filename": "RoomTexFloorRubber01",
+    "Internal ID": 4954,
+    "Unique Entry ID": "4q43QAcimMHbzK76v",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Rubber_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "blue-paint flooring",
+    "Filename": "RoomTexFloorPaintWood00",
+    "Internal ID": 5057,
+    "Unique Entry ID": "gNCxEi69JzcmxXbxL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue-Paint_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "boxing-ring mat",
+    "Filename": "RoomTexFloorWrestling00",
+    "Internal ID": 4982,
+    "Unique Entry ID": "45uLswcK6NpGkiLNj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Boxing-Ring_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "brown argyle-tile flooring",
+    "Filename": "RoomTexFloorArgyleTile01",
+    "Internal ID": 5081,
+    "Unique Entry ID": "yBoSKBz6zX8i5upzp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Argyle-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "brown floral flooring",
+    "Filename": "RoomTexFloorDecoWood02",
+    "Internal ID": 5075,
+    "Unique Entry ID": "xY7NHtsvYjKMbACLu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Floral_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "brown honeycomb tile",
+    "Filename": "RoomTexFloorHoneycomb00",
+    "Internal ID": 5038,
+    "Unique Entry ID": "ZpkkHEE23YB7QNvHx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Honeycomb_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "brown iron-parquet flooring",
+    "Filename": "RoomTexFloorParquetIron01",
+    "Internal ID": 5065,
+    "Unique Entry ID": "n48DyFP2iimp68t9Y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Iron-Parquet_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "brown wedding flooring",
+    "Filename": "RoomTexFloorMarbleTile01",
+    "Internal ID": 12433,
+    "Unique Entry ID": "hmyWP64oXEsMwBPua",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Wedding_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "brown-brick flooring",
+    "Filename": "RoomTexFloorBrick03",
+    "Internal ID": 6849,
+    "Unique Entry ID": "pjTr8dw3cyN8eeZYv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown-Brick_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day flooring",
+    "Filename": "RoomTexFloorEaster00",
+    "Internal ID": 12423,
+    "Unique Entry ID": "Q9QJSyTM3AzAWLBvD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "camo flooring",
+    "Filename": "RoomTexFloorCamouflage00",
+    "Internal ID": 5015,
+    "Unique Entry ID": "DuqT3X6msNdXFvLHi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Camo_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cherry-blossom flooring",
+    "Filename": "RoomTexFloorSakura00",
+    "Internal ID": 7204,
+    "Unique Entry ID": "ZhWmRmGQN5gZCao4y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry-Blossom_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "circuit-board flooring",
+    "Filename": "RoomTexFloorGeek00",
+    "Internal ID": 5082,
+    "Unique Entry ID": "mqiB9cY9EEtRXQoFS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Circuit-Board_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cloud flooring",
+    "Filename": "RoomSpFloorCloud00",
+    "Internal ID": 5267,
+    "Unique Entry ID": "Gp6CWrou6RqPRPLH3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cloud_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "colored-leaves flooring",
+    "Filename": "RoomTexFloorAutumun00",
+    "Internal ID": 4990,
+    "Unique Entry ID": "ZNpkS7gSLvRFR3qv4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colored-Leaves_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "colorful mosaic-tile flooring",
+    "Filename": "RoomTexFloorTile02",
+    "Internal ID": 5037,
+    "Unique Entry ID": "FMtGXChPSm2y6edqK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Mosaic-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "colorful puzzle flooring",
+    "Filename": "RoomTexFloorPuzzleMat01",
+    "Internal ID": 4957,
+    "Unique Entry ID": "snnsfZxLf3bLFCmSD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Puzzle_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "colorful tile flooring",
+    "Filename": "RoomTexFloorPanel01",
+    "Internal ID": 5068,
+    "Unique Entry ID": "ANgxpCY6rprKk56wT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "common flooring",
+    "Filename": "RoomTexFloorCommon00",
+    "Internal ID": 5018,
+    "Unique Entry ID": "GQX6Cd7FiDHBwkfAv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Common_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "concrete flooring",
+    "Filename": "RoomTexFloorConcrete00",
+    "Internal ID": 4951,
+    "Unique Entry ID": "r6hpZDG5eaceYuE3x",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Concrete_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "construction-site flooring",
+    "Filename": "RoomTexFloorConstruction00",
+    "Internal ID": 5235,
+    "Unique Entry ID": "25pmfNgicXrDwQhZ9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Construction-Site_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cool vinyl flooring",
+    "Filename": "RoomTexFloorTileChecker03",
+    "Internal ID": 6844,
+    "Unique Entry ID": "RpwPS8ETt7nPHGTqR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cool_Vinyl_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cool-paint flooring",
+    "Filename": "RoomTexFloorColorfulWood01",
+    "Internal ID": 5071,
+    "Unique Entry ID": "P5vNHW2McCcqGk2Ru",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cool-Paint_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cork flooring",
+    "Filename": "RoomTexFloorCork00",
+    "Internal ID": 4969,
+    "Unique Entry ID": "YSWAiTZFDQXzbH8xM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cork_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "crop-circles flooring",
+    "Filename": "RoomTexFloorCropCircles00",
+    "Internal ID": 5243,
+    "Unique Entry ID": "zvSD2W9Wsxs2wX82T",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crop-Circles_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "crosswalk flooring",
+    "Filename": "RoomTexFloorSidewalk00",
+    "Internal ID": 5007,
+    "Unique Entry ID": "DpkSGAyAuXwcmKcYT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crosswalk_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cubic parquet flooring",
+    "Filename": "RoomTexFloorHoneycombWood00",
+    "Internal ID": 4987,
+    "Unique Entry ID": "pTqSAheGagvxyCivv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cubic_Parquet_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cute blue-tile flooring",
+    "Filename": "RoomTexFloorCute02",
+    "Internal ID": 7221,
+    "Unique Entry ID": "QsGtuf59hbErv942T",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Blue-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cute red-tile flooring",
+    "Filename": "RoomTexFloorCute01",
+    "Internal ID": 7220,
+    "Unique Entry ID": "TmfKeSsDh7FMpA6jG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Red-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cute white-tile flooring",
+    "Filename": "RoomTexFloorCute00",
+    "Internal ID": 7219,
+    "Unique Entry ID": "bXxKjx8AJp7PRKLZA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_White-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cute yellow-tile flooring",
+    "Filename": "RoomTexFloorCute03",
+    "Internal ID": 7222,
+    "Unique Entry ID": "CSeg3aQXkhPjwXSJS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Yellow-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "cute-paint flooring",
+    "Filename": "RoomTexFloorColorfulWood00",
+    "Internal ID": 5070,
+    "Unique Entry ID": "W6ohXRHoCKsN4YLB8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute-Paint_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "daisy meadow",
+    "Filename": "RoomTexFloorGrassland00",
+    "Internal ID": 5005,
+    "Unique Entry ID": "3wxzHxXFvLCZ9CKg2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Daisy_Meadow_(New_Horizons)"
+  },
+  {
+    "Name": "dark herringbone flooring",
+    "Filename": "RoomTexFloorHerringbone01",
+    "Internal ID": 5062,
+    "Unique Entry ID": "B2ZTCrRr7jnNR2ovs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Herringbone_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "dark parquet flooring",
+    "Filename": "RoomTexFloorCountry01",
+    "Internal ID": 5025,
+    "Unique Entry ID": "rco8xXCvWkLSFYCRA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Parquet_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "dark wood-pattern flooring",
+    "Filename": "RoomTexFloorSimpleParquet01",
+    "Internal ID": 4992,
+    "Unique Entry ID": "XtDikpNN55jn8zrja",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Wood-Pattern_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "dark-block flooring",
+    "Filename": "RoomTexFloorParquet01",
+    "Internal ID": 5035,
+    "Unique Entry ID": "Brfw5JnsZKhxqhWYf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark-Block_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "dark-chocolates flooring",
+    "Filename": "RoomTexFloorChocolate00",
+    "Internal ID": 5050,
+    "Unique Entry ID": "hyLXZQ7stKXetPcQv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark-Chocolates_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "dig-site flooring",
+    "Filename": "RoomTexFloorStratum00",
+    "Internal ID": 5011,
+    "Unique Entry ID": "4niZnD4Hiwrg9tF2G",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dig-Site_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "dirt flooring",
+    "Filename": "RoomTexFloorCottonSoil00",
+    "Internal ID": 4981,
+    "Unique Entry ID": "LYgxhvWvyPWAzWieZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dirt_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "field flooring",
+    "Filename": "RoomTexFloorFarm00",
+    "Internal ID": 4980,
+    "Unique Entry ID": "2zmEMZxmYHHNEGTQR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Field_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "flagstone flooring",
+    "Filename": "RoomTexFloorFlagStone00",
+    "Internal ID": 5031,
+    "Unique Entry ID": "NtuoKtiMbKoiY2xoy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flagstone_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "floral mosaic-tile flooring",
+    "Filename": "RoomTexFloorMosaicTile00",
+    "Internal ID": 4993,
+    "Unique Entry ID": "5wjjJXuu2A9EYJGgf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Floral_Mosaic-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "floral rush-mat flooring",
+    "Filename": "RoomTexFloorRush00",
+    "Internal ID": 4977,
+    "Unique Entry ID": "f9aYRhv4CwtmsYPNS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Floral_Rush-Mat_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "flowing-river flooring",
+    "Filename": "RoomSpFloorRiver00",
+    "Internal ID": 5273,
+    "Unique Entry ID": "2EL3sCGxkgTQj533G",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flowing-River_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "forest flooring",
+    "Filename": "RoomTexFloorMushForest00",
+    "Internal ID": 7186,
+    "Unique Entry ID": "ec3NaTs5Pk8z6HCC6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Forest_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "future-tech flooring",
+    "Filename": "RoomSpFloorTechnology00",
+    "Internal ID": 5250,
+    "Unique Entry ID": "eZweMfrfieMDtihv7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Future-Tech_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "galaxy flooring",
+    "Filename": "RoomSpFloorGalaxy00",
+    "Internal ID": 5269,
+    "Unique Entry ID": "XhFQDs3H9uCdikzkW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Galaxy_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "garbage-heap flooring",
+    "Filename": "RoomTexFloorGarbage00",
+    "Internal ID": 5236,
+    "Unique Entry ID": "iY9f7H5NjXBxxB6HQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Garbage-Heap_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "giraffe-print flooring",
+    "Filename": "RoomTexFloorAnimal01",
+    "Internal ID": 4961,
+    "Unique Entry ID": "umJmHnuMQRMEeXB7Y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Giraffe-Print_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "gold iron-parquet flooring",
+    "Filename": "RoomTexFloorParquetIron00",
+    "Internal ID": 5064,
+    "Unique Entry ID": "R7g62hAfWLaJ2muuy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gold_Iron-Parquet_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "golden flooring",
+    "Filename": "RoomTexFloorGold00",
+    "Internal ID": 5021,
+    "Unique Entry ID": "YrHA4R4RmkJLeYvJy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "gravel flooring",
+    "Filename": "RoomTexFloorGravel00",
+    "Internal ID": 4978,
+    "Unique Entry ID": "9jLaEjCCsiMHGLf9Y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gravel_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "gray argyle-tile flooring",
+    "Filename": "RoomTexFloorArgyleTile00",
+    "Internal ID": 5080,
+    "Unique Entry ID": "L5HHMxTjeAv2hLukh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gray_Argyle-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "gray vinyl flooring",
+    "Filename": "RoomTexFloorTileChecker00",
+    "Internal ID": 5046,
+    "Unique Entry ID": "hazZe9YtvTt7T8WJD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gray_Vinyl_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "green floral flooring",
+    "Filename": "RoomTexFloorDecoWood03",
+    "Internal ID": 6847,
+    "Unique Entry ID": "AaKjHGFteG5h2GBQn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Floral_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "green honeycomb tile",
+    "Filename": "RoomTexFloorHoneycomb02",
+    "Internal ID": 5041,
+    "Unique Entry ID": "3T2nKNCHMxxQXkucQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Honeycomb_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "green retro flooring",
+    "Filename": "RoomTexFloorKitchen01",
+    "Internal ID": 5045,
+    "Unique Entry ID": "RRFkhjtia4ayJy2cH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Retro_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "green rubber flooring",
+    "Filename": "RoomTexFloorRubber00",
+    "Internal ID": 4952,
+    "Unique Entry ID": "raqdEHfoLLbgfxpcR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Rubber_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "green vinyl flooring",
+    "Filename": "RoomTexFloorTileChecker02",
+    "Internal ID": 5048,
+    "Unique Entry ID": "zBGakmC9vX4Epuduf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Vinyl_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "green wedding flooring",
+    "Filename": "RoomTexFloorMarbleTile02",
+    "Internal ID": 12434,
+    "Unique Entry ID": "uhmt88jsXSHpkqswZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Wedding_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "green-paint flooring",
+    "Filename": "RoomTexFloorPaintWood01",
+    "Internal ID": 5058,
+    "Unique Entry ID": "ZdsDu7KBmtngBLoe4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green-Paint_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "hexagonal floral flooring",
+    "Filename": "RoomTexFloorHempTile00",
+    "Internal ID": 4972,
+    "Unique Entry ID": "6frp588zeZqeDBSvp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hexagonal_Floral_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "highway flooring",
+    "Filename": "RoomTexFloorHighway00",
+    "Internal ID": 5237,
+    "Unique Entry ID": "wrqigm79Kx7xbhPcb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Highway_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "honeycomb flooring",
+    "Filename": "RoomTexFloorHoney00",
+    "Internal ID": 4999,
+    "Unique Entry ID": "Yi7YJpRkuc2DYxypg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Honeycomb_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "ice flooring",
+    "Filename": "RoomSpFloorIce00",
+    "Internal ID": 5516,
+    "Unique Entry ID": "J63DSTu7u4tnwgLfR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ice_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "iceberg flooring",
+    "Filename": "RoomSpFloorIceFloe00",
+    "Internal ID": 5253,
+    "Unique Entry ID": "7unCfS99xyM3swHCz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iceberg_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "imperial tile",
+    "Filename": "RoomTexFloorDynasty00",
+    "Internal ID": 5012,
+    "Unique Entry ID": "n4zrzvMvJmXvpMTCw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Imperial_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "jointed-mat flooring",
+    "Filename": "RoomTexFloorJointMat00",
+    "Internal ID": 4955,
+    "Unique Entry ID": "RfPqDKHG6QR5FhwXY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jointed-Mat_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "jungle flooring",
+    "Filename": "RoomTexFloorJungle00",
+    "Internal ID": 5515,
+    "Unique Entry ID": "QrdicpjjuY4mBd37e",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jungle_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "kitschy tile",
+    "Filename": "RoomTexFloorKitschTile00",
+    "Internal ID": 5076,
+    "Unique Entry ID": "uWKchyhWgNxTxDikd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kitschy_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "lava flooring",
+    "Filename": "RoomSpFloorVolcano00",
+    "Internal ID": 5274,
+    "Unique Entry ID": "uT9YnwivAEZ938FKB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lava_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "leopard-print flooring",
+    "Filename": "RoomTexFloorAnimal00",
+    "Internal ID": 4959,
+    "Unique Entry ID": "GsWLFhWAiRsNrY2XC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leopard-Print_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "light herringbone flooring",
+    "Filename": "RoomTexFloorHerringbone00",
+    "Internal ID": 5061,
+    "Unique Entry ID": "GQXNBcZoQRYRyRYGP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Light_Herringbone_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "light parquet flooring",
+    "Filename": "RoomTexFloorCountry00",
+    "Internal ID": 5022,
+    "Unique Entry ID": "HqokjwEnZtgcjNSgH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Light_Parquet_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "light wood-pattern flooring",
+    "Filename": "RoomTexFloorSimpleParquet00",
+    "Internal ID": 4991,
+    "Unique Entry ID": "osG5BdoAX86kEitnu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Light_Wood-Pattern_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "lobby flooring",
+    "Filename": "RoomTexFloorLobby00",
+    "Internal ID": 5034,
+    "Unique Entry ID": "nQCnxLKNXAQ7JqtyB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lobby_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "lunar surface",
+    "Filename": "RoomTexFloorLunar00",
+    "Internal ID": 4968,
+    "Unique Entry ID": "n8j4WToan9efgnJDM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lunar_Surface_(New_Horizons)"
+  },
+  {
+    "Name": "marine pop flooring",
+    "Filename": "RoomTexFloorFishPop00",
+    "Internal ID": 5024,
+    "Unique Entry ID": "yajaXefi94Mx32KAy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Marine_Pop_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "mermaid flooring",
+    "Filename": "RoomSpFloorMermaid00",
+    "Internal ID": 12568,
+    "Unique Entry ID": "XLgLk68xXpgf344N2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mermaid_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "mint dot flooring",
+    "Filename": "RoomTexFloorDot01",
+    "Internal ID": 5026,
+    "Unique Entry ID": "CCEfvKqoZ7TQXWFqM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mint_Dot_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "modern wood flooring",
+    "Filename": "RoomTexFloorMixwood00",
+    "Internal ID": 5044,
+    "Unique Entry ID": "jBLBPkiSgmkL52L5n",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Modern_Wood_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "money flooring",
+    "Filename": "RoomTexFloorBill00",
+    "Internal ID": 4986,
+    "Unique Entry ID": "M9tBbGtQcTpPWCGeQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Money_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "monochromatic dot flooring",
+    "Filename": "RoomTexFloorDot00",
+    "Internal ID": 5023,
+    "Unique Entry ID": "CJ6ukTuEqDXvFx5kM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monochromatic_Dot_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "monochromatic tile flooring",
+    "Filename": "RoomTexFloorPanel00",
+    "Internal ID": 5067,
+    "Unique Entry ID": "wyRDyuntjJqsgxEvz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monochromatic_Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "mossy-garden flooring",
+    "Filename": "RoomTexFloorMoss00",
+    "Internal ID": 5234,
+    "Unique Entry ID": "3KGLDP2eT6i3A7jaw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mossy-Garden_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "natural-block flooring",
+    "Filename": "RoomTexFloorParquet00",
+    "Internal ID": 5033,
+    "Unique Entry ID": "BaHnYrekt2ngfWeCQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Natural-Block_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. flooring",
+    "Filename": "RoomTexFloorFirst00",
+    "Internal ID": 6005,
+    "Unique Entry ID": "tHvrMW72TDM3ezhRx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "oasis flooring",
+    "Filename": "RoomSpFloorOasis00",
+    "Internal ID": 5255,
+    "Unique Entry ID": "Apr3HrqodwkiBk5ZQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oasis_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "olive desert-tile flooring",
+    "Filename": "RoomTexFloorMorocco03",
+    "Internal ID": 6928,
+    "Unique Entry ID": "LwaiMzRi8kw2Xw35j",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Olive_Desert-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "orange camo flooring",
+    "Filename": "RoomTexFloorCamouflage03",
+    "Internal ID": 6845,
+    "Unique Entry ID": "e2cw6YYcpWZdfH38F",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange_Camo_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "orange retro flooring",
+    "Filename": "RoomTexFloorKitchen00",
+    "Internal ID": 5043,
+    "Unique Entry ID": "GpDHr3gHCZSrK5bfx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange_Retro_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "paintball flooring",
+    "Filename": "RoomTexFloorAtelier00",
+    "Internal ID": 4988,
+    "Unique Entry ID": "vC2oYRMxbZXYazKYW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paintball_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "palace tile",
+    "Filename": "RoomTexFloorPalace00",
+    "Internal ID": 5051,
+    "Unique Entry ID": "ZBN9trZ7YTDgN5z3Y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Palace_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "parking flooring",
+    "Filename": "RoomTexFloorParking00",
+    "Internal ID": 4997,
+    "Unique Entry ID": "Lx2JZuP8F6xS28PPG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Parking_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "party flooring",
+    "Filename": "RoomTexFloorParty00",
+    "Internal ID": 5241,
+    "Unique Entry ID": "8vy7YrhEnTpt8GjWT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Party_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "pastel puzzle flooring",
+    "Filename": "RoomTexFloorPuzzleMat00",
+    "Internal ID": 4956,
+    "Unique Entry ID": "nGtvPzJvdJb5xmQo8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pastel_Puzzle_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "patchwork-tile flooring",
+    "Filename": "RoomTexFloorPatchworkTile00",
+    "Internal ID": 4995,
+    "Unique Entry ID": "hCAe3badxv5faWwGE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Patchwork-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "pine-board flooring",
+    "Filename": "RoomTexFloorSimple00",
+    "Internal ID": 5019,
+    "Unique Entry ID": "B3GmKqXBaKNeugExA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pine-Board_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "pink-paint flooring",
+    "Filename": "RoomTexFloorPaintWood02",
+    "Internal ID": 5059,
+    "Unique Entry ID": "wXCN3tKY2rDen6D6s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink-Paint_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "pirate flooring",
+    "Filename": "RoomTexFloorPirates00",
+    "Internal ID": 12569,
+    "Unique Entry ID": "RaD6jMvqDehvYkgSg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "purple camo flooring",
+    "Filename": "RoomTexFloorCamouflage02",
+    "Internal ID": 5017,
+    "Unique Entry ID": "JZ5JuDTqYYu8PQZrJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Camo_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "purple desert-tile flooring",
+    "Filename": "RoomTexFloorMorocco02",
+    "Internal ID": 6927,
+    "Unique Entry ID": "4e7h4ZuzEKJb5ua3v",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Desert-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "purple puzzle flooring",
+    "Filename": "RoomTexFloorPuzzleMat03",
+    "Internal ID": 7185,
+    "Unique Entry ID": "xi7QC9EcD34PNSdzt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Puzzle_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "pyramid tile",
+    "Filename": "RoomTexFloorEgypt00",
+    "Internal ID": 5054,
+    "Unique Entry ID": "kcHqZKGAjAwFcQxNg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pyramid_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "racetrack flooring",
+    "Filename": "RoomTexFloorAthletics00",
+    "Internal ID": 4996,
+    "Unique Entry ID": "QDiAF633q7ohZqqTK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Racetrack_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "ramshackle flooring",
+    "Filename": "RoomTexFloorRuins00",
+    "Internal ID": 5240,
+    "Unique Entry ID": "tx4WSnBkFsrJZHe7b",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ramshackle_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "random-square-tile flooring",
+    "Filename": "RoomTexFloorSquareTile00",
+    "Internal ID": 4973,
+    "Unique Entry ID": "3GqKtZdottDaNdNvP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Random-Square-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "rattan flooring",
+    "Filename": "RoomTexFloorRattan00",
+    "Internal ID": 4967,
+    "Unique Entry ID": "C5WxH5ZD5LcXeGL56",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rattan_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "red dot flooring",
+    "Filename": "RoomTexFloorDot02",
+    "Internal ID": 5027,
+    "Unique Entry ID": "RRjt2eaLkEJv9Hk6W",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Dot_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "red-and-black vinyl flooring",
+    "Filename": "RoomTexFloorTileChecker01",
+    "Internal ID": 5047,
+    "Unique Entry ID": "y9Bcpqd5GNvw29DbR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red-And-Black_Vinyl_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "red-brick flooring",
+    "Filename": "RoomTexFloorBrick01",
+    "Internal ID": 4975,
+    "Unique Entry ID": "tknYxCq8ztLx7Tibi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red-Brick_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "rocky-mountain flooring",
+    "Filename": "RoomTexFloorRock00",
+    "Internal ID": 5239,
+    "Unique Entry ID": "BKwXAcy5Q9mW2GJkH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rocky-Mountain_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "rose flooring",
+    "Filename": "RoomTexFloorRoseCarpet00",
+    "Internal ID": 4958,
+    "Unique Entry ID": "5vGSvnYMFe4A5LRte",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rose_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "rosewood flooring",
+    "Filename": "RoomTexFloorRoseWood00",
+    "Internal ID": 5063,
+    "Unique Entry ID": "jA7bCaTtZq6Z2r4gr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rosewood_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "rubber-tile flooring",
+    "Filename": "RoomTexFloorRubberTile00",
+    "Internal ID": 5163,
+    "Unique Entry ID": "YiBqEKfe7i4EuseqS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rubber-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "rush tatami",
+    "Filename": "RoomTexFloorTatami01",
+    "Internal ID": 5079,
+    "Unique Entry ID": "rnwpHPKqefSS5Hhz8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rush_Tatami_(New_Horizons)"
+  },
+  {
+    "Name": "rush tatami flooring",
+    "Filename": "RoomTexFloorTatamiPanel01",
+    "Internal ID": 5078,
+    "Unique Entry ID": "CYDJXEYacE5fPeLYJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rush_Tatami_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "Saharah's desert",
+    "Filename": "RoomTexFloorDesert00",
+    "Internal ID": 4983,
+    "Unique Entry ID": "7cH3CsBAarxRhAkZ5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Saharah's_Desert_(New_Horizons)"
+  },
+  {
+    "Name": "sakura-wood flooring",
+    "Filename": "RoomTexFloorSolidWood00",
+    "Internal ID": 5056,
+    "Unique Entry ID": "QB6ZXiQbMQ6iWexQm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sakura-Wood_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "sandlot",
+    "Filename": "RoomTexFloorEmptyLot00",
+    "Internal ID": 4985,
+    "Unique Entry ID": "HZM5De52k9N4E3iei",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sandlot_(New_Horizons)"
+  },
+  {
+    "Name": "sandy-beach flooring",
+    "Filename": "RoomTexFloorSand00",
+    "Internal ID": 4970,
+    "Unique Entry ID": "tDrdWs28RgvnyTMNC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sandy-Beach_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "sci-fi flooring",
+    "Filename": "RoomSpFloorSF00",
+    "Internal ID": 5270,
+    "Unique Entry ID": "NAEGL6s5arLj9y2ku",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sci-Fi_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "scramble crosswalk",
+    "Filename": "RoomTexFloorScramble00",
+    "Internal ID": 5010,
+    "Unique Entry ID": "EHdRo9mbi9QhCtdYN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Scramble_Crosswalk_(New_Horizons)"
+  },
+  {
+    "Name": "sepia puzzle flooring",
+    "Filename": "RoomTexFloorPuzzleMat02",
+    "Internal ID": 7184,
+    "Unique Entry ID": "ND2rTCs7dZjKiGXjC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sepia_Puzzle_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "ship deck",
+    "Filename": "RoomTexFloorSeaView00",
+    "Internal ID": 4950,
+    "Unique Entry ID": "X9tRZEzQMKRKd5rnz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ship_Deck_(New_Horizons)"
+  },
+  {
+    "Name": "sidewalk flooring",
+    "Filename": "RoomTexFloorSidewalk01",
+    "Internal ID": 5008,
+    "Unique Entry ID": "3FteXxettQm7iZF2p",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sidewalk_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "simple blue flooring",
+    "Filename": "RoomTexFloorSimpleCarpet01",
+    "Internal ID": 5001,
+    "Unique Entry ID": "JKvF62fyqF6Pg9igx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Blue_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "simple purple flooring",
+    "Filename": "RoomTexFloorSimpleCarpet03",
+    "Internal ID": 5003,
+    "Unique Entry ID": "qn6BKtgHm5tmoDtAG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Purple_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "simple red flooring",
+    "Filename": "RoomTexFloorSimpleCarpet00",
+    "Internal ID": 5000,
+    "Unique Entry ID": "5WEw368jE8FK9LcPa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Red_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "simple white flooring",
+    "Filename": "RoomTexFloorSimpleCarpet04",
+    "Internal ID": 5004,
+    "Unique Entry ID": "RwMEDYWk9YBgrtXmY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_White_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "ski-slope flooring",
+    "Filename": "RoomTexFloorGelande00",
+    "Internal ID": 4989,
+    "Unique Entry ID": "NpqGszuaZckXifyju",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski-Slope_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "skull-print flooring",
+    "Filename": "RoomTexFloorSkull00",
+    "Internal ID": 5248,
+    "Unique Entry ID": "Ghp5z68RNmKQDDCzz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Skull-Print_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "slate flooring",
+    "Filename": "RoomTexFloorSlate00",
+    "Internal ID": 5233,
+    "Unique Entry ID": "hchG9hWK9Ci3iXzTN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slate_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "spooky flooring",
+    "Filename": "RoomTexFloorHalloween00",
+    "Internal ID": 13225,
+    "Unique Entry ID": "ks8i6hhQTyBktaRoR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spooky_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "starry-sands flooring",
+    "Filename": "RoomTexFloorSandStar00",
+    "Internal ID": 7239,
+    "Unique Entry ID": "54Jcui933sPTvdqXY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Starry-Sands_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "steel flooring",
+    "Filename": "RoomTexFloorSteel00",
+    "Internal ID": 4960,
+    "Unique Entry ID": "nYi4jRsp3MXrnPPDR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Steel_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "stone tile",
+    "Filename": "RoomTexFloorMarble00",
+    "Internal ID": 5069,
+    "Unique Entry ID": "RNMhc9jJApavmhgPC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stone_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "stripe flooring",
+    "Filename": "RoomTexFloorStripe00",
+    "Internal ID": 4963,
+    "Unique Entry ID": "5CY9wQTePbYzQTDF2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stripe_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "sumo ring",
+    "Filename": "RoomTexFloorArena00",
+    "Internal ID": 5013,
+    "Unique Entry ID": "qKfY2Nnx5ApBzgGEF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sumo_Ring_(New_Horizons)"
+  },
+  {
+    "Name": "swamp flooring",
+    "Filename": "RoomTexFloorBog00",
+    "Internal ID": 5238,
+    "Unique Entry ID": "vTPvWC9bkZyeP7BxS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Swamp_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "tatami",
+    "Filename": "RoomTexFloorTatami00",
+    "Internal ID": 5039,
+    "Unique Entry ID": "jdcZQ9LCDoroeYKws",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tatami_(New_Horizons)"
+  },
+  {
+    "Name": "tatami flooring",
+    "Filename": "RoomTexFloorTatamiPanel00",
+    "Internal ID": 5077,
+    "Unique Entry ID": "Qo5nLhbZ7iD5JLP4Z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tatami_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "terra-cotta flooring",
+    "Filename": "RoomTexFloorTileTerracotta00",
+    "Internal ID": 4971,
+    "Unique Entry ID": "Ec8TrwurFcmQKi4CZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Terra-Cotta_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "tiger-print flooring",
+    "Filename": "RoomTexFloorAnimal03",
+    "Internal ID": 6848,
+    "Unique Entry ID": "uz5PotSZqNAT5kgtT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tiger-Print_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "train-station flooring",
+    "Filename": "RoomTexFloorPlatform00",
+    "Internal ID": 5009,
+    "Unique Entry ID": "khwvshrYhvaL9FPsC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Train-Station_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "underwater flooring",
+    "Filename": "RoomSpFloorFishTank00",
+    "Internal ID": 5268,
+    "Unique Entry ID": "bGowh78amRY7uJsYE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Underwater_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "water flooring",
+    "Filename": "RoomSpFloorWater00",
+    "Internal ID": 5030,
+    "Unique Entry ID": "opJSK2mkCqkBRQTW3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Water_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "western desert",
+    "Filename": "RoomTexFloorWilderness00",
+    "Internal ID": 4984,
+    "Unique Entry ID": "24mkYXzRGCvGibXQ9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Western_Desert_(New_Horizons)"
+  },
+  {
+    "Name": "white honeycomb tile",
+    "Filename": "RoomTexFloorHoneycomb03",
+    "Internal ID": 5042,
+    "Unique Entry ID": "RKrRAgjoevjYsLwTp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Honeycomb_Tile_(New_Horizons)"
+  },
+  {
+    "Name": "white iron-parquet flooring",
+    "Filename": "RoomTexFloorParquetIron03",
+    "Internal ID": 6843,
+    "Unique Entry ID": "ZFAq3rRLCCRRgAcF7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Iron-Parquet_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "white mosaic-tile flooring",
+    "Filename": "RoomTexFloorTile00",
+    "Internal ID": 5020,
+    "Unique Entry ID": "23nmmfSJ7pvKyeuFZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Mosaic-Tile_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "white wedding flooring",
+    "Filename": "RoomTexFloorMarbleTile00",
+    "Internal ID": 12431,
+    "Unique Entry ID": "GYZ8kvbfYK7i2NcvT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Wedding_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "white-brick flooring",
+    "Filename": "RoomTexFloorBrick00",
+    "Internal ID": 4974,
+    "Unique Entry ID": "83vQYs26vwE7aa4bZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White-Brick_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "white-chocolates flooring",
+    "Filename": "RoomTexFloorChocolate01",
+    "Internal ID": 5052,
+    "Unique Entry ID": "b2WBXQkcAqfJ48RH3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White-Chocolates_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "white-paint flooring",
+    "Filename": "RoomTexFloorPaintWood03",
+    "Internal ID": 5060,
+    "Unique Entry ID": "JdnrGbAMW7FBxrw5P",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White-Paint_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "wildflower meadow",
+    "Filename": "RoomTexFloorGrassland01",
+    "Internal ID": 5006,
+    "Unique Entry ID": "dYb6DAfZQJTGN7svs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wildflower_Meadow_(New_Horizons)"
+  },
+  {
+    "Name": "wooden-knot flooring",
+    "Filename": "RoomTexFloorCedar00",
+    "Internal ID": 5049,
+    "Unique Entry ID": "ttyLLQ39Dc3fK32JE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden-Knot_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "yellow floral flooring",
+    "Filename": "RoomTexFloorDecoWood00",
+    "Internal ID": 5073,
+    "Unique Entry ID": "R69sMEPHQGu7fBzuQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Floral_Flooring_(New_Horizons)"
+  },
+  {
+    "Name": "zebra-print flooring",
+    "Filename": "RoomTexFloorAnimal02",
+    "Internal ID": 4962,
+    "Unique Entry ID": "9Mdszd5EgwJ6omLPf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Zebra-Print_Flooring_(New_Horizons)"
+  }
+]

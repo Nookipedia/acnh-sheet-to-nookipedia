@@ -1,0 +1,826 @@
+[
+  {
+    "Name": "acorn pochette",
+    "Filename": "BagShoulderAcorn0",
+    "ClothGroup ID": 980,
+    "Internal ID": 7492,
+    "Unique Entry ID": "XiC7bNzTBAdb8zWwr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Acorn_Pochette_(New_Horizons)"
+  },
+  {
+    "Name": "basket pack",
+    "Filename": "BagBackpackBasket0",
+    "ClothGroup ID": 995,
+    "Internal ID": 7506,
+    "Unique Entry ID": "BW764rj9aH3QL6GRH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Basket_Pack_(New_Horizons)"
+  },
+  {
+    "Name": "bug cage",
+    "Filename": "BagShoulderCage0",
+    "ClothGroup ID": 967,
+    "Internal ID": 7479,
+    "Unique Entry ID": "nrkEKkL46YsQYcYjp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bug_Cage_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day bag",
+    "Filename": "BagBackpackEgg0",
+    "ClothGroup ID": 1203,
+    "Internal ID": 12447,
+    "Unique Entry ID": "YGofzAZknSTYWmfWM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "butterfly backpack",
+    "Filename": "BagBackpackButterfly0",
+    "ClothGroup ID": 991,
+    "Internal ID": 7502,
+    "Unique Entry ID": "unsmeHZemRaTnq62z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Butterfly_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "canvas backpack",
+    "Filename": "BagBackpackTote0",
+    "ClothGroup ID": 998,
+    "Internal ID": 7509,
+    "Unique Entry ID": "ZtgYddBwpZfGMjewu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Canvas_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "cherry-blossom pochette",
+    "Filename": "BagShoulderCherryblossoms0",
+    "ClothGroup ID": 978,
+    "Internal ID": 7490,
+    "Unique Entry ID": "wwkZdhj9HzxZiqHys",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry-Blossom_Pochette_(New_Horizons)"
+  },
+  {
+    "Name": "cloth shoulder bag",
+    "Filename": "BagShoulderCanvas2",
+    "ClothGroup ID": 975,
+    "Internal ID": 12014,
+    "Unique Entry ID": "NfkYKg5NoaWKBEpzN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cloth_Shoulder_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "cloth shoulder bag",
+    "Filename": "BagShoulderCanvas1",
+    "ClothGroup ID": 975,
+    "Internal ID": 12013,
+    "Unique Entry ID": "dcpCgBwji4QCYAy8k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cloth_Shoulder_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "cloth shoulder bag",
+    "Filename": "BagShoulderCanvas0",
+    "ClothGroup ID": 975,
+    "Internal ID": 7487,
+    "Unique Entry ID": "DzoRrArWrKtzn6Xzc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cloth_Shoulder_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "crossbody bag",
+    "Filename": "BagBackpackBody3",
+    "ClothGroup ID": 971,
+    "Internal ID": 11982,
+    "Unique Entry ID": "FsyHb5QAf8DDvPC7y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crossbody_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "crossbody bag",
+    "Filename": "BagBackpackBody0",
+    "ClothGroup ID": 971,
+    "Internal ID": 7483,
+    "Unique Entry ID": "zXtyCFHwWjnChTami",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crossbody_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "crossbody bag",
+    "Filename": "BagBackpackBody2",
+    "ClothGroup ID": 971,
+    "Internal ID": 11981,
+    "Unique Entry ID": "zX6ZX4puTojGuJgGj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crossbody_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "crossbody bag",
+    "Filename": "BagBackpackBody1",
+    "ClothGroup ID": 971,
+    "Internal ID": 11980,
+    "Unique Entry ID": "tbfNwy8RmGztJdAnn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crossbody_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "crossbody boston bag",
+    "Filename": "BagShoulderDrum0",
+    "ClothGroup ID": 973,
+    "Internal ID": 7485,
+    "Unique Entry ID": "8MwDxuHHvYM3XJpmy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crossbody_Boston_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "crossbody boston bag",
+    "Filename": "BagShoulderDrum1",
+    "ClothGroup ID": 973,
+    "Internal ID": 12011,
+    "Unique Entry ID": "w98ZrTQWiRMHyveaa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crossbody_Boston_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "DAL backpack",
+    "Filename": "BagBackpackDal0",
+    "ClothGroup ID": 1185,
+    "Internal ID": 12131,
+    "Unique Entry ID": "3mGmqSPj5YPujiDgD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:DAL_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "dry bag",
+    "Filename": "BagBackpackDry0",
+    "ClothGroup ID": 963,
+    "Internal ID": 7471,
+    "Unique Entry ID": "iwTpuxykXjSBi8b9a",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dry_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "dry bag",
+    "Filename": "BagBackpackDry1",
+    "ClothGroup ID": 963,
+    "Internal ID": 11964,
+    "Unique Entry ID": "cMoNDoZx2sdfD6Haz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dry_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "evening bag",
+    "Filename": "BagShoulderParty2",
+    "ClothGroup ID": 986,
+    "Internal ID": 11977,
+    "Unique Entry ID": "x9Z63uLS8cHdsoczj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Evening_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "evening bag",
+    "Filename": "BagShoulderParty0",
+    "ClothGroup ID": 986,
+    "Internal ID": 7305,
+    "Unique Entry ID": "tZhGqzKpEeEweTZi7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Evening_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "evening bag",
+    "Filename": "BagShoulderParty1",
+    "ClothGroup ID": 986,
+    "Internal ID": 11976,
+    "Unique Entry ID": "SoJkNi7GNiW28tYuG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Evening_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "extra-large backpack",
+    "Filename": "BagBackpackMountain2",
+    "ClothGroup ID": 994,
+    "Internal ID": 11972,
+    "Unique Entry ID": "HqReXLwGPigWMiJbS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Extra-Large_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "extra-large backpack",
+    "Filename": "BagBackpackMountain0",
+    "ClothGroup ID": 994,
+    "Internal ID": 7505,
+    "Unique Entry ID": "sjT2tZJCMpWQNmhTy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Extra-Large_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "extra-large backpack",
+    "Filename": "BagBackpackMountain1",
+    "ClothGroup ID": 994,
+    "Internal ID": 11971,
+    "Unique Entry ID": "MKeBKrETSTs4tyrg4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Extra-Large_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "extra-large backpack",
+    "Filename": "BagBackpackMountain3",
+    "ClothGroup ID": 994,
+    "Internal ID": 11973,
+    "Unique Entry ID": "vvEqA5aMBGyycpQFz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Extra-Large_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "faux-fur bag",
+    "Filename": "BagShoulderFakefur0",
+    "ClothGroup ID": 968,
+    "Internal ID": 7480,
+    "Unique Entry ID": "FyneYzGmHW7SyoHn7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Faux-Fur_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "faux-fur bag",
+    "Filename": "BagShoulderFakefur1",
+    "ClothGroup ID": 968,
+    "Internal ID": 12003,
+    "Unique Entry ID": "gH3fn5rkmCrekWoJB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Faux-Fur_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "fish pochette",
+    "Filename": "BagShoulderFish0",
+    "ClothGroup ID": 965,
+    "Internal ID": 7477,
+    "Unique Entry ID": "CrFcdF3rXiaiiajEB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Pochette_(New_Horizons)"
+  },
+  {
+    "Name": "foldover-top backpack",
+    "Filename": "BagBackpackLid2",
+    "ClothGroup ID": 996,
+    "Internal ID": 12017,
+    "Unique Entry ID": "Z8WFCNZodHtW2DBPB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Foldover-Top_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "foldover-top backpack",
+    "Filename": "BagBackpackLid3",
+    "ClothGroup ID": 996,
+    "Internal ID": 12018,
+    "Unique Entry ID": "nD9TYBr8sw4rhLAyG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Foldover-Top_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "foldover-top backpack",
+    "Filename": "BagBackpackLid0",
+    "ClothGroup ID": 996,
+    "Internal ID": 7507,
+    "Unique Entry ID": "nkXJ2eRThdt4vEpFb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Foldover-Top_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "foldover-top backpack",
+    "Filename": "BagBackpackLid1",
+    "ClothGroup ID": 996,
+    "Internal ID": 12016,
+    "Unique Entry ID": "M8i2DNwxgXKWADAtW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Foldover-Top_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "grape-harvest basket",
+    "Filename": "BagBackpackHarvest0",
+    "ClothGroup ID": 1233,
+    "Internal ID": 12797,
+    "Unique Entry ID": "w3sCtnjHaNJwLD3vk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Grape-Harvest_Basket_(New_Horizons)"
+  },
+  {
+    "Name": "gumdrop shoulder bag",
+    "Filename": "BagShoulderPattern0",
+    "ClothGroup ID": 974,
+    "Internal ID": 7486,
+    "Unique Entry ID": "mQZCwxcr6z3hq5Dgm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gumdrop_Shoulder_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "gumdrop shoulder bag",
+    "Filename": "BagShoulderPattern1",
+    "ClothGroup ID": 974,
+    "Internal ID": 12012,
+    "Unique Entry ID": "JxHQbqWH73Q3GYKT8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gumdrop_Shoulder_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "hand-knit pouch",
+    "Filename": "BagShoulderRace0",
+    "ClothGroup ID": 970,
+    "Internal ID": 7482,
+    "Unique Entry ID": "taTKqY3xif2LhShrf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hand-Knit_Pouch_(New_Horizons)"
+  },
+  {
+    "Name": "hand-knit pouch",
+    "Filename": "BagShoulderRace1",
+    "ClothGroup ID": 970,
+    "Internal ID": 12004,
+    "Unique Entry ID": "GLLrMeJCPd8Xn7fdr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hand-Knit_Pouch_(New_Horizons)"
+  },
+  {
+    "Name": "hard-shell backpack",
+    "Filename": "BagBackpackHardshell2",
+    "ClothGroup ID": 1001,
+    "Internal ID": 11946,
+    "Unique Entry ID": "yxnDx8JQqzZDM66oR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hard-Shell_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "hard-shell backpack",
+    "Filename": "BagBackpackHardshell1",
+    "ClothGroup ID": 1001,
+    "Internal ID": 10184,
+    "Unique Entry ID": "qdP3rmZ7P7HgA2cin",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hard-Shell_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "hard-shell backpack",
+    "Filename": "BagBackpackHardshell0",
+    "ClothGroup ID": 1001,
+    "Internal ID": 7512,
+    "Unique Entry ID": "LETQjE3yFDKze4ntv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hard-Shell_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "impish wings",
+    "Filename": "BagBackpackHalloween2",
+    "ClothGroup ID": 1268,
+    "Internal ID": 13409,
+    "Unique Entry ID": "CcDoJoDqXaXyMYBEx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Impish_Wings_(New_Horizons)"
+  },
+  {
+    "Name": "impish wings",
+    "Filename": "BagBackpackHalloween5",
+    "ClothGroup ID": 1268,
+    "Internal ID": 13412,
+    "Unique Entry ID": "8v2gEqEZYuMibTdvv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Impish_Wings_(New_Horizons)"
+  },
+  {
+    "Name": "impish wings",
+    "Filename": "BagBackpackHalloween4",
+    "ClothGroup ID": 1268,
+    "Internal ID": 13411,
+    "Unique Entry ID": "FZZmBDBcsCn9cx29J",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Impish_Wings_(New_Horizons)"
+  },
+  {
+    "Name": "impish wings",
+    "Filename": "BagBackpackHalloween0",
+    "ClothGroup ID": 1268,
+    "Internal ID": 13015,
+    "Unique Entry ID": "N5Ydq8EZ3TTsKv34c",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Impish_Wings_(New_Horizons)"
+  },
+  {
+    "Name": "impish wings",
+    "Filename": "BagBackpackHalloween3",
+    "ClothGroup ID": 1268,
+    "Internal ID": 13410,
+    "Unique Entry ID": "spWkjYsT4mKfBijAz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Impish_Wings_(New_Horizons)"
+  },
+  {
+    "Name": "impish wings",
+    "Filename": "BagBackpackHalloween1",
+    "ClothGroup ID": 1268,
+    "Internal ID": 13408,
+    "Unique Entry ID": "BqyY8XSWSswej9Lap",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Impish_Wings_(New_Horizons)"
+  },
+  {
+    "Name": "knapsack",
+    "Filename": "BagBackpackKnapsack1",
+    "ClothGroup ID": 997,
+    "Internal ID": 12019,
+    "Unique Entry ID": "Fx4M2zpFTWGww54rw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "knapsack",
+    "Filename": "BagBackpackKnapsack0",
+    "ClothGroup ID": 997,
+    "Internal ID": 7508,
+    "Unique Entry ID": "XbKqQChpAJXng37Mr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "knitted-grass backpack",
+    "Filename": "BagBackpackGrass0",
+    "ClothGroup ID": 1000,
+    "Internal ID": 7511,
+    "Unique Entry ID": "xM5iaYn4gbZoR94Qm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Knitted-Grass_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "log pack",
+    "Filename": "BagBackpackWood0",
+    "ClothGroup ID": 987,
+    "Internal ID": 7498,
+    "Unique Entry ID": "rDDM48hSfsSbcp92u",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Log_Pack_(New_Horizons)"
+  },
+  {
+    "Name": "maple-leaf pochette",
+    "Filename": "BagShoulderMaple0",
+    "ClothGroup ID": 979,
+    "Internal ID": 7491,
+    "Unique Entry ID": "HJDH4dCPMQY9qQanL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Maple-Leaf_Pochette_(New_Horizons)"
+  },
+  {
+    "Name": "messenger bag",
+    "Filename": "BagShoulderMessenger2",
+    "ClothGroup ID": 962,
+    "Internal ID": 11979,
+    "Unique Entry ID": "ZuwiM4DzJF5Rsg46x",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Messenger_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "messenger bag",
+    "Filename": "BagShoulderMessenger1",
+    "ClothGroup ID": 962,
+    "Internal ID": 11978,
+    "Unique Entry ID": "sgxnCe87EdtdoKved",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Messenger_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "messenger bag",
+    "Filename": "BagShoulderMessenger0",
+    "ClothGroup ID": 962,
+    "Internal ID": 7470,
+    "Unique Entry ID": "7mPZ9PnTd46r65DXx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Messenger_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "mini pleather bag",
+    "Filename": "BagBackpackSmall0",
+    "ClothGroup ID": 993,
+    "Internal ID": 7504,
+    "Unique Entry ID": "FyrYDDhzABDegtZ6n",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mini_Pleather_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "mini pleather bag",
+    "Filename": "BagBackpackSmall1",
+    "ClothGroup ID": 993,
+    "Internal ID": 12015,
+    "Unique Entry ID": "hYJk97FFi4zJGQ5cH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mini_Pleather_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's knapsack",
+    "Filename": "BagBackpackQuilt6",
+    "ClothGroup ID": 999,
+    "Internal ID": 12153,
+    "Unique Entry ID": "E3XrB5LbBTu795xbM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's knapsack",
+    "Filename": "BagBackpackQuilt1",
+    "ClothGroup ID": 999,
+    "Internal ID": 12148,
+    "Unique Entry ID": "gqy4s4zFowLbNKTd2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's knapsack",
+    "Filename": "BagBackpackQuilt2",
+    "ClothGroup ID": 999,
+    "Internal ID": 12149,
+    "Unique Entry ID": "Hkju8Bjb8Kaamsu3j",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's knapsack",
+    "Filename": "BagBackpackQuilt7",
+    "ClothGroup ID": 999,
+    "Internal ID": 12154,
+    "Unique Entry ID": "jCi92aiMtZB92idfQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's knapsack",
+    "Filename": "BagBackpackQuilt0",
+    "ClothGroup ID": 999,
+    "Internal ID": 7510,
+    "Unique Entry ID": "szhWnj6jpymTsKce8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's knapsack",
+    "Filename": "BagBackpackQuilt4",
+    "ClothGroup ID": 999,
+    "Internal ID": 12151,
+    "Unique Entry ID": "46PX3NMjAdrNiRQXb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's knapsack",
+    "Filename": "BagBackpackQuilt5",
+    "ClothGroup ID": 999,
+    "Internal ID": 12152,
+    "Unique Entry ID": "hj8ixCKXNWBnGZSrw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's knapsack",
+    "Filename": "BagBackpackQuilt3",
+    "ClothGroup ID": 999,
+    "Internal ID": 12150,
+    "Unique Entry ID": "6uKkNZRz7E8gkSiBF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. knapsack",
+    "Filename": "BagBackpackNook0",
+    "ClothGroup ID": 1150,
+    "Internal ID": 9761,
+    "Unique Entry ID": "zQh6chGG66h4f5JbX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Knapsack_(New_Horizons)"
+  },
+  {
+    "Name": "outdoor backpack",
+    "Filename": "BagBackpackOutdoor1",
+    "ClothGroup ID": 990,
+    "Internal ID": 11969,
+    "Unique Entry ID": "hiF7bqmoudyFJPcWG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoor_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "outdoor backpack",
+    "Filename": "BagBackpackOutdoor0",
+    "ClothGroup ID": 990,
+    "Internal ID": 7501,
+    "Unique Entry ID": "CAsQFPPeo3vBGpHSo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoor_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "outdoor backpack",
+    "Filename": "BagBackpackOutdoor2",
+    "ClothGroup ID": 990,
+    "Internal ID": 11970,
+    "Unique Entry ID": "qd8DJb8mX5zhewgyn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoor_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "pleather crossbody bag",
+    "Filename": "BagBackpackBodybag1",
+    "ClothGroup ID": 972,
+    "Internal ID": 12005,
+    "Unique Entry ID": "QDPYGrpFNNir49uBe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Crossbody_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "pleather crossbody bag",
+    "Filename": "BagBackpackBodybag0",
+    "ClothGroup ID": 972,
+    "Internal ID": 7484,
+    "Unique Entry ID": "YQD8XMuvDbymAeKxt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Crossbody_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "pleather fringe bag",
+    "Filename": "BagShoulderFringe1",
+    "ClothGroup ID": 969,
+    "Internal ID": 12010,
+    "Unique Entry ID": "fiM98m9CGgi6iATkQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Fringe_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "pleather fringe bag",
+    "Filename": "BagShoulderFringe0",
+    "ClothGroup ID": 969,
+    "Internal ID": 7481,
+    "Unique Entry ID": "7RYHreaA7o9huubNu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Fringe_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "pleather shoulder bag",
+    "Filename": "BagShoulderLeather1",
+    "ClothGroup ID": 964,
+    "Internal ID": 12009,
+    "Unique Entry ID": "ZKgcPhGYErHShMrGR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Shoulder_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "pleather shoulder bag",
+    "Filename": "BagShoulderLeather0",
+    "ClothGroup ID": 964,
+    "Internal ID": 7476,
+    "Unique Entry ID": "9AqRYq83NRMxrEWiD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Shoulder_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "retro sports bag",
+    "Filename": "BagShoulderSports1",
+    "ClothGroup ID": 984,
+    "Internal ID": 12007,
+    "Unique Entry ID": "Lqtjq3rWFoy4Dv39C",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Sports_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "retro sports bag",
+    "Filename": "BagShoulderSports0",
+    "ClothGroup ID": 984,
+    "Internal ID": 7302,
+    "Unique Entry ID": "vY7qcZFdWb3HgSv7L",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Sports_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "retro sports bag",
+    "Filename": "BagShoulderSports2",
+    "ClothGroup ID": 984,
+    "Internal ID": 12008,
+    "Unique Entry ID": "nGhHjk4GEKSQwvARA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Sports_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "sacoche bag",
+    "Filename": "BagShoulderSacosh2",
+    "ClothGroup ID": 985,
+    "Internal ID": 11975,
+    "Unique Entry ID": "NRYqQLN2Beq4jpDBJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sacoche_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "sacoche bag",
+    "Filename": "BagShoulderSacosh1",
+    "ClothGroup ID": 985,
+    "Internal ID": 11974,
+    "Unique Entry ID": "LYnLwBnwTYcMp4fr9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sacoche_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "sacoche bag",
+    "Filename": "BagShoulderSacosh0",
+    "ClothGroup ID": 985,
+    "Internal ID": 7304,
+    "Unique Entry ID": "n82fhWWNSv8kyFJc2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sacoche_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "shellfish pochette",
+    "Filename": "BagShoulderShell0",
+    "ClothGroup ID": 982,
+    "Internal ID": 7494,
+    "Unique Entry ID": "XEsQxMf7k9qvjYxPF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shellfish_Pochette_(New_Horizons)"
+  },
+  {
+    "Name": "snowflake pochette",
+    "Filename": "BagShoulderSnow0",
+    "ClothGroup ID": 981,
+    "Internal ID": 7493,
+    "Unique Entry ID": "gW7R4HX8hjZEHAFtB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snowflake_Pochette_(New_Horizons)"
+  },
+  {
+    "Name": "square backpack",
+    "Filename": "BagBackpackSquare1",
+    "ClothGroup ID": 989,
+    "Internal ID": 11967,
+    "Unique Entry ID": "wN6jaJRRvg6cQZXhk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Square_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "square backpack",
+    "Filename": "BagBackpackSquare0",
+    "ClothGroup ID": 989,
+    "Internal ID": 7500,
+    "Unique Entry ID": "2RYepaMxTnXMZ9tXg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Square_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "square backpack",
+    "Filename": "BagBackpackSquare2",
+    "ClothGroup ID": 989,
+    "Internal ID": 11968,
+    "Unique Entry ID": "rJain6G9X749mG5p7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Square_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "star pochette",
+    "Filename": "BagShoulderStar0",
+    "ClothGroup ID": 977,
+    "Internal ID": 7489,
+    "Unique Entry ID": "3WQ8vSWtHMjZ6YPtR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Pochette_(New_Horizons)"
+  },
+  {
+    "Name": "straw pochette",
+    "Filename": "BagShoulderRattan0",
+    "ClothGroup ID": 976,
+    "Internal ID": 7488,
+    "Unique Entry ID": "CGs3z4dKEkH82FDyq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Straw_Pochette_(New_Horizons)"
+  },
+  {
+    "Name": "studded backpack",
+    "Filename": "BagBackpackStuds1",
+    "ClothGroup ID": 992,
+    "Internal ID": 12006,
+    "Unique Entry ID": "e6iev2NrSfaxSg5nr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Studded_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "studded backpack",
+    "Filename": "BagBackpackStuds0",
+    "ClothGroup ID": 992,
+    "Internal ID": 7503,
+    "Unique Entry ID": "mTMCDJnwtFJzvQ9rs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Studded_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "tackle bag",
+    "Filename": "BagShoulderFishing0",
+    "ClothGroup ID": 966,
+    "Internal ID": 7478,
+    "Unique Entry ID": "prkWCjgn7gTK4X8QH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tackle_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "tool bag",
+    "Filename": "BagShoulderTool0",
+    "ClothGroup ID": 983,
+    "Internal ID": 7497,
+    "Unique Entry ID": "KiXvv8fvv7CN5sFDx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tool_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "town backpack",
+    "Filename": "BagBackpackTown3",
+    "ClothGroup ID": 957,
+    "Internal ID": 11945,
+    "Unique Entry ID": "wkeZwbrp9BoHTEPRZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Town_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "town backpack",
+    "Filename": "BagBackpackTown1",
+    "ClothGroup ID": 957,
+    "Internal ID": 6839,
+    "Unique Entry ID": "aZasytqebQRikaZZZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Town_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "town backpack",
+    "Filename": "BagBackpackTown0",
+    "ClothGroup ID": 957,
+    "Internal ID": 6838,
+    "Unique Entry ID": "sm5eKnwyeNyKGXQLC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Town_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "town backpack",
+    "Filename": "BagBackpackTown2",
+    "ClothGroup ID": 957,
+    "Internal ID": 11944,
+    "Unique Entry ID": "WGhvofsBw6pFs5c93",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Town_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "travel pouch",
+    "Filename": "BagShoulderTravel0",
+    "ClothGroup ID": 958,
+    "Internal ID": 2550,
+    "Unique Entry ID": "ygrWBZtknqDLLH8Rn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Travel_Pouch_(New_Horizons)"
+  },
+  {
+    "Name": "travel pouch",
+    "Filename": "BagShoulderTravel1",
+    "ClothGroup ID": 958,
+    "Internal ID": 12000,
+    "Unique Entry ID": "oX3GfBwtMfcQ4STtd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Travel_Pouch_(New_Horizons)"
+  },
+  {
+    "Name": "travel pouch",
+    "Filename": "BagShoulderTravel2",
+    "ClothGroup ID": 958,
+    "Internal ID": 12001,
+    "Unique Entry ID": "SSHDSgfSasCP6AgmW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Travel_Pouch_(New_Horizons)"
+  },
+  {
+    "Name": "travel pouch",
+    "Filename": "BagShoulderTravel3",
+    "ClothGroup ID": 958,
+    "Internal ID": 12002,
+    "Unique Entry ID": "HTjXg6MXwPZCwEtmJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Travel_Pouch_(New_Horizons)"
+  },
+  {
+    "Name": "traveler's backpack",
+    "Filename": "BagBackpackJourney0",
+    "ClothGroup ID": 988,
+    "Internal ID": 7499,
+    "Unique Entry ID": "ag2m7kcBg83aCARGE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Traveler's_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "traveler's backpack",
+    "Filename": "BagBackpackJourney1",
+    "ClothGroup ID": 988,
+    "Internal ID": 11965,
+    "Unique Entry ID": "iprTWWTSARJtHTKqF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Traveler's_Backpack_(New_Horizons)"
+  },
+  {
+    "Name": "traveler's backpack",
+    "Filename": "BagBackpackJourney2",
+    "ClothGroup ID": 988,
+    "Internal ID": 11966,
+    "Unique Entry ID": "ehhBAiZqTHaTExHYP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Traveler's_Backpack_(New_Horizons)"
+  }
+]

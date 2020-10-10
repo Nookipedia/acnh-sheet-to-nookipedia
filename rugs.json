@@ -1,0 +1,954 @@
+[
+  {
+    "Name": "aluminum rug",
+    "Filename": "RugRectAluminumM00",
+    "Internal ID": 7356,
+    "Unique Entry ID": "vFkuGbx8Sh2MDLEsq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Aluminum_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "apple rug",
+    "Filename": "RugOtherAppleM00",
+    "Internal ID": 7327,
+    "Unique Entry ID": "5GsjYsaz9NDtQ6QFB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Apple_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "Bell-bag rug",
+    "Filename": "RugOtherBellM00",
+    "Internal ID": 12214,
+    "Unique Entry ID": "KfRapmYKpizqQWzCg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bell-Bag_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "black blocks rug",
+    "Filename": "RugSquareBlockM03",
+    "Internal ID": 11104,
+    "Unique Entry ID": "4kj8FXzMTqvZvqEra",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black_Blocks_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "black wooden-deck rug",
+    "Filename": "RugRectDeckM03",
+    "Internal ID": 7382,
+    "Unique Entry ID": "kQDKkEGfdAjqPxd4w",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black_Wooden-Deck_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "black-design kitchen mat",
+    "Filename": "RugRectNativeKitchenS03",
+    "Internal ID": 7594,
+    "Unique Entry ID": "G7CAPiAEpYv6QKbsL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Black-Design_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "blue argyle rug",
+    "Filename": "RugRectArgyleL02",
+    "Internal ID": 8467,
+    "Unique Entry ID": "uw8DvCwwBia7ozA72",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Argyle_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "blue blocks rug",
+    "Filename": "RugSquareBlockM01",
+    "Internal ID": 11102,
+    "Unique Entry ID": "Mjxd8kenDFZgTFXcm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Blocks_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "blue dotted rug",
+    "Filename": "RugRectDotL03",
+    "Internal ID": 7467,
+    "Unique Entry ID": "JAAx9zSMrjXKKw2ij",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Dotted_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "blue kilim-style carpet",
+    "Filename": "RugSquareKirimL01",
+    "Internal ID": 9316,
+    "Unique Entry ID": "MhvdxvmyKtddid2G2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Kilim-Style_Carpet_(New_Horizons)"
+  },
+  {
+    "Name": "blue kitchen mat",
+    "Filename": "RugRectKitchenS02",
+    "Internal ID": 8394,
+    "Unique Entry ID": "SLBDbK365pHRnKE5k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "blue medium round mat",
+    "Filename": "RugRoundSimpleM02",
+    "Internal ID": 9546,
+    "Unique Entry ID": "JfLKCbWRz4CozZYpH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Medium_Round_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "blue message mat",
+    "Filename": "RugOtherMessageS01",
+    "Internal ID": 9310,
+    "Unique Entry ID": "5grLuDzGkNL4DYk4r",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Message_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "blue Persian rug",
+    "Filename": "RugSquarePersianL01",
+    "Internal ID": 8035,
+    "Unique Entry ID": "CDY97qjWg4xG6egyS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Persian_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "blue shaggy rug",
+    "Filename": "RugSquareShaggyL02",
+    "Internal ID": 9564,
+    "Unique Entry ID": "v4ZJPY2ToZPHXp6KH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Shaggy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "blue small round mat",
+    "Filename": "RugRoundSimpleS02",
+    "Internal ID": 9549,
+    "Unique Entry ID": "BxaqCsC7TqwGdHpib",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Small_Round_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "blue stripes rug",
+    "Filename": "RugRectBorderL02",
+    "Internal ID": 7533,
+    "Unique Entry ID": "dAHzKeTqwA9wD2yfa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Stripes_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "blue vinyl sheet",
+    "Filename": "RugRectVinylM01",
+    "Internal ID": 7404,
+    "Unique Entry ID": "b8xZjiyqLPWJsgt73",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Vinyl_Sheet_(New_Horizons)"
+  },
+  {
+    "Name": "blue wavy rug",
+    "Filename": "RugRectWaveL02",
+    "Internal ID": 7458,
+    "Unique Entry ID": "SbRQxAyR7EZSRBb4j",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Wavy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "blue wedding rug",
+    "Filename": "RugRectJuneBrideM00",
+    "Internal ID": 12462,
+    "Unique Entry ID": "ghEfAZG8Lt5sb8nt3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Wedding_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "blue-design kitchen mat",
+    "Filename": "RugRectNativeKitchenS01",
+    "Internal ID": 7595,
+    "Unique Entry ID": "DiEHu3wPobZXzhhp8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue-Design_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "botanical rug",
+    "Filename": "RugRectBotanicalL00",
+    "Internal ID": 7353,
+    "Unique Entry ID": "nEqsaya7wt6FsWwDC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Botanical_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "brown argyle rug",
+    "Filename": "RugRectArgyleL03",
+    "Internal ID": 8468,
+    "Unique Entry ID": "yrQTuyQr2m6axKkr2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Argyle_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "brown kitchen mat",
+    "Filename": "RugRectKitchenS00",
+    "Internal ID": 7341,
+    "Unique Entry ID": "2ya9gAeftrSe4YSmE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "brown shaggy rug",
+    "Filename": "RugSquareShaggyL01",
+    "Internal ID": 9563,
+    "Unique Entry ID": "cAFej6s3C7T3DYykj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Shaggy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "brown wooden-deck rug",
+    "Filename": "RugRectDeckM00",
+    "Internal ID": 7323,
+    "Unique Entry ID": "MSPQjkRRMRGNRTeEt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Brown_Wooden-Deck_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day rug",
+    "Filename": "RugOtherEasterM00",
+    "Internal ID": 7546,
+    "Unique Entry ID": "6tC8Zhswobdah6ftE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "cherry rug",
+    "Filename": "RugOtherCherryM00",
+    "Internal ID": 7328,
+    "Unique Entry ID": "R9Bxb8FQw7Fj2YuCa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "colorful vinyl sheet",
+    "Filename": "RugRectVinylM00",
+    "Internal ID": 7359,
+    "Unique Entry ID": "FAAQgrJJM4svoYJb8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Vinyl_Sheet_(New_Horizons)"
+  },
+  {
+    "Name": "dark bamboo rug",
+    "Filename": "RugRectBambooM01",
+    "Internal ID": 11114,
+    "Unique Entry ID": "yC3qR56GTSs3PZuJi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Bamboo_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "Earth rug",
+    "Filename": "RugRoundEarthM00",
+    "Internal ID": 7357,
+    "Unique Entry ID": "RPF9JQeXN8cD4afuE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Earth_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "fish rug",
+    "Filename": "RugOtherFishM00",
+    "Internal ID": 7361,
+    "Unique Entry ID": "iWb2Ca8YMDYnpyDrx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "fluffy rug",
+    "Filename": "RugOtherCloudM00",
+    "Internal ID": 7329,
+    "Unique Entry ID": "DKPzh943uZYKHKsX7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fluffy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "fossil rug",
+    "Filename": "RugOtherFossilM00",
+    "Internal ID": 7366,
+    "Unique Entry ID": "P2tKuDsb8sxfpKXh3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fossil_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "green checked rug",
+    "Filename": "RugSquareCheckQuiltL03",
+    "Internal ID": 7464,
+    "Unique Entry ID": "hAYpTXLShJh7p5gcB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Checked_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "green kilim-style carpet",
+    "Filename": "RugSquareKirimL02",
+    "Internal ID": 9314,
+    "Unique Entry ID": "86w3TxnYsZLSzeX2q",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Kilim-Style_Carpet_(New_Horizons)"
+  },
+  {
+    "Name": "green kitchen mat",
+    "Filename": "RugRectKitchenS03",
+    "Internal ID": 8393,
+    "Unique Entry ID": "QpRcMgKRTNvayFdy9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "green shaggy rug",
+    "Filename": "RugSquareShaggyL00",
+    "Internal ID": 7354,
+    "Unique Entry ID": "hNWup2nSxzMMsGfyy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Shaggy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "green stripes rug",
+    "Filename": "RugRectBorderL03",
+    "Internal ID": 7534,
+    "Unique Entry ID": "DEEzqeCYXaxA8i63W",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Stripes_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "iron entrance mat",
+    "Filename": "RugRectIronmatS00",
+    "Internal ID": 7337,
+    "Unique Entry ID": "KaHhjd5QbpmmmhkCg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iron_Entrance_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "ivory medium round mat",
+    "Filename": "RugRoundSimpleM00",
+    "Internal ID": 7325,
+    "Unique Entry ID": "ucw27wEffTFj9DK4v",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ivory_Medium_Round_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "ivory simple bath mat",
+    "Filename": "RugRectBathmatS00",
+    "Internal ID": 7333,
+    "Unique Entry ID": "iFx2DHj9qJsY8vzsT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ivory_Simple_Bath_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "ivory small round mat",
+    "Filename": "RugRoundSimpleS00",
+    "Internal ID": 7334,
+    "Unique Entry ID": "8to7AD6FkrkZkaKX5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ivory_Small_Round_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "lacy rug",
+    "Filename": "RugRoundLaceM00",
+    "Internal ID": 7368,
+    "Unique Entry ID": "bzWc6Hh3tAnYcgh3f",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lacy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "ladybug rug",
+    "Filename": "RugRoundLadybirdM00",
+    "Internal ID": 7360,
+    "Unique Entry ID": "T7T3r6GJqfhndy5xp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladybug_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "light bamboo rug",
+    "Filename": "RugRectBambooM00",
+    "Internal ID": 11113,
+    "Unique Entry ID": "c34AemWJDW8WvYGrm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Light_Bamboo_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "magic-circle rug",
+    "Filename": "RugRoundMagicM00",
+    "Internal ID": 7367,
+    "Unique Entry ID": "77PHyfuxLmPTgriT2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Magic-Circle_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "mermaid rug",
+    "Filename": "RugOtherMermaidM00",
+    "Internal ID": 12563,
+    "Unique Entry ID": "WfJHsYQ4KETP2yDEs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mermaid_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "modern wavy rug",
+    "Filename": "RugRectWaveL00",
+    "Internal ID": 7350,
+    "Unique Entry ID": "tfdJqWZ2ETosBdHem",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Modern_Wavy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's cool kitchen mat",
+    "Filename": "RugRectMomS00",
+    "Internal ID": 7402,
+    "Unique Entry ID": "QR6HWdrKgLeoFAkzR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Cool_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's lively kitchen mat",
+    "Filename": "RugRectMomS02",
+    "Internal ID": 9543,
+    "Unique Entry ID": "MvLXeraTpCoKRqmWA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Lively_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's playful kitchen mat",
+    "Filename": "RugRectMomS01",
+    "Internal ID": 9542,
+    "Unique Entry ID": "3F5HHssaHXMit7YMH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Playful_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's reliable kitchen mat",
+    "Filename": "RugRectMomS03",
+    "Internal ID": 9541,
+    "Unique Entry ID": "pe2KbbDbmkWPyd56c",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Reliable_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "monochromatic dotted rug",
+    "Filename": "RugRectDotL00",
+    "Internal ID": 7349,
+    "Unique Entry ID": "n7kdsLeGa9sFzPfYR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monochromatic_Dotted_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "monochromatic wavy rug",
+    "Filename": "RugRectWaveL01",
+    "Internal ID": 7456,
+    "Unique Entry ID": "KEQx7PcEYYP5C8QGW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monochromatic_Wavy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "moon rug",
+    "Filename": "RugRoundMoonM00",
+    "Internal ID": 13287,
+    "Unique Entry ID": "ZSc6ADmEcAnG92DWv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Moon_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "mush rug",
+    "Filename": "RugOtherMushM00",
+    "Internal ID": 7363,
+    "Unique Entry ID": "deKdNh2bu4udJ5zYx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mush_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "natural wooden-deck rug",
+    "Filename": "RugRectDeckM01",
+    "Internal ID": 7380,
+    "Unique Entry ID": "4xyhHztk2b3GbRKu6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Natural_Wooden-Deck_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. botanical rug",
+    "Filename": "RugOtherTanukiM00",
+    "Internal ID": 12325,
+    "Unique Entry ID": "WiHenFMXuxj7q2rgq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Botanical_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. rug",
+    "Filename": "RugOtherLeafM00",
+    "Internal ID": 7364,
+    "Unique Entry ID": "HFmdcXn43ApSRKdk4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Rug_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. silk rug",
+    "Filename": "RugRectTanukiL00",
+    "Internal ID": 12396,
+    "Unique Entry ID": "XQ72LLzAakWbavKFr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Silk_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "orange rug",
+    "Filename": "RugOtherOrangeM00",
+    "Internal ID": 7330,
+    "Unique Entry ID": "cXGa9CDpwXcCMzQw2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "oval entrance mat",
+    "Filename": "RugOtherCountryS00",
+    "Internal ID": 7370,
+    "Unique Entry ID": "TJaw3inQooLN9DXGt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Entrance_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "peach checked rug",
+    "Filename": "RugSquareCheckQuiltL02",
+    "Internal ID": 7463,
+    "Unique Entry ID": "QLtQLYyCeg7A28tzC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peach_Checked_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "peach rug",
+    "Filename": "RugOtherPeachM00",
+    "Internal ID": 7331,
+    "Unique Entry ID": "tqGgxHpeDfRCGRrjY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peach_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "peach stripes rug",
+    "Filename": "RugRectBorderL01",
+    "Internal ID": 7532,
+    "Unique Entry ID": "LGhZCR8PgGQJYqST9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peach_Stripes_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "pear rug",
+    "Filename": "RugOtherPearM00",
+    "Internal ID": 7332,
+    "Unique Entry ID": "hLakk5wPNF2RHRCHR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pear_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "pink heart rug",
+    "Filename": "RugOtherHeartM00",
+    "Internal ID": 7322,
+    "Unique Entry ID": "TY5kKqhPpxgifmRJF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Heart_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "pink rose rug",
+    "Filename": "RugOtherRoseM00",
+    "Internal ID": 7365,
+    "Unique Entry ID": "adYBsXgG3etWwtsds",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Rose_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "pirate rug",
+    "Filename": "RugRectPiratesM00",
+    "Internal ID": 12564,
+    "Unique Entry ID": "RPasRWt9A7bb4h4yv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "purple heart rug",
+    "Filename": "RugOtherHeartM02",
+    "Internal ID": 7580,
+    "Unique Entry ID": "LzB8y9NY5cwZJETQy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Heart_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "purple Persian rug",
+    "Filename": "RugSquarePersianL03",
+    "Internal ID": 8037,
+    "Unique Entry ID": "QzKyWFwcBF6DNoMQS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Persian_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "purple shaggy rug",
+    "Filename": "RugSquareShaggyL03",
+    "Internal ID": 9562,
+    "Unique Entry ID": "jYsKTqR44uCHSGbnE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Shaggy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red argyle rug",
+    "Filename": "RugRectArgyleL01",
+    "Internal ID": 8466,
+    "Unique Entry ID": "JcnvagFXFrtRojuX5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Argyle_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red blocks rug",
+    "Filename": "RugSquareBlockM00",
+    "Internal ID": 11101,
+    "Unique Entry ID": "PWaKA8fJZfRLdgBjP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Blocks_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red carpet",
+    "Filename": "RugRectElegantM00",
+    "Internal ID": 7348,
+    "Unique Entry ID": "DrZgYBvviB7CGP3nx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Carpet_(New_Horizons)"
+  },
+  {
+    "Name": "red dotted rug",
+    "Filename": "RugRectDotL02",
+    "Internal ID": 7465,
+    "Unique Entry ID": "6KoyAtx4QA2BuXKea",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Dotted_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red kilim-style carpet",
+    "Filename": "RugSquareKirimL00",
+    "Internal ID": 9313,
+    "Unique Entry ID": "dhvJNNbRm9qDxXrpJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Kilim-Style_Carpet_(New_Horizons)"
+  },
+  {
+    "Name": "red medium round mat",
+    "Filename": "RugRoundSimpleM01",
+    "Internal ID": 9545,
+    "Unique Entry ID": "Ev2FGNQPGqW8Nn7fk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Medium_Round_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "red message mat",
+    "Filename": "RugOtherMessageS03",
+    "Internal ID": 9312,
+    "Unique Entry ID": "uYJPL9oP3tgpZHNhL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Message_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "red Persian rug",
+    "Filename": "RugSquarePersianL00",
+    "Internal ID": 7347,
+    "Unique Entry ID": "ToTG8debi3YH93yqJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Persian_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red rose rug",
+    "Filename": "RugOtherRoseM01",
+    "Internal ID": 8758,
+    "Unique Entry ID": "cXt7bSZGo8G4MWZ3x",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Rose_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red small round mat",
+    "Filename": "RugRoundSimpleS01",
+    "Internal ID": 9548,
+    "Unique Entry ID": "z6C8NBYbSkshNZG7J",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Small_Round_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "red vinyl sheet",
+    "Filename": "RugRectVinylM02",
+    "Internal ID": 7405,
+    "Unique Entry ID": "2tPPLjzq42Z8wjtNv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Vinyl_Sheet_(New_Horizons)"
+  },
+  {
+    "Name": "red wavy rug",
+    "Filename": "RugRectWaveL03",
+    "Internal ID": 7457,
+    "Unique Entry ID": "pPTXqs45y6k23f62j",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Wavy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red wedding rug",
+    "Filename": "RugRectJuneBrideM02",
+    "Internal ID": 12465,
+    "Unique Entry ID": "LmxrQZwL5HrEzsHqK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Wedding_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red-and-blue checked rug",
+    "Filename": "RugSquareCheckQuiltL00",
+    "Internal ID": 7343,
+    "Unique Entry ID": "zrouM9QCzYKg3kBcc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red-And-Blue_Checked_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "red-design kitchen mat",
+    "Filename": "RugRectNativeKitchenS00",
+    "Internal ID": 7340,
+    "Unique Entry ID": "7KtKd8P5tbGSfG2qZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red-Design_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "retro dotted rug",
+    "Filename": "RugRectDotL01",
+    "Internal ID": 7466,
+    "Unique Entry ID": "29Pm3PcqEJ3nP36sh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Dotted_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "rough rug",
+    "Filename": "RugRectDoormatS00",
+    "Internal ID": 7324,
+    "Unique Entry ID": "oEg77tXhJ6GReb7gp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rough_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "rubber mud mat",
+    "Filename": "RugRectRubberScraperS00",
+    "Internal ID": 7339,
+    "Unique Entry ID": "Er4wGFd53SAq3zsGX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rubber_Mud_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "shanty mat",
+    "Filename": "RugSquareOldStrawL00",
+    "Internal ID": 7345,
+    "Unique Entry ID": "jLR8r3aHpRe4yJyxA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shanty_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "shell rug",
+    "Filename": "RugOtherShellM00",
+    "Internal ID": 7362,
+    "Unique Entry ID": "kC3KJRKazh5c6m2uN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shell_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "simple green bath mat",
+    "Filename": "RugRectBathmatS03",
+    "Internal ID": 7516,
+    "Unique Entry ID": "zfRhHqsvfBg5D6CJA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Green_Bath_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple medium avocado mat",
+    "Filename": "RugSquareSimpleM03",
+    "Internal ID": 7524,
+    "Unique Entry ID": "9BzJWMCmruohLvY8x",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Medium_Avocado_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple medium black mat",
+    "Filename": "RugSquareSimpleM07",
+    "Internal ID": 7539,
+    "Unique Entry ID": "Nmx4FN5RX5LJ2xRF8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Medium_Black_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple medium blue mat",
+    "Filename": "RugSquareSimpleM02",
+    "Internal ID": 7523,
+    "Unique Entry ID": "7nEjDqYTsZdF3n8Ky",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Medium_Blue_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple medium brown mat",
+    "Filename": "RugSquareSimpleM01",
+    "Internal ID": 7519,
+    "Unique Entry ID": "FAqsC7JonfkPt3jc2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Medium_Brown_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple medium orange mat",
+    "Filename": "RugSquareSimpleM05",
+    "Internal ID": 7536,
+    "Unique Entry ID": "Bt6N5gWJJNtdNg8TC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Medium_Orange_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple medium purple mat",
+    "Filename": "RugSquareSimpleM06",
+    "Internal ID": 7538,
+    "Unique Entry ID": "9WryqBnvAMiSF7vJ6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Medium_Purple_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple medium red mat",
+    "Filename": "RugSquareSimpleM04",
+    "Internal ID": 7540,
+    "Unique Entry ID": "yB22Mz4KP2wbzjYtv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Medium_Red_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple navy bath mat",
+    "Filename": "RugRectBathmatS01",
+    "Internal ID": 7518,
+    "Unique Entry ID": "AZQdF6gMi89DXP9K3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Navy_Bath_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple pink bath mat",
+    "Filename": "RugRectBathmatS02",
+    "Internal ID": 7517,
+    "Unique Entry ID": "Lqze8wPcmFatBMFDw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Pink_Bath_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple small avocado mat",
+    "Filename": "RugSquareSimpleS03",
+    "Internal ID": 7520,
+    "Unique Entry ID": "PKfPEbTw8C55Qc5oH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Small_Avocado_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple small black mat",
+    "Filename": "RugSquareSimpleS07",
+    "Internal ID": 7543,
+    "Unique Entry ID": "uSGDYs7hCuxMBTZbi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Small_Black_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple small blue mat",
+    "Filename": "RugSquareSimpleS02",
+    "Internal ID": 7521,
+    "Unique Entry ID": "Q7FSQ4q6Hzt2YihKH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Small_Blue_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple small brown mat",
+    "Filename": "RugSquareSimpleS01",
+    "Internal ID": 7522,
+    "Unique Entry ID": "aKCpcBCjrn6wWcyw2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Small_Brown_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple small orange mat",
+    "Filename": "RugSquareSimpleS05",
+    "Internal ID": 7541,
+    "Unique Entry ID": "WomwFGQsQgogZNtQf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Small_Orange_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple small purple mat",
+    "Filename": "RugSquareSimpleS06",
+    "Internal ID": 7542,
+    "Unique Entry ID": "h7wpDFdwKgJs2BvgG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Small_Purple_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "simple small red mat",
+    "Filename": "RugSquareSimpleS04",
+    "Internal ID": 7537,
+    "Unique Entry ID": "nRakPP7nXacJB3YHX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Small_Red_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "sloppy rug",
+    "Filename": "RugOtherSloppyL00",
+    "Internal ID": 7371,
+    "Unique Entry ID": "337rrvb9iapfJC4nb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sloppy_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "snowflake rug",
+    "Filename": "RugRoundSnowM00",
+    "Internal ID": 7346,
+    "Unique Entry ID": "upNaAkxPwQRHP6NXi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snowflake_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "spooky rug",
+    "Filename": "RugSquareHalloweenL00",
+    "Internal ID": 7545,
+    "Unique Entry ID": "vgzmZDqaGRtrDN7Pv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spooky_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "tatami mat",
+    "Filename": "RugRectTatamiM00",
+    "Internal ID": 7369,
+    "Unique Entry ID": "m7efgfNG3HZR6G29s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tatami_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "tropical rug",
+    "Filename": "RugRoundIslandM00",
+    "Internal ID": 7358,
+    "Unique Entry ID": "tjgfDcBRhWQrxhjzk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tropical_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "turquoise heart rug",
+    "Filename": "RugOtherHeartM01",
+    "Internal ID": 7579,
+    "Unique Entry ID": "MeN8d4a4YKoFc2zDW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Turquoise_Heart_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "white heart rug",
+    "Filename": "RugOtherHeartM03",
+    "Internal ID": 7578,
+    "Unique Entry ID": "ur5qNz9QEkkCEPRDQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Heart_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "white message mat",
+    "Filename": "RugOtherMessageS00",
+    "Internal ID": 7338,
+    "Unique Entry ID": "ey5h5kDoaHvTgEdkj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Message_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "white rose rug",
+    "Filename": "RugOtherRoseM03",
+    "Internal ID": 8757,
+    "Unique Entry ID": "fWrizz9CC3Lg8apM2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Rose_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "white simple medium mat",
+    "Filename": "RugSquareSimpleM00",
+    "Internal ID": 7335,
+    "Unique Entry ID": "vXD2oADv2fg4QRCp6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Simple_Medium_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "white simple small mat",
+    "Filename": "RugSquareSimpleS00",
+    "Internal ID": 7336,
+    "Unique Entry ID": "vhxZi6oAZWm9gxRfK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Simple_Small_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "white wedding rug",
+    "Filename": "RugRectJuneBrideM03",
+    "Internal ID": 12464,
+    "Unique Entry ID": "At7cbGksXn6rvhkQr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Wedding_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "white wooden-deck rug",
+    "Filename": "RugRectDeckM02",
+    "Internal ID": 7381,
+    "Unique Entry ID": "nmBMJkGHnxGdzYzzP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:White_Wooden-Deck_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "yellow argyle rug",
+    "Filename": "RugRectArgyleL00",
+    "Internal ID": 7352,
+    "Unique Entry ID": "TEzohiZZfTSxoSNpd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Argyle_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "yellow blocks rug",
+    "Filename": "RugSquareBlockM02",
+    "Internal ID": 11103,
+    "Unique Entry ID": "Gb4rwvjZv74CDT8qE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Blocks_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "yellow checked rug",
+    "Filename": "RugSquareCheckQuiltL01",
+    "Internal ID": 7462,
+    "Unique Entry ID": "GdqeFkwTpKJLFQpyK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Checked_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "yellow kilim-style carpet",
+    "Filename": "RugSquareKirimL03",
+    "Internal ID": 9315,
+    "Unique Entry ID": "274gPov62L9zR3onG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Kilim-Style_Carpet_(New_Horizons)"
+  },
+  {
+    "Name": "yellow kitchen mat",
+    "Filename": "RugRectKitchenS01",
+    "Internal ID": 8395,
+    "Unique Entry ID": "CyGFnLgFnD3jrgKio",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Kitchen_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "yellow medium round mat",
+    "Filename": "RugRoundSimpleM03",
+    "Internal ID": 9544,
+    "Unique Entry ID": "TfKNppy5CiswuZGSw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Medium_Round_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "yellow message mat",
+    "Filename": "RugOtherMessageS02",
+    "Internal ID": 9311,
+    "Unique Entry ID": "6NpR38JASvkZDezYq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Message_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "yellow Persian rug",
+    "Filename": "RugSquarePersianL02",
+    "Internal ID": 8036,
+    "Unique Entry ID": "HdsBjfD2ongYrBt5m",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Persian_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "yellow rose rug",
+    "Filename": "RugOtherRoseM02",
+    "Internal ID": 8759,
+    "Unique Entry ID": "jta8sYzY36aqcjp3T",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Rose_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "yellow small round mat",
+    "Filename": "RugRoundSimpleS03",
+    "Internal ID": 9547,
+    "Unique Entry ID": "FS2ZvZLcRQDHp6hHr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Small_Round_Mat_(New_Horizons)"
+  },
+  {
+    "Name": "yellow stripes rug",
+    "Filename": "RugRectBorderL00",
+    "Internal ID": 7351,
+    "Unique Entry ID": "mJP9gz2YZAcQsWELE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Stripes_Rug_(New_Horizons)"
+  },
+  {
+    "Name": "yellow vinyl sheet",
+    "Filename": "RugRectVinylM03",
+    "Internal ID": 7403,
+    "Unique Entry ID": "8tMeC24TcYdot9ZuC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Vinyl_Sheet_(New_Horizons)"
+  },
+  {
+    "Name": "yellow-design kitchen mat",
+    "Filename": "RugRectNativeKitchenS02",
+    "Internal ID": 7596,
+    "Unique Entry ID": "B76hfTkYR2vm96Hfd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow-Design_Kitchen_Mat_(New_Horizons)"
+  }
+]

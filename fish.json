@@ -1,0 +1,642 @@
+[
+  {
+    "Name": "anchovy",
+    "Critterpedia Filename": "FishAntyobi",
+    "Furniture Filename": "FtrFishAntyobi",
+    "Internal ID": 4201,
+    "Unique Entry ID": "LzuWkSQP55uEpRCP5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Anchovy_(fish)"
+  },
+  {
+    "Name": "angelfish",
+    "Critterpedia Filename": "FishAngelfish",
+    "Furniture Filename": "FtrFishAngelfish",
+    "Internal ID": 2247,
+    "Unique Entry ID": "XTCFCk2SiuY5YXLZ7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Angelfish"
+  },
+  {
+    "Name": "arapaima",
+    "Critterpedia Filename": "FishPiraruku",
+    "Furniture Filename": "FtrFishPiraruku",
+    "Internal ID": 2253,
+    "Unique Entry ID": "mZy4BES54bqwi97br",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Arapaima"
+  },
+  {
+    "Name": "arowana",
+    "Critterpedia Filename": "FishArowana",
+    "Furniture Filename": "FtrFishArowana",
+    "Internal ID": 2250,
+    "Unique Entry ID": "F68AvCaqddBJL7ZSN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Arowana"
+  },
+  {
+    "Name": "barred knifejaw",
+    "Critterpedia Filename": "FishIshidai",
+    "Furniture Filename": "FtrFishIshidai",
+    "Internal ID": 2265,
+    "Unique Entry ID": "X3R9SFSAaDzBF4fE3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Barred_Knifejaw"
+  },
+  {
+    "Name": "barreleye",
+    "Critterpedia Filename": "FishDemenigisu",
+    "Furniture Filename": "FtrFishDemenigisu",
+    "Internal ID": 4204,
+    "Unique Entry ID": "BpqTa4zmTjv3Nm4wE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Barreleye"
+  },
+  {
+    "Name": "betta",
+    "Critterpedia Filename": "FishBeta",
+    "Furniture Filename": "FtrFishBeta",
+    "Internal ID": 4191,
+    "Unique Entry ID": "7QcQXzwZoNGiNA94k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Betta"
+  },
+  {
+    "Name": "bitterling",
+    "Critterpedia Filename": "FishTanago",
+    "Furniture Filename": "FtrFishTanago",
+    "Internal ID": 2215,
+    "Unique Entry ID": "Drj6eLRBgg4T9KhNx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Bitterling"
+  },
+  {
+    "Name": "black bass",
+    "Critterpedia Filename": "FishBlackbass",
+    "Furniture Filename": "FtrFishBlackbass",
+    "Internal ID": 2234,
+    "Unique Entry ID": "wAZvfTca7GyaTtLcQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Black_Bass"
+  },
+  {
+    "Name": "blowfish",
+    "Critterpedia Filename": "FishFugu",
+    "Furniture Filename": "FtrFishFugu",
+    "Internal ID": 2262,
+    "Unique Entry ID": "aDsmTcByApycafxTa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Blowfish"
+  },
+  {
+    "Name": "blue marlin",
+    "Critterpedia Filename": "FishKajiki",
+    "Furniture Filename": "FtrFishKajiki",
+    "Internal ID": 2275,
+    "Unique Entry ID": "jhtsYRHydAcZnd6bJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Blue_Marlin"
+  },
+  {
+    "Name": "bluegill",
+    "Critterpedia Filename": "FishBlueguill",
+    "Furniture Filename": "FtrFishBlueguill",
+    "Internal ID": 2232,
+    "Unique Entry ID": "8ygccYFCrWf4hwYGR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Bluegill"
+  },
+  {
+    "Name": "butterfly fish",
+    "Critterpedia Filename": "FishChouchouuo",
+    "Furniture Filename": "FtrFishChouchouuo",
+    "Internal ID": 2259,
+    "Unique Entry ID": "S4rkio2M3WB5cyy8Y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Butterfly_Fish"
+  },
+  {
+    "Name": "carp",
+    "Critterpedia Filename": "FishKoi",
+    "Furniture Filename": "FtrFishKoi",
+    "Internal ID": 2219,
+    "Unique Entry ID": "4DwwvGDwPQvZTn9Fb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Carp"
+  },
+  {
+    "Name": "catfish",
+    "Critterpedia Filename": "FishNamazu",
+    "Furniture Filename": "FtrFishNamazu",
+    "Internal ID": 2229,
+    "Unique Entry ID": "nbPtvwf7HCQxA9Nc4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Catfish"
+  },
+  {
+    "Name": "char",
+    "Critterpedia Filename": "FishOoiwana",
+    "Furniture Filename": "FtrFishOoiwana",
+    "Internal ID": 2239,
+    "Unique Entry ID": "ahbnwCqp3EZXa96KC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Char"
+  },
+  {
+    "Name": "cherry salmon",
+    "Critterpedia Filename": "FishYamame",
+    "Furniture Filename": "FtrFishYamame",
+    "Internal ID": 2238,
+    "Unique Entry ID": "sJyBbeLbpzn7LyzFr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Cherry_Salmon"
+  },
+  {
+    "Name": "clown fish",
+    "Critterpedia Filename": "FishKumanomi",
+    "Furniture Filename": "FtrFishKumanomi",
+    "Internal ID": 2257,
+    "Unique Entry ID": "L9qxZaMoBhwxvpMyh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Clown_Fish"
+  },
+  {
+    "Name": "coelacanth",
+    "Critterpedia Filename": "FishSirakansu",
+    "Furniture Filename": "FtrFishSirakansu",
+    "Internal ID": 2284,
+    "Unique Entry ID": "NjMZQ6Xi9NswEXnHH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Coelacanth"
+  },
+  {
+    "Name": "crawfish",
+    "Critterpedia Filename": "FishZarigani",
+    "Furniture Filename": "FtrFishZarigani",
+    "Internal ID": 2223,
+    "Unique Entry ID": "W7TrwpycmfgniZipi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Crawfish"
+  },
+  {
+    "Name": "crucian carp",
+    "Critterpedia Filename": "FishFuna",
+    "Furniture Filename": "FtrFishFuna",
+    "Internal ID": 328,
+    "Unique Entry ID": "Pdw7vmJz9PRM4ggbf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Crucian_Carp"
+  },
+  {
+    "Name": "dab",
+    "Critterpedia Filename": "FishKarei",
+    "Furniture Filename": "FtrFishKarei",
+    "Internal ID": 2268,
+    "Unique Entry ID": "noA2Kfp8TaFgaLs5n",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Dab"
+  },
+  {
+    "Name": "dace",
+    "Critterpedia Filename": "FishUgui",
+    "Furniture Filename": "FtrFishUgui",
+    "Internal ID": 2217,
+    "Unique Entry ID": "dWmXFdnjByWT5nEok",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Dace"
+  },
+  {
+    "Name": "dorado",
+    "Critterpedia Filename": "FishDolado",
+    "Furniture Filename": "FtrFishDolado",
+    "Internal ID": 2251,
+    "Unique Entry ID": "G7ZwD67cRMHBwTSKH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Dorado"
+  },
+  {
+    "Name": "football fish",
+    "Critterpedia Filename": "FishChouchinankou",
+    "Furniture Filename": "FtrFishChouchinankou",
+    "Internal ID": 2273,
+    "Unique Entry ID": "vQHfve6DygtcYqwdi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Football_Fish"
+  },
+  {
+    "Name": "freshwater goby",
+    "Critterpedia Filename": "FishDonko",
+    "Furniture Filename": "FtrFishDonko",
+    "Internal ID": 2227,
+    "Unique Entry ID": "SfXYNdtaid6hdQhvZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Freshwater_Goby"
+  },
+  {
+    "Name": "frog",
+    "Critterpedia Filename": "FishKaeru",
+    "Furniture Filename": "FtrFishKaeru",
+    "Internal ID": 2226,
+    "Unique Entry ID": "LcQLs85qPPdLajLje",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Frog_(fish)"
+  },
+  {
+    "Name": "gar",
+    "Critterpedia Filename": "FishGa",
+    "Furniture Filename": "FtrFishGa",
+    "Internal ID": 2252,
+    "Unique Entry ID": "x5yAYQgMJW9Kf7WyM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Gar"
+  },
+  {
+    "Name": "giant snakehead",
+    "Critterpedia Filename": "FishRaigyo",
+    "Furniture Filename": "FtrFishRaigyo",
+    "Internal ID": 2231,
+    "Unique Entry ID": "KyWQRd8W2FePM42wB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Giant_Snakehead"
+  },
+  {
+    "Name": "giant trevally",
+    "Critterpedia Filename": "FishRouninaji",
+    "Furniture Filename": "FtrFishGT",
+    "Internal ID": 2276,
+    "Unique Entry ID": "53qtm8cMH4RfqJiAH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Giant_Trevally"
+  },
+  {
+    "Name": "golden trout",
+    "Critterpedia Filename": "FishGoldenTorauto",
+    "Furniture Filename": "FtrFishGoldenTorauto",
+    "Internal ID": 4193,
+    "Unique Entry ID": "wwGzR7FzWNJ7cDz9X",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Golden_Trout"
+  },
+  {
+    "Name": "goldfish",
+    "Critterpedia Filename": "FishKingyo",
+    "Furniture Filename": "FtrFishKingyo",
+    "Internal ID": 329,
+    "Unique Entry ID": "5NwmwhEQxBNZCPiBR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Goldfish"
+  },
+  {
+    "Name": "great white shark",
+    "Critterpedia Filename": "FishSame",
+    "Furniture Filename": "FtrFishSame",
+    "Internal ID": 2280,
+    "Unique Entry ID": "EPypAeJGuTDGFJRnx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Great_White_Shark"
+  },
+  {
+    "Name": "guppy",
+    "Critterpedia Filename": "FishGuppi",
+    "Furniture Filename": "FtrFishGuppi",
+    "Internal ID": 2245,
+    "Unique Entry ID": "WtdZnARNxnWRobej2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Guppy"
+  },
+  {
+    "Name": "hammerhead shark",
+    "Critterpedia Filename": "FishShumokuzame",
+    "Furniture Filename": "FtrFishShumokuzame",
+    "Internal ID": 2279,
+    "Unique Entry ID": "guHT5g6H7tJEyqYzf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Hammerhead_Shark"
+  },
+  {
+    "Name": "horse mackerel",
+    "Critterpedia Filename": "FishAji",
+    "Furniture Filename": "FtrFishAji",
+    "Internal ID": 2264,
+    "Unique Entry ID": "L24RYPaEcm9ZXkTui",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Horse_Mackerel"
+  },
+  {
+    "Name": "killifish",
+    "Critterpedia Filename": "FishMedaka",
+    "Furniture Filename": "FtrFishMedaka",
+    "Internal ID": 2222,
+    "Unique Entry ID": "ZR9dsEApEXCjtXu3k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Killifish"
+  },
+  {
+    "Name": "king salmon",
+    "Critterpedia Filename": "FishKingsalmon",
+    "Furniture Filename": "FtrFishKingsalmon",
+    "Internal ID": 2243,
+    "Unique Entry ID": "Pf5cXKo8pzdB45rAA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/King_Salmon"
+  },
+  {
+    "Name": "koi",
+    "Critterpedia Filename": "FishNishikigoi",
+    "Furniture Filename": "FtrFishNishikigoi",
+    "Internal ID": 2220,
+    "Unique Entry ID": "kNwjLeqjg8bFevfiG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Koi"
+  },
+  {
+    "Name": "loach",
+    "Critterpedia Filename": "FishDojou",
+    "Furniture Filename": "FtrFishDojou",
+    "Internal ID": 2228,
+    "Unique Entry ID": "95yBKrQ4tdyWj4H25",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Loach"
+  },
+  {
+    "Name": "mahi-mahi",
+    "Critterpedia Filename": "FishShiira",
+    "Furniture Filename": "FtrFishShiira",
+    "Internal ID": 4202,
+    "Unique Entry ID": "D7gY39QDo8BBNs2Ne",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Mahi-Mahi"
+  },
+  {
+    "Name": "mitten crab",
+    "Critterpedia Filename": "FishSyanhaigani",
+    "Furniture Filename": "FtrFishShanghai",
+    "Internal ID": 2244,
+    "Unique Entry ID": "s2jqSYbMWBX6qCLDm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Mitten_Crab"
+  },
+  {
+    "Name": "moray eel",
+    "Critterpedia Filename": "FishUtsubo",
+    "Furniture Filename": "FtrFishUtsubo",
+    "Internal ID": 2271,
+    "Unique Entry ID": "4nLynLTMRtoqcCfh4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Moray_Eel"
+  },
+  {
+    "Name": "Napoleonfish",
+    "Critterpedia Filename": "FishNaporeonfish",
+    "Furniture Filename": "FtrFishNaporeonfish",
+    "Internal ID": 2260,
+    "Unique Entry ID": "dm4THC3AYR6CZ8bvJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Napoleonfish"
+  },
+  {
+    "Name": "neon tetra",
+    "Critterpedia Filename": "FishNeontetora",
+    "Furniture Filename": "FtrFishNeontetora",
+    "Internal ID": 2248,
+    "Unique Entry ID": "aEyRb96wcz9m8yjFN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Neon_Tetra"
+  },
+  {
+    "Name": "nibble fish",
+    "Critterpedia Filename": "FishDokutaafish",
+    "Furniture Filename": "FtrFishDoctor",
+    "Internal ID": 2246,
+    "Unique Entry ID": "pkPKYsMiXsTWNz4L4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Nibble_Fish"
+  },
+  {
+    "Name": "oarfish",
+    "Critterpedia Filename": "FishRyuuguunotukai",
+    "Furniture Filename": "FtrFishRyugu",
+    "Internal ID": 2283,
+    "Unique Entry ID": "qgvEPGk759xaBqwXP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Oarfish"
+  },
+  {
+    "Name": "ocean sunfish",
+    "Critterpedia Filename": "FishManbou",
+    "Furniture Filename": "FtrFishManbou",
+    "Internal ID": 2278,
+    "Unique Entry ID": "6BwK6LHbjFAKzgE82",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ocean_Sunfish"
+  },
+  {
+    "Name": "olive flounder",
+    "Critterpedia Filename": "FishHirame",
+    "Furniture Filename": "FtrFishHirame",
+    "Internal ID": 2269,
+    "Unique Entry ID": "TXSteKMHuQ9ZfqPXm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Olive_Flounder"
+  },
+  {
+    "Name": "pale chub",
+    "Critterpedia Filename": "FishOikawa",
+    "Furniture Filename": "FtrFishOikawa",
+    "Internal ID": 2216,
+    "Unique Entry ID": "pCn9TLap3rWiLYfnF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pale_Chub"
+  },
+  {
+    "Name": "pike",
+    "Critterpedia Filename": "FishPaiku",
+    "Furniture Filename": "FtrFishPaiku",
+    "Internal ID": 2235,
+    "Unique Entry ID": "XxrB6iKQPhBkYKaXD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pike"
+  },
+  {
+    "Name": "piranha",
+    "Critterpedia Filename": "FishPirania",
+    "Furniture Filename": "FtrFishPirania",
+    "Internal ID": 2249,
+    "Unique Entry ID": "5C59HAFxmwNSjH4Zq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Piranha"
+  },
+  {
+    "Name": "pond smelt",
+    "Critterpedia Filename": "FishWakasagi",
+    "Furniture Filename": "FtrFishWakasagi",
+    "Internal ID": 2236,
+    "Unique Entry ID": "DDb2GPEjapPmbYbWG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pond_Smelt"
+  },
+  {
+    "Name": "pop-eyed goldfish",
+    "Critterpedia Filename": "FishDemekin",
+    "Furniture Filename": "FtrFishDemekin",
+    "Internal ID": 2221,
+    "Unique Entry ID": "RvqzuA438gGqRJ7NG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pop-Eyed_Goldfish"
+  },
+  {
+    "Name": "puffer fish",
+    "Critterpedia Filename": "FishHarisenbon",
+    "Furniture Filename": "FtrFishHarisenbon",
+    "Internal ID": 2263,
+    "Unique Entry ID": "jNkgaybfSsv8MkaQ2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Puffer_Fish"
+  },
+  {
+    "Name": "rainbowfish",
+    "Critterpedia Filename": "FishRainbowfish",
+    "Furniture Filename": "FtrFishRainbowfish",
+    "Internal ID": 4194,
+    "Unique Entry ID": "XJfkdS4C2MPYiscST",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Rainbowfish"
+  },
+  {
+    "Name": "ranchu goldfish",
+    "Critterpedia Filename": "FishRanchu",
+    "Furniture Filename": "FtrFishRanchu",
+    "Internal ID": 5254,
+    "Unique Entry ID": "4NE2SteWKEaBYjgWb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ranchu_Goldfish"
+  },
+  {
+    "Name": "ray",
+    "Critterpedia Filename": "FishEi",
+    "Furniture Filename": "FtrFishEi",
+    "Internal ID": 2277,
+    "Unique Entry ID": "gP5F7wWFvFqiZzuGw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ray"
+  },
+  {
+    "Name": "red snapper",
+    "Critterpedia Filename": "FishTai",
+    "Furniture Filename": "FtrFishTai",
+    "Internal ID": 2267,
+    "Unique Entry ID": "iY4zfgojAfLskW4CQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Red_Snapper"
+  },
+  {
+    "Name": "ribbon eel",
+    "Critterpedia Filename": "FishHanahigeutubo",
+    "Furniture Filename": "FtrFishHanahige",
+    "Internal ID": 2272,
+    "Unique Entry ID": "T9zeSBHpB5qyAZTxu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ribbon_Eel"
+  },
+  {
+    "Name": "saddled bichir",
+    "Critterpedia Filename": "FishEndorikerii",
+    "Furniture Filename": "FtrFishEndlicheri",
+    "Internal ID": 2254,
+    "Unique Entry ID": "bcTmnwZxrw2iJsQmf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Saddled_Bichir"
+  },
+  {
+    "Name": "salmon",
+    "Critterpedia Filename": "FishSake",
+    "Furniture Filename": "FtrFishSake",
+    "Internal ID": 2242,
+    "Unique Entry ID": "iwXhnZcSezNxqdNQf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Salmon"
+  },
+  {
+    "Name": "saw shark",
+    "Critterpedia Filename": "FishNokogirizame",
+    "Furniture Filename": "FtrFishNokogiri",
+    "Internal ID": 2281,
+    "Unique Entry ID": "tsrT7a8cbtwZrmJTz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Saw_Shark"
+  },
+  {
+    "Name": "sea bass",
+    "Critterpedia Filename": "FishSuzuki",
+    "Furniture Filename": "FtrFishSuzuki",
+    "Internal ID": 2266,
+    "Unique Entry ID": "LkA5hzibm6uiHDB9g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Sea_Bass"
+  },
+  {
+    "Name": "sea butterfly",
+    "Critterpedia Filename": "FishKurione",
+    "Furniture Filename": "FtrFishKurione",
+    "Internal ID": 2255,
+    "Unique Entry ID": "kd5beizyQGeyjeM79",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Sea_Butterfly"
+  },
+  {
+    "Name": "sea horse",
+    "Critterpedia Filename": "FishTatsunootoshigo",
+    "Furniture Filename": "FtrFishTatsunootoshigo",
+    "Internal ID": 2256,
+    "Unique Entry ID": "Pw5oZqC29NWEGRfyS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Sea_Horse"
+  },
+  {
+    "Name": "snapping turtle",
+    "Critterpedia Filename": "FishKamitsukigame",
+    "Furniture Filename": "FtrFishKamitukigame",
+    "Internal ID": 4192,
+    "Unique Entry ID": "SJa3LLde3Yuz4H3D7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Snapping_Turtle"
+  },
+  {
+    "Name": "soft-shelled turtle",
+    "Critterpedia Filename": "FishSuppon",
+    "Furniture Filename": "FtrFishSuppon",
+    "Internal ID": 2224,
+    "Unique Entry ID": "izuY2f4GtEGT3BtuR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Soft-Shelled_Turtle"
+  },
+  {
+    "Name": "squid",
+    "Critterpedia Filename": "FishIka",
+    "Furniture Filename": "FtrFishIka",
+    "Internal ID": 2270,
+    "Unique Entry ID": "qxHJ6BGgyQujkC28w",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Squid"
+  },
+  {
+    "Name": "stringfish",
+    "Critterpedia Filename": "FishItou",
+    "Furniture Filename": "FtrFishItou",
+    "Internal ID": 2241,
+    "Unique Entry ID": "APXg8kSzjcmoGGWSP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Stringfish"
+  },
+  {
+    "Name": "sturgeon",
+    "Critterpedia Filename": "FishTyouzame",
+    "Furniture Filename": "FtrFishTyouzame",
+    "Internal ID": 4189,
+    "Unique Entry ID": "XabKYtzYDNSNrFvpw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Sturgeon"
+  },
+  {
+    "Name": "suckerfish",
+    "Critterpedia Filename": "FishKobanzame",
+    "Furniture Filename": "FtrFishKobanzame",
+    "Internal ID": 4203,
+    "Unique Entry ID": "FPpwmMDn9rYAJazyS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Suckerfish"
+  },
+  {
+    "Name": "surgeonfish",
+    "Critterpedia Filename": "FishNanyouhagi",
+    "Furniture Filename": "FtrFishNanyouhagi",
+    "Internal ID": 2258,
+    "Unique Entry ID": "s7iioofF5C7PzCZyF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Surgeonfish"
+  },
+  {
+    "Name": "sweetfish",
+    "Critterpedia Filename": "FishAyu",
+    "Furniture Filename": "FtrFishAyu",
+    "Internal ID": 2237,
+    "Unique Entry ID": "dWgg2bjCicuiZjXW6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Sweetfish"
+  },
+  {
+    "Name": "tadpole",
+    "Critterpedia Filename": "FishOtamajakusi",
+    "Furniture Filename": "FtrFishOtama",
+    "Internal ID": 2225,
+    "Unique Entry ID": "rb8MsjWopKYWuQK8s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Tadpole"
+  },
+  {
+    "Name": "tilapia",
+    "Critterpedia Filename": "FishThirapia",
+    "Furniture Filename": "FtrFishThirapia",
+    "Internal ID": 4190,
+    "Unique Entry ID": "as78rnkwY3ahrTkBY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Tilapia"
+  },
+  {
+    "Name": "tuna",
+    "Critterpedia Filename": "FishMaguro",
+    "Furniture Filename": "FtrFishMaguro",
+    "Internal ID": 2274,
+    "Unique Entry ID": "4PnGXx9DSb866AeCM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Tuna"
+  },
+  {
+    "Name": "whale shark",
+    "Critterpedia Filename": "FishJinbeezame",
+    "Furniture Filename": "FtrFishJinbee",
+    "Internal ID": 2282,
+    "Unique Entry ID": "r3RAtJsXENwnFvQh7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Whale_Shark"
+  },
+  {
+    "Name": "yellow perch",
+    "Critterpedia Filename": "FishYellowparch",
+    "Furniture Filename": "FtrFishYellowparch",
+    "Internal ID": 2233,
+    "Unique Entry ID": "bLgE5dicZniF5zZDW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Yellow_Perch"
+  },
+  {
+    "Name": "zebra turkeyfish",
+    "Critterpedia Filename": "FishMinokasago",
+    "Furniture Filename": "FtrFishMinokasago",
+    "Internal ID": 2261,
+    "Unique Entry ID": "h7fa7Fh3Ay7vAxgE2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Zebra_Turkeyfish"
+  }
+]

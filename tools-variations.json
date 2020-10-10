@@ -1,0 +1,1714 @@
+[
+  {
+    "Name": "axe",
+    "Filename": "ToolAxe",
+    "Variant ID": "NA",
+    "Internal ID": 2100,
+    "Unique Entry ID": "iR9zzEhzpbXTGdkR4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Axe_(New_Horizons)"
+  },
+  {
+    "Name": "bamboo wand",
+    "Filename": "ToolStickBamboo",
+    "Variant ID": "NA",
+    "Internal ID": 7590,
+    "Unique Entry ID": "YLjDYt9NhwTgoXhLD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bamboo_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "blue balloon",
+    "Filename": "ToolBalloonNormal",
+    "Variant ID": "NA",
+    "Internal ID": 7869,
+    "Unique Entry ID": "wZi9GW6MbpePQpvKY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Balloon_(New_Horizons)"
+  },
+  {
+    "Name": "blue sparkler",
+    "Filename": "ToolFireworks1",
+    "Variant ID": "NA",
+    "Internal ID": 12974,
+    "Unique Entry ID": "nX6tAkPNA4xgzbhon",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Sparkler_(New_Horizons)"
+  },
+  {
+    "Name": "bubble blower",
+    "Filename": "ToolBubblesNormal",
+    "Variant ID": "NA",
+    "Internal ID": 4386,
+    "Unique Entry ID": "CQmL5dEmhYEGkCJCF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubble_Blower_(New_Horizons)"
+  },
+  {
+    "Name": "bug wand",
+    "Filename": "ToolStcikInsect",
+    "Variant ID": "NA",
+    "Internal ID": 8769,
+    "Unique Entry ID": "vqp4KBeWgZjYbFj7Z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bug_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day wand",
+    "Filename": "ToolStickEgg",
+    "Variant ID": "NA",
+    "Internal ID": 12578,
+    "Unique Entry ID": "26wk773sY75rKY2P4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "cherry-blossom wand",
+    "Filename": "ToolStickCherryblossom",
+    "Variant ID": "NA",
+    "Internal ID": 7589,
+    "Unique Entry ID": "WHHbg5ZqTMu4J2wm5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry-Blossom_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Filename": "ToolFishingrodDuck_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8472,
+    "Unique Entry ID": "ZTf6fzMoETiRSgYyv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Filename": "ToolFishingrodDuck_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8472,
+    "Unique Entry ID": "9RuY2ZBRztSNDRrfy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Filename": "ToolFishingrodDuck_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8472,
+    "Unique Entry ID": "8PASMoPi9YgSBQ2LK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Filename": "ToolFishingrodDuck_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8472,
+    "Unique Entry ID": "sfSivSgSps27Jaz5M",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Filename": "ToolFishingrodDuck_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8472,
+    "Unique Entry ID": "vnSiERDKYDcddtuv6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Filename": "ToolFishingrodDuck_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8472,
+    "Unique Entry ID": "avewXgm4JtCerDcd6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Filename": "ToolFishingrodDuck_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8472,
+    "Unique Entry ID": "wmcSp5RZAczawLnJf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Filename": "ToolFishingrodDuck_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8472,
+    "Unique Entry ID": "v76QddpoKv2M4XspK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Filename": "ToolNetPattern_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8177,
+    "Unique Entry ID": "5wGjS9fxCaGhWK5Cv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Filename": "ToolNetPattern_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8177,
+    "Unique Entry ID": "k4Ssqq2DesuGTy6hy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Filename": "ToolNetPattern_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8177,
+    "Unique Entry ID": "6pJhWYNiuyZKuKvYz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Filename": "ToolNetPattern_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8177,
+    "Unique Entry ID": "AmK8KNTDWxdrJH6h7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Filename": "ToolNetPattern_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8177,
+    "Unique Entry ID": "zcdZjuNZWrHas5efC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Filename": "ToolNetPattern_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8177,
+    "Unique Entry ID": "cTrR3cREJBqWZyfN6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Filename": "ToolNetPattern_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8177,
+    "Unique Entry ID": "wFcTeKJ9gM4yLgfTQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Filename": "ToolNetPattern_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8177,
+    "Unique Entry ID": "kgBcZghywrT4j47vx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Filename": "ToolScoopColorful_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8577,
+    "Unique Entry ID": "ojvEkqxvFKKrrB6GR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Filename": "ToolScoopColorful_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8577,
+    "Unique Entry ID": "pnM6ygwcMS5KmSP6c",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Filename": "ToolScoopColorful_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8577,
+    "Unique Entry ID": "MYmh4oANQabcGNjJ6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Filename": "ToolScoopColorful_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8577,
+    "Unique Entry ID": "c3Frxwsyo8PSKZNya",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Filename": "ToolScoopColorful_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8577,
+    "Unique Entry ID": "RbQtnSAf4HNLKuao2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Filename": "ToolScoopColorful_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8577,
+    "Unique Entry ID": "MiJwRTGjbkK5Jx3Zw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Filename": "ToolScoopColorful_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8577,
+    "Unique Entry ID": "XCrHq3vFnD83kY2Sg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Filename": "ToolScoopColorful_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8577,
+    "Unique Entry ID": "zo7TsB8NzfnFDA7yS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Filename": "ToolSlingshotColorful_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8580,
+    "Unique Entry ID": "dSvd9K7sRTbx6k5cd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Filename": "ToolSlingshotColorful_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8580,
+    "Unique Entry ID": "WAcZwYerSQtwujaPZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Filename": "ToolSlingshotColorful_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8580,
+    "Unique Entry ID": "k7afhFcA5Pqd8qu5F",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Filename": "ToolSlingshotColorful_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8580,
+    "Unique Entry ID": "GBqsH5XYgDHk8wGAz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Filename": "ToolSlingshotColorful_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8580,
+    "Unique Entry ID": "qq67sn4aq9w7w9Ga2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Filename": "ToolSlingshotColorful_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8580,
+    "Unique Entry ID": "2JHaGhkbpoa4qbhge",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Filename": "ToolSlingshotColorful_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8580,
+    "Unique Entry ID": "cQYdSQ4MzKcnYAyc8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Filename": "ToolSlingshotColorful_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8580,
+    "Unique Entry ID": "KiTQgsCkJSTq6ssm6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Filename": "ToolWateringColorful_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8534,
+    "Unique Entry ID": "35yzBzko3wrMwHjST",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Filename": "ToolWateringColorful_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8534,
+    "Unique Entry ID": "ngYPKLyn5xXawzas3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Filename": "ToolWateringColorful_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8534,
+    "Unique Entry ID": "QxhyiwvJWyAShwyhJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Filename": "ToolWateringColorful_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8534,
+    "Unique Entry ID": "yuB5QpzCg94HN6u4g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Filename": "ToolWateringColorful_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8534,
+    "Unique Entry ID": "q3p2jaJBt5gD2HRkZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Filename": "ToolWateringColorful_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8534,
+    "Unique Entry ID": "fAm9eEkidwn5LSjSd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Filename": "ToolWateringColorful_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8534,
+    "Unique Entry ID": "4ySFWfB9G3KCq8sKf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Filename": "ToolWateringColorful_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8534,
+    "Unique Entry ID": "yLHsKfxS39qTMyZ67",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "cosmos wand",
+    "Filename": "ToolStickCosmos",
+    "Variant ID": "NA",
+    "Internal ID": 5092,
+    "Unique Entry ID": "vNqGM6xMEtteYKoza",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cosmos_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Filename": "ToolWateringElephant_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8535,
+    "Unique Entry ID": "AjAhCPjQAreLmqKCB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Filename": "ToolWateringElephant_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8535,
+    "Unique Entry ID": "JBApgvSrYbJcSmsd2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Filename": "ToolWateringElephant_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8535,
+    "Unique Entry ID": "HcqA5ggg9XBLsfYNK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Filename": "ToolWateringElephant_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8535,
+    "Unique Entry ID": "mvF2W6yf4hcXLu3eM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Filename": "ToolWateringElephant_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8535,
+    "Unique Entry ID": "B6oWDPizvZRRBDbop",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Filename": "ToolWateringElephant_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8535,
+    "Unique Entry ID": "AoZCaqfJYb6TSNctg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Filename": "ToolWateringElephant_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8535,
+    "Unique Entry ID": "cBG6avJmvncbTX56k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Filename": "ToolWateringElephant_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8535,
+    "Unique Entry ID": "XphbdnArYGwJp8kmj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Filename": "ToolFishingrodColorful_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8471,
+    "Unique Entry ID": "dBNahAnSJkF5q7Wta",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Filename": "ToolFishingrodColorful_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8471,
+    "Unique Entry ID": "ziRQL2REqF652sgkc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Filename": "ToolFishingrodColorful_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8471,
+    "Unique Entry ID": "7id3sXPC6a2qTsM9S",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Filename": "ToolFishingrodColorful_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8471,
+    "Unique Entry ID": "txjiE4Yoi66P59Rpi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Filename": "ToolFishingrodColorful_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8471,
+    "Unique Entry ID": "mQQKH3hfMyn2P4SAT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Filename": "ToolFishingrodColorful_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8471,
+    "Unique Entry ID": "oPumzrhQMfYrdrhfC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Filename": "ToolFishingrodColorful_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8471,
+    "Unique Entry ID": "A44B9ELrDxsrY6HaR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Filename": "ToolFishingrodColorful_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8471,
+    "Unique Entry ID": "k6AepGHtwTJhBzxXZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish wand",
+    "Filename": "ToolStickFish",
+    "Variant ID": "NA",
+    "Internal ID": 8770,
+    "Unique Entry ID": "HrGFzby54HCv326PJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Filename": "ToolAngling_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 2377,
+    "Unique Entry ID": "Y62px4Jy5vaMtN46u",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Filename": "ToolAngling_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 2377,
+    "Unique Entry ID": "JLMypnErvJc6n9wS8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Filename": "ToolAngling_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 2377,
+    "Unique Entry ID": "WTqWoAYMKuJsXjWWv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Filename": "ToolAngling_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 2377,
+    "Unique Entry ID": "SWX3JZeySqWz8PKQi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Filename": "ToolAngling_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 2377,
+    "Unique Entry ID": "PBLScat4po99B5h4k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Filename": "ToolAngling_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 2377,
+    "Unique Entry ID": "9bT9ZRhRG3e3WA8Bn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Filename": "ToolAngling_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 2377,
+    "Unique Entry ID": "G58mfRs22f48nF9QA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Filename": "ToolAngling_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 2377,
+    "Unique Entry ID": "bgrXEg4NvgPjudWar",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy axe",
+    "Filename": "ToolAxeStone",
+    "Variant ID": "NA",
+    "Internal ID": 3068,
+    "Unique Entry ID": "L79jandXPjEAoQScd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Axe_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy fishing rod",
+    "Filename": "ToolFishingrodWood",
+    "Variant ID": "NA",
+    "Internal ID": 3084,
+    "Unique Entry ID": "qtA9zfSRuaCkmmQXr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy net",
+    "Filename": "ToolNet",
+    "Variant ID": "NA",
+    "Internal ID": 2376,
+    "Unique Entry ID": "PHe3aaN2nsXFcQXxN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy shovel",
+    "Filename": "ToolShovelWood",
+    "Variant ID": "NA",
+    "Internal ID": 3082,
+    "Unique Entry ID": "PnLgMCQ34R3HxWqcT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy watering can",
+    "Filename": "ToolWateringWood",
+    "Variant ID": "NA",
+    "Internal ID": 3083,
+    "Unique Entry ID": "BdRyC6atcvz3KJnnM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "golden axe",
+    "Filename": "ToolAxeGold",
+    "Variant ID": "NA",
+    "Internal ID": 9617,
+    "Unique Entry ID": "eX9RXzQHaaZX89zoN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Axe_(New_Horizons)"
+  },
+  {
+    "Name": "golden net",
+    "Filename": "ToolNetGold",
+    "Variant ID": "NA",
+    "Internal ID": 8179,
+    "Unique Entry ID": "aKMTWuywGTuorriEg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Net_(New_Horizons)"
+  },
+  {
+    "Name": "golden rod",
+    "Filename": "ToolFishingrodGold",
+    "Variant ID": "NA",
+    "Internal ID": 8660,
+    "Unique Entry ID": "Tt5YeqejtuW3T7Cbq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "golden shovel",
+    "Filename": "ToolScoopGold",
+    "Variant ID": "NA",
+    "Internal ID": 8574,
+    "Unique Entry ID": "EMzMphvPgdhguM4Ku",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "golden slingshot",
+    "Filename": "ToolSlingshotGold",
+    "Variant ID": "NA",
+    "Internal ID": 8578,
+    "Unique Entry ID": "tx3MMcGrZPHeyoLeY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "golden wand",
+    "Filename": "ToolStickGolden",
+    "Variant ID": "NA",
+    "Internal ID": 7591,
+    "Unique Entry ID": "fdDGHvQBc5AhtExnt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "golden watering can",
+    "Filename": "ToolWateringGold",
+    "Variant ID": "NA",
+    "Internal ID": 8533,
+    "Unique Entry ID": "bzEwTDjTeK4gKSsZa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "green balloon",
+    "Filename": "ToolBalloonNormal3",
+    "Variant ID": "NA",
+    "Internal ID": 13125,
+    "Unique Entry ID": "6xF5xbt7WxTdqMYaH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Balloon_(New_Horizons)"
+  },
+  {
+    "Name": "hyacinth wand",
+    "Filename": "ToolStickHyacinth",
+    "Variant ID": "NA",
+    "Internal ID": 5083,
+    "Unique Entry ID": "aBPEFn5NehSoQ428E",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hyacinth_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "ice wand",
+    "Filename": "ToolStickSnow",
+    "Variant ID": "NA",
+    "Internal ID": 7585,
+    "Unique Entry ID": "pQCDsY6gvHXL2SAff",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ice_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "iron wand",
+    "Filename": "ToolStickIron",
+    "Variant ID": "NA",
+    "Internal ID": 7592,
+    "Unique Entry ID": "5JC2q7xYFFCBhX2mS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iron_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "ladder",
+    "Filename": "ToolLadder",
+    "Variant ID": "NA",
+    "Internal ID": 2615,
+    "Unique Entry ID": "TxFCim9KyNE7edcXH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_(New_Horizons)"
+  },
+  {
+    "Name": "light stick",
+    "Filename": "ToolSticklight",
+    "Variant ID": "NA",
+    "Internal ID": 5741,
+    "Unique Entry ID": "9HpdmfZcEfuXtR8ey",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Light_Stick_(New_Horizons)"
+  },
+  {
+    "Name": "lily wand",
+    "Filename": "ToolStickYuri",
+    "Variant ID": "NA",
+    "Internal ID": 5094,
+    "Unique Entry ID": "rX7Dget4dZzprkSY4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lily_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "mums wand",
+    "Filename": "ToolStickChrysanthemum",
+    "Variant ID": "NA",
+    "Internal ID": 5095,
+    "Unique Entry ID": "9sd3YGxf9jmuGBrGw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mums_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "mushroom wand",
+    "Filename": "ToolStickMushroom_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 7588,
+    "Unique Entry ID": "6PLR84qz4JifgtLmh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mushroom_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "mushroom wand",
+    "Filename": "ToolStickMushroom_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 7588,
+    "Unique Entry ID": "T898uqxxT6AXuXyBt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mushroom_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "mushroom wand",
+    "Filename": "ToolStickMushroom_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 7588,
+    "Unique Entry ID": "rcjxuvmyCPyTjbbwm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mushroom_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "mushroom wand",
+    "Filename": "ToolStickMushroom_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 7588,
+    "Unique Entry ID": "nN6uiNEshKx8sYwKE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mushroom_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "mushroom wand",
+    "Filename": "ToolStickMushroom_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 7588,
+    "Unique Entry ID": "Dtm7dJLAERgpCpGXv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mushroom_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Filename": "ToolNetNormal_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 5784,
+    "Unique Entry ID": "HH8tKPMbt8DQpSrMS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Filename": "ToolNetNormal_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 5784,
+    "Unique Entry ID": "YiRCkQXgKaLKf8D6p",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Filename": "ToolNetNormal_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 5784,
+    "Unique Entry ID": "X3x4tGwZiYnM5SRZv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Filename": "ToolNetNormal_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 5784,
+    "Unique Entry ID": "WtArd6h6MFQ8sjwEt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Filename": "ToolNetNormal_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 5784,
+    "Unique Entry ID": "b8L8wbutCQEQjAzwD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Filename": "ToolNetNormal_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 5784,
+    "Unique Entry ID": "8Khqvy2vpnJkpKLET",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Filename": "ToolNetNormal_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 5784,
+    "Unique Entry ID": "yNCid2KGDGFSz2W7L",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Filename": "ToolNetNormal_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 5784,
+    "Unique Entry ID": "pFaH2eF4JpK3roNtQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. handheld pennant",
+    "Filename": "ToolPennantRcm",
+    "Variant ID": "NA",
+    "Internal ID": 13128,
+    "Unique Entry ID": "C5sMrB792zhZekeqW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Handheld_Pennant_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. uchiwa fan",
+    "Filename": "ToolFanNook0",
+    "Variant ID": "NA",
+    "Internal ID": 9762,
+    "Unique Entry ID": "Qwfx3obKdwCDKr4WG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Uchiwa_Fan_(New_Horizons)"
+  },
+  {
+    "Name": "ocarina",
+    "Filename": "ToolOcarina",
+    "Variant ID": "NA",
+    "Internal ID": 5320,
+    "Unique Entry ID": "xN5tB3m4aXnm94RLL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ocarina_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Filename": "ToolFishingrodOutdoor_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8473,
+    "Unique Entry ID": "bvYTHd7dbDC9ZijAd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Filename": "ToolFishingrodOutdoor_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8473,
+    "Unique Entry ID": "bMdHGfZQu6846Somm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Filename": "ToolFishingrodOutdoor_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8473,
+    "Unique Entry ID": "3Ne39o36LkhGc9rGk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Filename": "ToolFishingrodOutdoor_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8473,
+    "Unique Entry ID": "BJAg7c5HmD6LncCCj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Filename": "ToolFishingrodOutdoor_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8473,
+    "Unique Entry ID": "DZwxGwf6DY8ucEKwP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Filename": "ToolFishingrodOutdoor_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8473,
+    "Unique Entry ID": "sGPYWwozfBgoi62fk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Filename": "ToolFishingrodOutdoor_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8473,
+    "Unique Entry ID": "3M7FJL2qfL5iAZvxn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Filename": "ToolFishingrodOutdoor_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8473,
+    "Unique Entry ID": "JdGkE9Mf9mXN3jXj5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Filename": "ToolNetOutdoor_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8178,
+    "Unique Entry ID": "v8G8jriZ3R47Y5CTA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Filename": "ToolNetOutdoor_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8178,
+    "Unique Entry ID": "SeeobMqj2fMCHFRR5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Filename": "ToolNetOutdoor_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8178,
+    "Unique Entry ID": "dDuDFS3Q87rSEvYGA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Filename": "ToolNetOutdoor_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8178,
+    "Unique Entry ID": "bhFAvdtCDNFuaL7tp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Filename": "ToolNetOutdoor_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8178,
+    "Unique Entry ID": "cdXFG76YRzMhcBKvE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Filename": "ToolNetOutdoor_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8178,
+    "Unique Entry ID": "mRjtY48TEQkJaiYqv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Filename": "ToolNetOutdoor_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8178,
+    "Unique Entry ID": "qJWCYusFziCAZowwo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Filename": "ToolNetOutdoor_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8178,
+    "Unique Entry ID": "v4vzaPQkSf4PHpjnC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Filename": "ToolScoopOutdoor_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8575,
+    "Unique Entry ID": "Je4oQvJHrridANtwW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Filename": "ToolScoopOutdoor_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8575,
+    "Unique Entry ID": "Qkuxh7aBzEEcgXX3g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Filename": "ToolScoopOutdoor_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8575,
+    "Unique Entry ID": "PhHgvEkW3oiFvhWuk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Filename": "ToolScoopOutdoor_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8575,
+    "Unique Entry ID": "6cvhBz44Z4BAxt8AX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Filename": "ToolScoopOutdoor_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8575,
+    "Unique Entry ID": "R2WDYoFbBG2hWfFtf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Filename": "ToolScoopOutdoor_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8575,
+    "Unique Entry ID": "RKjgnpJYtFKZgKDRk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Filename": "ToolScoopOutdoor_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8575,
+    "Unique Entry ID": "ccQGhqapinP7FiXPJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Filename": "ToolScoopOutdoor_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8575,
+    "Unique Entry ID": "e8xYribiE3L9zbeNz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Filename": "ToolSlingshotOutdoor_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8579,
+    "Unique Entry ID": "qJkGDgJtD9cQye8oD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Filename": "ToolSlingshotOutdoor_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8579,
+    "Unique Entry ID": "AGkd53Dzoh7p5R5ef",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Filename": "ToolSlingshotOutdoor_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8579,
+    "Unique Entry ID": "coBFkGLRCML7SdfZb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Filename": "ToolSlingshotOutdoor_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8579,
+    "Unique Entry ID": "ekLvFR39DuH4SdSgB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Filename": "ToolSlingshotOutdoor_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8579,
+    "Unique Entry ID": "mLqZThcPR7oSdGETt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Filename": "ToolSlingshotOutdoor_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8579,
+    "Unique Entry ID": "4QBCHA5pzb8Hapo7g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Filename": "ToolSlingshotOutdoor_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8579,
+    "Unique Entry ID": "FDEpHpn9wAoHmzq6S",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Filename": "ToolSlingshotOutdoor_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8579,
+    "Unique Entry ID": "d2BxLmN5fFdSTsXvP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Filename": "ToolWateringOutdoor_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8536,
+    "Unique Entry ID": "QSmseNnk3WqSmSFH8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Filename": "ToolWateringOutdoor_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8536,
+    "Unique Entry ID": "SrmzprzDgkRoPoGcN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Filename": "ToolWateringOutdoor_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8536,
+    "Unique Entry ID": "PRfaCyGvx3hieqpKh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Filename": "ToolWateringOutdoor_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8536,
+    "Unique Entry ID": "AvLJNwY9w5fSpT47f",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Filename": "ToolWateringOutdoor_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8536,
+    "Unique Entry ID": "o2Zd58pLWuNfHSRoz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Filename": "ToolWateringOutdoor_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8536,
+    "Unique Entry ID": "6GRguzWiwsicHTun6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Filename": "ToolWateringOutdoor_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8536,
+    "Unique Entry ID": "iyppHKcwic4M3Mb9N",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Filename": "ToolWateringOutdoor_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8536,
+    "Unique Entry ID": "vWuJ6J7YaPtB7vE88",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "pan flute",
+    "Filename": "ToolPanpipe",
+    "Variant ID": "NA",
+    "Internal ID": 5517,
+    "Unique Entry ID": "7LjdexM2bmrbxDaCG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pan_Flute_(New_Horizons)"
+  },
+  {
+    "Name": "pansy wand",
+    "Filename": "ToolStickPansy",
+    "Variant ID": "NA",
+    "Internal ID": 5091,
+    "Unique Entry ID": "kPAMdHZaM8oHFjjyg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pansy_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "party popper",
+    "Filename": "ToolCracker",
+    "Variant ID": "NA",
+    "Internal ID": 2753,
+    "Unique Entry ID": "Wo8iqf7JZZ7egzmLf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Party_Popper_(New_Horizons)"
+  },
+  {
+    "Name": "pink balloon",
+    "Filename": "ToolBalloonNormal4",
+    "Variant ID": "NA",
+    "Internal ID": 13126,
+    "Unique Entry ID": "jJkSMbhxX3ekBkWZK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Balloon_(New_Horizons)"
+  },
+  {
+    "Name": "pinwheel",
+    "Filename": "ToolWindmill",
+    "Variant ID": "NA",
+    "Internal ID": 5744,
+    "Unique Entry ID": "ixfo3W4miuTh5zvSP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pinwheel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Filename": "ToolScoopPattern_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8576,
+    "Unique Entry ID": "nQuRoWnfXx8BPFTmA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Filename": "ToolScoopPattern_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8576,
+    "Unique Entry ID": "uayKLmvAsj6EHGnJW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Filename": "ToolScoopPattern_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8576,
+    "Unique Entry ID": "Aa39b233u5kL2BZ5M",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Filename": "ToolScoopPattern_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8576,
+    "Unique Entry ID": "jBDbWkxf2bC4Q7FXw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Filename": "ToolScoopPattern_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8576,
+    "Unique Entry ID": "8p4An2z69STF7vEXo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Filename": "ToolScoopPattern_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8576,
+    "Unique Entry ID": "6T8xrvDKPvnmAgoAm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Filename": "ToolScoopPattern_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8576,
+    "Unique Entry ID": "uYrRaXdBb23RrpGNc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Filename": "ToolScoopPattern_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8576,
+    "Unique Entry ID": "mwWibomJ7C9h9diZ3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "red balloon",
+    "Filename": "ToolBalloonNormal1",
+    "Variant ID": "NA",
+    "Internal ID": 13123,
+    "Unique Entry ID": "93qC6sGCBMeknRuJ7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Balloon_(New_Horizons)"
+  },
+  {
+    "Name": "red sparkler",
+    "Filename": "ToolFireworks",
+    "Variant ID": "NA",
+    "Internal ID": 5743,
+    "Unique Entry ID": "5YyG34qEdmAuABqHd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Sparkler_(New_Horizons)"
+  },
+  {
+    "Name": "rose wand",
+    "Filename": "ToolStickRose",
+    "Variant ID": "NA",
+    "Internal ID": 5093,
+    "Unique Entry ID": "RB9jk9eLFLJdokFjG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rose_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "shell wand",
+    "Filename": "ToolStickShell",
+    "Variant ID": "NA",
+    "Internal ID": 7586,
+    "Unique Entry ID": "EsdC3wFYpzqXB7RRi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shell_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Filename": "ToolScoop_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 2099,
+    "Unique Entry ID": "B6ejTnMqrR65wXv5z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Filename": "ToolScoop_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 2099,
+    "Unique Entry ID": "6sKHnKeEuPcLpjEF3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Filename": "ToolScoop_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 2099,
+    "Unique Entry ID": "SSzNaAfdGfnFoL8Qq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Filename": "ToolScoop_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 2099,
+    "Unique Entry ID": "qiAf2KCaX5Xr57bXb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Filename": "ToolScoop_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 2099,
+    "Unique Entry ID": "bbbeRassLbyY8HCP3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Filename": "ToolScoop_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 2099,
+    "Unique Entry ID": "CZoPP24ecNvDxdNfY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Filename": "ToolScoop_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 2099,
+    "Unique Entry ID": "JLemP4xchhzB2BmLk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Filename": "ToolScoop_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 2099,
+    "Unique Entry ID": "egJGqooiodvdWtv6Y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Filename": "ToolSlingshot_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 2822,
+    "Unique Entry ID": "kgAEBkWjeZrdvZLwC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Filename": "ToolSlingshot_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 2822,
+    "Unique Entry ID": "aoeJ6gnZq7Cz9MH58",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Filename": "ToolSlingshot_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 2822,
+    "Unique Entry ID": "prpgd3XrcJHJZybaD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Filename": "ToolSlingshot_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 2822,
+    "Unique Entry ID": "bHrn2thixWf3tPgQB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Filename": "ToolSlingshot_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 2822,
+    "Unique Entry ID": "o2z73jZqDyg3Bwjtq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Filename": "ToolSlingshot_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 2822,
+    "Unique Entry ID": "J47FSys2XtpZr8dT9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Filename": "ToolSlingshot_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 2822,
+    "Unique Entry ID": "qKjLAtchN5GvjyknF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Filename": "ToolSlingshot_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 2822,
+    "Unique Entry ID": "dq9S8zrmf4efRddki",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "spooky wand",
+    "Filename": "ToolStickHalloween",
+    "Variant ID": "NA",
+    "Internal ID": 13237,
+    "Unique Entry ID": "M8JtabnRsijZu4RqN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spooky_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Filename": "ToolNetStar_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 8176,
+    "Unique Entry ID": "wmcDHN8JZMbnvLiNs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Filename": "ToolNetStar_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 8176,
+    "Unique Entry ID": "KxYpvPeESLFNeLjGm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Filename": "ToolNetStar_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 8176,
+    "Unique Entry ID": "7GJJruF4u4y62nvQy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Filename": "ToolNetStar_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 8176,
+    "Unique Entry ID": "y7BXcMSNByN5Q4Ycs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Filename": "ToolNetStar_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 8176,
+    "Unique Entry ID": "ajfxbnCnpzWsxsk9q",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Filename": "ToolNetStar_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 8176,
+    "Unique Entry ID": "4mcfWQJQeebqu4az6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Filename": "ToolNetStar_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 8176,
+    "Unique Entry ID": "ngWXLftz3J8uf7WZq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Filename": "ToolNetStar_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 8176,
+    "Unique Entry ID": "YZeGaCuXAbFSpEg3h",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star wand",
+    "Filename": "ToolChangeStick",
+    "Variant ID": "NA",
+    "Internal ID": 2544,
+    "Unique Entry ID": "mMwQ96ZbuiBMzgutd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "stone axe",
+    "Filename": "ToolAxeStoneNormal",
+    "Variant ID": "NA",
+    "Internal ID": 5856,
+    "Unique Entry ID": "NKHsBuYu25RHWjMBx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stone_Axe_(New_Horizons)"
+  },
+  {
+    "Name": "tambourine",
+    "Filename": "ToolTambourine",
+    "Variant ID": "NA",
+    "Internal ID": 5430,
+    "Unique Entry ID": "eYwGmK6fQwz2XJcht",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tambourine_(New_Horizons)"
+  },
+  {
+    "Name": "timer",
+    "Filename": "ToolTimer",
+    "Variant ID": "NA",
+    "Internal ID": 3331,
+    "Unique Entry ID": "vEEPnFx9FEcKKuzg2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Timer_(New_Horizons)"
+  },
+  {
+    "Name": "tree-branch wand",
+    "Filename": "ToolStickTree",
+    "Variant ID": "NA",
+    "Internal ID": 7587,
+    "Unique Entry ID": "KnHhJXtuXEhqcPMTx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tree-Branch_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "tulip wand",
+    "Filename": "ToolStickTulip",
+    "Variant ID": "NA",
+    "Internal ID": 5085,
+    "Unique Entry ID": "u7ZfCMpDYtPRbK2vc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tulip_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "tweeter",
+    "Filename": "ToolBlowouts",
+    "Variant ID": "NA",
+    "Internal ID": 5742,
+    "Unique Entry ID": "QxaQCNrLi393nadSQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tweeter_(New_Horizons)"
+  },
+  {
+    "Name": "uchiwa fan",
+    "Filename": "ToolPaperFan",
+    "Variant ID": "NA",
+    "Internal ID": 5319,
+    "Unique Entry ID": "bPKsESXK5jLNWXAof",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Uchiwa_Fan_(New_Horizons)"
+  },
+  {
+    "Name": "vaulting pole",
+    "Filename": "LongWoodenStick",
+    "Variant ID": "NA",
+    "Internal ID": 4703,
+    "Unique Entry ID": "2vD5XPKHSCCSjy882",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Vaulting_Pole_(New_Horizons)"
+  },
+  {
+    "Name": "wand",
+    "Filename": "ToolStickWood",
+    "Variant ID": "NA",
+    "Internal ID": 7584,
+    "Unique Entry ID": "2Re2yBHTfLRDiTWRb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wand_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Filename": "ToolWatering_Remake_0_0",
+    "Variant ID": "0_0",
+    "Internal ID": 2379,
+    "Unique Entry ID": "wLChevsx2T9Sm6yf4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Filename": "ToolWatering_Remake_1_0",
+    "Variant ID": "1_0",
+    "Internal ID": 2379,
+    "Unique Entry ID": "29SBgiL9wQWpYmfa4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Filename": "ToolWatering_Remake_2_0",
+    "Variant ID": "2_0",
+    "Internal ID": 2379,
+    "Unique Entry ID": "m8fFeTsh7z7JgjB6H",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Filename": "ToolWatering_Remake_3_0",
+    "Variant ID": "3_0",
+    "Internal ID": 2379,
+    "Unique Entry ID": "95zusTkvS5ou2wPEC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Filename": "ToolWatering_Remake_4_0",
+    "Variant ID": "4_0",
+    "Internal ID": 2379,
+    "Unique Entry ID": "wiAp8rGXiDM3kyxpo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Filename": "ToolWatering_Remake_5_0",
+    "Variant ID": "5_0",
+    "Internal ID": 2379,
+    "Unique Entry ID": "JSe4Du3wPtE2TT98X",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Filename": "ToolWatering_Remake_6_0",
+    "Variant ID": "6_0",
+    "Internal ID": 2379,
+    "Unique Entry ID": "Z7ggDgjzNii2RWjNQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Filename": "ToolWatering_Remake_7_0",
+    "Variant ID": "7_0",
+    "Internal ID": 2379,
+    "Unique Entry ID": "77zFHmNrGhuJAvvjA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "wedding wand",
+    "Filename": "ToolStickJune",
+    "Variant ID": "NA",
+    "Internal ID": 12695,
+    "Unique Entry ID": "syPb2baTrP3zqi66f",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wedding_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "windflower wand",
+    "Filename": "ToolStickAnemones",
+    "Variant ID": "NA",
+    "Internal ID": 5084,
+    "Unique Entry ID": "ERMKczYuvS6Eff7C9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Windflower_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "worn axe",
+    "Filename": "ToolAxeFragile",
+    "Variant ID": "NA",
+    "Internal ID": 12615,
+    "Unique Entry ID": "xqXJch47cQrNT65jG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Worn_Axe_(New_Horizons)"
+  },
+  {
+    "Name": "yellow balloon",
+    "Filename": "ToolBalloonNormal2",
+    "Variant ID": "NA",
+    "Internal ID": 13124,
+    "Unique Entry ID": "dF8pTGMJY5465vatR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Balloon_(New_Horizons)"
+  }
+]

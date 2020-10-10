@@ -1,0 +1,1858 @@
+[
+  {
+    "Name": "3D glasses",
+    "Filename": "AccessoryGlassThreed0",
+    "ClothGroup ID": 386,
+    "Internal ID": 4463,
+    "Unique Entry ID": "FNxEraBTeWRiCvtFu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:3D_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "3D glasses",
+    "Filename": "AccessoryGlassThreed1",
+    "ClothGroup ID": 386,
+    "Internal ID": 11020,
+    "Unique Entry ID": "mM9SXPCcGPfPJAmtm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:3D_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "animal nose",
+    "Filename": "AccessoryMouthHalloween0",
+    "ClothGroup ID": 1271,
+    "Internal ID": 13018,
+    "Unique Entry ID": "6RJgfodWEebvmWTN9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Animal_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "bandage",
+    "Filename": "AccessoryMouthBandageSkin",
+    "ClothGroup ID": 503,
+    "Internal ID": 4677,
+    "Unique Entry ID": "2qFT5iPkk8bREvpkj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bandage_(New_Horizons)"
+  },
+  {
+    "Name": "beak",
+    "Filename": "AccessoryMouthBeakYellow",
+    "ClothGroup ID": 184,
+    "Internal ID": 3549,
+    "Unique Entry ID": "T5CpsJi4xBSachNL5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beak_(New_Horizons)"
+  },
+  {
+    "Name": "birthday shades",
+    "Filename": "AccessoryGlassBirthday2",
+    "ClothGroup ID": 415,
+    "Internal ID": 11218,
+    "Unique Entry ID": "ojXoAAj8Bs2XgRiWB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Birthday_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "birthday shades",
+    "Filename": "AccessoryGlassBirthday1",
+    "ClothGroup ID": 415,
+    "Internal ID": 11217,
+    "Unique Entry ID": "g3MPcmAKM4z5h8KYX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Birthday_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "birthday shades",
+    "Filename": "AccessoryGlassBirthday0",
+    "ClothGroup ID": 415,
+    "Internal ID": 4510,
+    "Unique Entry ID": "S6CiB9ZvzBTMhEnDz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Birthday_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "birthday shades",
+    "Filename": "AccessoryGlassBirthday3",
+    "ClothGroup ID": 415,
+    "Internal ID": 11219,
+    "Unique Entry ID": "Yr9mRJaZM44554oTS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Birthday_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "bottom-rimmed glasses",
+    "Filename": "AccessoryGlassLoose6",
+    "ClothGroup ID": 463,
+    "Internal ID": 11086,
+    "Unique Entry ID": "eT6KLntq43nCGFvB9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bottom-Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "bottom-rimmed glasses",
+    "Filename": "AccessoryGlassLoose0",
+    "ClothGroup ID": 463,
+    "Internal ID": 4597,
+    "Unique Entry ID": "ZHqtvcoqqDpJLf9Pc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bottom-Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "bottom-rimmed glasses",
+    "Filename": "AccessoryGlassLoose5",
+    "ClothGroup ID": 463,
+    "Internal ID": 11085,
+    "Unique Entry ID": "zpzD4NjApEyazKyKt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bottom-Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "bottom-rimmed glasses",
+    "Filename": "AccessoryGlassLoose4",
+    "ClothGroup ID": 463,
+    "Internal ID": 11084,
+    "Unique Entry ID": "w7bEbAGSQTvur6D6f",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bottom-Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "bottom-rimmed glasses",
+    "Filename": "AccessoryGlassLoose2",
+    "ClothGroup ID": 463,
+    "Internal ID": 11082,
+    "Unique Entry ID": "EtxJZDCgnqjWkETqK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bottom-Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "bottom-rimmed glasses",
+    "Filename": "AccessoryGlassLoose3",
+    "ClothGroup ID": 463,
+    "Internal ID": 11083,
+    "Unique Entry ID": "LEbiXtkHoiEMEtjWK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bottom-Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "bottom-rimmed glasses",
+    "Filename": "AccessoryGlassLoose1",
+    "ClothGroup ID": 463,
+    "Internal ID": 11081,
+    "Unique Entry ID": "akRhFD3qeJEPM7WiD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bottom-Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "browline glasses",
+    "Filename": "AccessoryGlassThurmont3",
+    "ClothGroup ID": 260,
+    "Internal ID": 11071,
+    "Unique Entry ID": "R9rDoMEzPcBw75hLE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Browline_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "browline glasses",
+    "Filename": "AccessoryGlassThurmont0",
+    "ClothGroup ID": 260,
+    "Internal ID": 4238,
+    "Unique Entry ID": "gHxascFKEJNrLCtD9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Browline_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "browline glasses",
+    "Filename": "AccessoryGlassThurmont2",
+    "ClothGroup ID": 260,
+    "Internal ID": 11070,
+    "Unique Entry ID": "f6h8aqEufzizYBWiH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Browline_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "browline glasses",
+    "Filename": "AccessoryGlassThurmont1",
+    "ClothGroup ID": 260,
+    "Internal ID": 11069,
+    "Unique Entry ID": "9iqmzMJiAeQMBN3pk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Browline_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "bubblegum",
+    "Filename": "AccessoryMouthBubblegum4",
+    "ClothGroup ID": 856,
+    "Internal ID": 11030,
+    "Unique Entry ID": "r9N2a2TYhvXBKiihn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubblegum_(New_Horizons)"
+  },
+  {
+    "Name": "bubblegum",
+    "Filename": "AccessoryMouthBubblegum0",
+    "ClothGroup ID": 856,
+    "Internal ID": 5738,
+    "Unique Entry ID": "4SLmXuCkS4eBjPbLn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubblegum_(New_Horizons)"
+  },
+  {
+    "Name": "bubblegum",
+    "Filename": "AccessoryMouthBubblegum2",
+    "ClothGroup ID": 856,
+    "Internal ID": 11028,
+    "Unique Entry ID": "79zoWzHvMBJYcwuAy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubblegum_(New_Horizons)"
+  },
+  {
+    "Name": "bubblegum",
+    "Filename": "AccessoryMouthBubblegum3",
+    "ClothGroup ID": 856,
+    "Internal ID": 11029,
+    "Unique Entry ID": "F3PoMop5MGyaxtKjZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubblegum_(New_Horizons)"
+  },
+  {
+    "Name": "bubblegum",
+    "Filename": "AccessoryMouthBubblegum1",
+    "ClothGroup ID": 856,
+    "Internal ID": 11027,
+    "Unique Entry ID": "9wWYKTtMdo9pWqfsM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubblegum_(New_Horizons)"
+  },
+  {
+    "Name": "bunny nose",
+    "Filename": "AccessoryMouthRabbit2",
+    "ClothGroup ID": 466,
+    "Internal ID": 11024,
+    "Unique Entry ID": "ci8RKqDmqS5wD3W5k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "bunny nose",
+    "Filename": "AccessoryMouthRabbit0",
+    "ClothGroup ID": 466,
+    "Internal ID": 4600,
+    "Unique Entry ID": "bxWYgcp2YKCdKe8Cr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "bunny nose",
+    "Filename": "AccessoryMouthRabbit1",
+    "ClothGroup ID": 466,
+    "Internal ID": 11023,
+    "Unique Entry ID": "y6Dp62aNQn5ixvkwf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "butterfly shades",
+    "Filename": "AccessoryGlassButterfly0",
+    "ClothGroup ID": 474,
+    "Internal ID": 4608,
+    "Unique Entry ID": "WjbaLp9JbBGYRrb6K",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Butterfly_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "butterfly shades",
+    "Filename": "AccessoryGlassButterfly1",
+    "ClothGroup ID": 474,
+    "Internal ID": 11503,
+    "Unique Entry ID": "AZrrNvHghPTHobKL4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Butterfly_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "butterfly shades",
+    "Filename": "AccessoryGlassButterfly2",
+    "ClothGroup ID": 474,
+    "Internal ID": 11504,
+    "Unique Entry ID": "rz3Pgs5XGNiQFa3t4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Butterfly_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "candy-skull mask",
+    "Filename": "AccessoryGlassmouthCatrina1",
+    "ClothGroup ID": 819,
+    "Internal ID": 11169,
+    "Unique Entry ID": "xyQdqFuAkXkNs9qQ5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Candy-Skull_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "candy-skull mask",
+    "Filename": "AccessoryGlassmouthCatrina2",
+    "ClothGroup ID": 819,
+    "Internal ID": 11170,
+    "Unique Entry ID": "fev4af8sNdggceyW9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Candy-Skull_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "candy-skull mask",
+    "Filename": "AccessoryGlassmouthCatrina0",
+    "ClothGroup ID": 819,
+    "Internal ID": 5666,
+    "Unique Entry ID": "GT3LzQZKg29riohcP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Candy-Skull_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "cat nose",
+    "Filename": "AccessoryMouthCat0",
+    "ClothGroup ID": 397,
+    "Internal ID": 4483,
+    "Unique Entry ID": "45Muns9ig4dqrsFF7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cat_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "cat nose",
+    "Filename": "AccessoryMouthCat2",
+    "ClothGroup ID": 397,
+    "Internal ID": 11022,
+    "Unique Entry ID": "ywdWXRcwKJNMMxDyj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cat_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "cat nose",
+    "Filename": "AccessoryMouthCat1",
+    "ClothGroup ID": 397,
+    "Internal ID": 11021,
+    "Unique Entry ID": "CXDCEFzBdv8DwkCyM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cat_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "cucumber pack",
+    "Filename": "AccessoryMouthCucumber",
+    "ClothGroup ID": 405,
+    "Internal ID": 4491,
+    "Unique Entry ID": "MhbCBrYX5fHxZWDuA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cucumber_Pack_(New_Horizons)"
+  },
+  {
+    "Name": "curly mustache",
+    "Filename": "AccessoryMouthRollingmustacheBlack",
+    "ClothGroup ID": 498,
+    "Internal ID": 4672,
+    "Unique Entry ID": "9tyCrNPeibcu5NLo8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Curly_Mustache_(New_Horizons)"
+  },
+  {
+    "Name": "cyber shades",
+    "Filename": "AccessoryGlassCyber2",
+    "ClothGroup ID": 433,
+    "Internal ID": 11499,
+    "Unique Entry ID": "AKakpCweRnd5hAsRB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyber_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "cyber shades",
+    "Filename": "AccessoryGlassCyber1",
+    "ClothGroup ID": 433,
+    "Internal ID": 11498,
+    "Unique Entry ID": "67BAc4y8aADafp9Xk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyber_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "cyber shades",
+    "Filename": "AccessoryGlassCyber0",
+    "ClothGroup ID": 433,
+    "Internal ID": 4552,
+    "Unique Entry ID": "3YPuxxPLkzwwNQMQd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyber_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "cyber shades",
+    "Filename": "AccessoryGlassCyber5",
+    "ClothGroup ID": 433,
+    "Internal ID": 11502,
+    "Unique Entry ID": "5pk9ZMDGsEzLqp24L",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyber_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "cyber shades",
+    "Filename": "AccessoryGlassCyber4",
+    "ClothGroup ID": 433,
+    "Internal ID": 11501,
+    "Unique Entry ID": "9izTCDGHSpqWrQp6T",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyber_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "cyber shades",
+    "Filename": "AccessoryGlassCyber3",
+    "ClothGroup ID": 433,
+    "Internal ID": 11500,
+    "Unique Entry ID": "y2svNHScnr8cNZe86",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyber_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "DAL eye mask",
+    "Filename": "AccessoryGlassDalmask0",
+    "ClothGroup ID": 1182,
+    "Internal ID": 12128,
+    "Unique Entry ID": "sbkqQrHpJWMEEZLSR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:DAL_Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "DAL sunglasses",
+    "Filename": "AccessoryGlassDalglass0",
+    "ClothGroup ID": 1183,
+    "Internal ID": 12129,
+    "Unique Entry ID": "zRnkH9B3rYNMLpiTP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:DAL_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "doctor's mask",
+    "Filename": "AccessoryMouthMaskWhite",
+    "ClothGroup ID": 375,
+    "Internal ID": 4451,
+    "Unique Entry ID": "vZDsrDRdgrbbiwi8N",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Doctor's_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "dog nose",
+    "Filename": "AccessoryMouthDog0",
+    "ClothGroup ID": 630,
+    "Internal ID": 5244,
+    "Unique Entry ID": "moGRcnkQihHbN89Kc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dog_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "dog nose",
+    "Filename": "AccessoryMouthDog2",
+    "ClothGroup ID": 630,
+    "Internal ID": 11026,
+    "Unique Entry ID": "9JGbmWtDA3rmjf8Kc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dog_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "dog nose",
+    "Filename": "AccessoryMouthDog1",
+    "ClothGroup ID": 630,
+    "Internal ID": 11025,
+    "Unique Entry ID": "zCQqXy8HLE7rDfrQf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dog_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "double-bridge glasses",
+    "Filename": "AccessoryGlassDoublebridge2",
+    "ClothGroup ID": 277,
+    "Internal ID": 11077,
+    "Unique Entry ID": "CLPEzZqr3vut85Ja4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Double-Bridge_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "double-bridge glasses",
+    "Filename": "AccessoryGlassDoublebridge0",
+    "ClothGroup ID": 277,
+    "Internal ID": 4263,
+    "Unique Entry ID": "8QCnzjXY8KEyqf7Wa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Double-Bridge_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "double-bridge glasses",
+    "Filename": "AccessoryGlassDoublebridge3",
+    "ClothGroup ID": 277,
+    "Internal ID": 11078,
+    "Unique Entry ID": "fD5pteAQtC8CMhq2v",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Double-Bridge_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "double-bridge glasses",
+    "Filename": "AccessoryGlassDoublebridge1",
+    "ClothGroup ID": 277,
+    "Internal ID": 11076,
+    "Unique Entry ID": "guPGRuhMyqdWYKh8d",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Double-Bridge_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "drinking-straw glasses",
+    "Filename": "AccessoryGlassmouthStraw3",
+    "ClothGroup ID": 865,
+    "Internal ID": 11012,
+    "Unique Entry ID": "bQ67Xe7cQZ4PcXnNe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Drinking-Straw_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "drinking-straw glasses",
+    "Filename": "AccessoryGlassmouthStraw2",
+    "ClothGroup ID": 865,
+    "Internal ID": 11011,
+    "Unique Entry ID": "b4G7SFYMTs5YWJ4i5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Drinking-Straw_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "drinking-straw glasses",
+    "Filename": "AccessoryGlassmouthStraw0",
+    "ClothGroup ID": 865,
+    "Internal ID": 5773,
+    "Unique Entry ID": "hMiEGoaE2jYb6kY4e",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Drinking-Straw_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "drinking-straw glasses",
+    "Filename": "AccessoryGlassmouthStraw1",
+    "ClothGroup ID": 865,
+    "Internal ID": 11010,
+    "Unique Entry ID": "DNij9RhiMW39MtKWF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Drinking-Straw_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "eye mask",
+    "Filename": "AccessoryGlassMask2",
+    "ClothGroup ID": 358,
+    "Internal ID": 11155,
+    "Unique Entry ID": "FFAmL82w7xmtQyj49",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "eye mask",
+    "Filename": "AccessoryGlassMask5",
+    "ClothGroup ID": 358,
+    "Internal ID": 11158,
+    "Unique Entry ID": "DN9e9e3kPAvftJL7X",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "eye mask",
+    "Filename": "AccessoryGlassMask1",
+    "ClothGroup ID": 358,
+    "Internal ID": 11154,
+    "Unique Entry ID": "Ck7jeovxpJEQa9BXB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "eye mask",
+    "Filename": "AccessoryGlassMask4",
+    "ClothGroup ID": 358,
+    "Internal ID": 11157,
+    "Unique Entry ID": "Gy2FEnpkD9KrRshtd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "eye mask",
+    "Filename": "AccessoryGlassMask3",
+    "ClothGroup ID": 358,
+    "Internal ID": 11156,
+    "Unique Entry ID": "csWKsYtw2k9ADBQpT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "eye mask",
+    "Filename": "AccessoryGlassMask0",
+    "ClothGroup ID": 358,
+    "Internal ID": 4425,
+    "Unique Entry ID": "68oXMszxbRtGoe9tH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "eye patch",
+    "Filename": "AccessoryGlassPatchBlack",
+    "ClothGroup ID": 380,
+    "Internal ID": 4457,
+    "Unique Entry ID": "iZoTNGb8htGE8JWEw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Patch_(New_Horizons)"
+  },
+  {
+    "Name": "facial mask",
+    "Filename": "AccessoryGlassmouthPackWhite",
+    "ClothGroup ID": 417,
+    "Internal ID": 4512,
+    "Unique Entry ID": "KzBY9kLtwTHhHGzR3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Facial_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "fake nose",
+    "Filename": "AccessoryGlassmouthNoseRed",
+    "ClothGroup ID": 407,
+    "Internal ID": 4496,
+    "Unique Entry ID": "chP2wAyDtdSTS3XrF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fake_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "flower sunglasses",
+    "Filename": "AccessoryGlassFlower0",
+    "ClothGroup ID": 857,
+    "Internal ID": 5739,
+    "Unique Entry ID": "iJsQqLTdb4gcPwekJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flower_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "flower sunglasses",
+    "Filename": "AccessoryGlassFlower1",
+    "ClothGroup ID": 857,
+    "Internal ID": 11228,
+    "Unique Entry ID": "6TygyrRpgFEJRtYAD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flower_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "flower sunglasses",
+    "Filename": "AccessoryGlassFlower4",
+    "ClothGroup ID": 857,
+    "Internal ID": 11231,
+    "Unique Entry ID": "vnNLfafLRpv9vrESq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flower_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "flower sunglasses",
+    "Filename": "AccessoryGlassFlower2",
+    "ClothGroup ID": 857,
+    "Internal ID": 11229,
+    "Unique Entry ID": "g4jdQJuTAwEgGWsyH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flower_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "flower sunglasses",
+    "Filename": "AccessoryGlassFlower3",
+    "ClothGroup ID": 857,
+    "Internal ID": 11230,
+    "Unique Entry ID": "hN8mRmSqAqfBBXqsK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flower_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "food mess",
+    "Filename": "AccessoryMouthPasta",
+    "ClothGroup ID": 904,
+    "Internal ID": 5857,
+    "Unique Entry ID": "ErTpS7LHoG7hZ4bvn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Food_Mess_(New_Horizons)"
+  },
+  {
+    "Name": "funny glasses",
+    "Filename": "AccessoryGlassEyes1",
+    "ClothGroup ID": 418,
+    "Internal ID": 11008,
+    "Unique Entry ID": "4ASpkj55QiocnNkZ2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Funny_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "funny glasses",
+    "Filename": "AccessoryGlassEyes2",
+    "ClothGroup ID": 418,
+    "Internal ID": 11009,
+    "Unique Entry ID": "dio9gmQCebNSjSX89",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Funny_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "funny glasses",
+    "Filename": "AccessoryGlassEyes0",
+    "ClothGroup ID": 418,
+    "Internal ID": 4513,
+    "Unique Entry ID": "nvgwq4bKZzDoiTQzw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Funny_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "gas mask",
+    "Filename": "AccessoryGlassmouthGasmask0",
+    "ClothGroup ID": 487,
+    "Internal ID": 4649,
+    "Unique Entry ID": "cuqWQPfsbkmXz5DuB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gas_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "gas mask",
+    "Filename": "AccessoryGlassmouthGasmask1",
+    "ClothGroup ID": 487,
+    "Internal ID": 11160,
+    "Unique Entry ID": "9K9ea2sRHMsPmcX6d",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gas_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "glass-bottle glasses",
+    "Filename": "AccessoryGlassBottleBlack",
+    "ClothGroup ID": 286,
+    "Internal ID": 4282,
+    "Unique Entry ID": "JFtffcGH7WnPnJKtc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Glass-Bottle_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "goatee",
+    "Filename": "AccessoryMouthBeardChinBlack",
+    "ClothGroup ID": 502,
+    "Internal ID": 4676,
+    "Unique Entry ID": "W5S7BC9qA4QMCQEFR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goatee_(New_Horizons)"
+  },
+  {
+    "Name": "goggles",
+    "Filename": "AccessoryGlassGoggles0",
+    "ClothGroup ID": 378,
+    "Internal ID": 4454,
+    "Unique Entry ID": "3YkDq5TZm3jE8nBL9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "goggles",
+    "Filename": "AccessoryGlassGoggles5",
+    "ClothGroup ID": 378,
+    "Internal ID": 11488,
+    "Unique Entry ID": "P8X4Rnuc6WjHTrbkz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "goggles",
+    "Filename": "AccessoryGlassGoggles2",
+    "ClothGroup ID": 378,
+    "Internal ID": 11485,
+    "Unique Entry ID": "49s9b7jcrE8uaFEdR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "goggles",
+    "Filename": "AccessoryGlassGoggles3",
+    "ClothGroup ID": 378,
+    "Internal ID": 11486,
+    "Unique Entry ID": "sDjZobRoupcETEKeH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "goggles",
+    "Filename": "AccessoryGlassGoggles1",
+    "ClothGroup ID": 378,
+    "Internal ID": 11484,
+    "Unique Entry ID": "gozwdhewwK4PmPGFQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "goggles",
+    "Filename": "AccessoryGlassGoggles4",
+    "ClothGroup ID": 378,
+    "Internal ID": 11487,
+    "Unique Entry ID": "kwS6ErrZHdDNXpmbR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "handlebar mustache",
+    "Filename": "AccessoryMouthBeardBlack",
+    "ClothGroup ID": 185,
+    "Internal ID": 3550,
+    "Unique Entry ID": "HJfvmuhPDFMN8eRB2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Handlebar_Mustache_(New_Horizons)"
+  },
+  {
+    "Name": "heart shades",
+    "Filename": "AccessoryGlassHeart0",
+    "ClothGroup ID": 259,
+    "Internal ID": 4237,
+    "Unique Entry ID": "ZkwfoAxXwqiJav677",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "heart shades",
+    "Filename": "AccessoryGlassHeart1",
+    "ClothGroup ID": 259,
+    "Internal ID": 11188,
+    "Unique Entry ID": "jvPC7gmEHvxxgmwfA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "heart shades",
+    "Filename": "AccessoryGlassHeart4",
+    "ClothGroup ID": 259,
+    "Internal ID": 11191,
+    "Unique Entry ID": "CbiyKw9gGsMfYzA4g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "heart shades",
+    "Filename": "AccessoryGlassHeart2",
+    "ClothGroup ID": 259,
+    "Internal ID": 11189,
+    "Unique Entry ID": "k2fF9yEC5S3XGsXhX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "heart shades",
+    "Filename": "AccessoryGlassHeart3",
+    "ClothGroup ID": 259,
+    "Internal ID": 11190,
+    "Unique Entry ID": "3fs7r8mBn9EiGmMT7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "HMD",
+    "Filename": "AccessoryGlassHmdWhite",
+    "ClothGroup ID": 614,
+    "Internal ID": 5182,
+    "Unique Entry ID": "Hkcb2b5RCvgcXrHvc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hmd_(New_Horizons)"
+  },
+  {
+    "Name": "jester's mask",
+    "Filename": "AccessoryGlassmouthPierrot0",
+    "ClothGroup ID": 504,
+    "Internal ID": 4678,
+    "Unique Entry ID": "5iGdajwpPAQ98B9eE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jester's_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "jester's mask",
+    "Filename": "AccessoryGlassmouthPierrot1",
+    "ClothGroup ID": 504,
+    "Internal ID": 11166,
+    "Unique Entry ID": "7HBtvdHttSMJiuA7W",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jester's_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "jester's mask",
+    "Filename": "AccessoryGlassmouthPierrot2",
+    "ClothGroup ID": 504,
+    "Internal ID": 11167,
+    "Unique Entry ID": "LTCnc3SoDzsffayDr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jester's_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "jester's mask",
+    "Filename": "AccessoryGlassmouthPierrot3",
+    "ClothGroup ID": 504,
+    "Internal ID": 11168,
+    "Unique Entry ID": "Kpyk7xszcwxgdawqA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jester's_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle sunglasses",
+    "Filename": "AccessoryGlassKate1",
+    "ClothGroup ID": 1137,
+    "Internal ID": 11776,
+    "Unique Entry ID": "Pk4syNKBscFTBD2mP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle sunglasses",
+    "Filename": "AccessoryGlassKate2",
+    "ClothGroup ID": 1137,
+    "Internal ID": 11777,
+    "Unique Entry ID": "TJqYcpQKFaPX6naSj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle sunglasses",
+    "Filename": "AccessoryGlassKate5",
+    "ClothGroup ID": 1137,
+    "Internal ID": 11780,
+    "Unique Entry ID": "WHaB5ZbzSPteM5KxG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle sunglasses",
+    "Filename": "AccessoryGlassKate4",
+    "ClothGroup ID": 1137,
+    "Internal ID": 11779,
+    "Unique Entry ID": "Km6htuKWbDhQx5v2o",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle sunglasses",
+    "Filename": "AccessoryGlassKate3",
+    "ClothGroup ID": 1137,
+    "Internal ID": 11778,
+    "Unique Entry ID": "yWuQ9CtGKLaG7ntW9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle sunglasses",
+    "Filename": "AccessoryGlassKate0",
+    "ClothGroup ID": 1137,
+    "Internal ID": 9887,
+    "Unique Entry ID": "2B4ttG2NJS7ZKRimP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "ladder shades",
+    "Filename": "AccessoryGlassBlind0",
+    "ClothGroup ID": 387,
+    "Internal ID": 4464,
+    "Unique Entry ID": "DErjYKaqmFEkp7RQ3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "ladder shades",
+    "Filename": "AccessoryGlassBlind3",
+    "ClothGroup ID": 387,
+    "Internal ID": 11004,
+    "Unique Entry ID": "8wvE7HfG9HvK33nTW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "ladder shades",
+    "Filename": "AccessoryGlassBlind4",
+    "ClothGroup ID": 387,
+    "Internal ID": 11005,
+    "Unique Entry ID": "mcex6oPn8f8KotnrZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "ladder shades",
+    "Filename": "AccessoryGlassBlind2",
+    "ClothGroup ID": 387,
+    "Internal ID": 11003,
+    "Unique Entry ID": "wnvu2B7z7M975uCMf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "ladder shades",
+    "Filename": "AccessoryGlassBlind1",
+    "ClothGroup ID": 387,
+    "Internal ID": 11002,
+    "Unique Entry ID": "kbZR8T9YaP2Pb7q6P",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "ladder shades",
+    "Filename": "AccessoryGlassBlind5",
+    "ClothGroup ID": 387,
+    "Internal ID": 11006,
+    "Unique Entry ID": "SF89YKrjwGsa5Dp7t",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "leaf",
+    "Filename": "AccessoryMouthLeafGreen",
+    "ClothGroup ID": 508,
+    "Internal ID": 4682,
+    "Unique Entry ID": "XrpTjwp94FwmvXjmE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leaf_(New_Horizons)"
+  },
+  {
+    "Name": "masquerade mask",
+    "Filename": "AccessoryGlassVenetian1",
+    "ClothGroup ID": 494,
+    "Internal ID": 11161,
+    "Unique Entry ID": "GL9igRSB2nTebNAin",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Masquerade_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "masquerade mask",
+    "Filename": "AccessoryGlassVenetian3",
+    "ClothGroup ID": 494,
+    "Internal ID": 11163,
+    "Unique Entry ID": "DknNtTo9sb2jZHDht",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Masquerade_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "masquerade mask",
+    "Filename": "AccessoryGlassVenetian0",
+    "ClothGroup ID": 494,
+    "Internal ID": 4667,
+    "Unique Entry ID": "vwytnsJLdnFYZdeHR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Masquerade_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "masquerade mask",
+    "Filename": "AccessoryGlassVenetian5",
+    "ClothGroup ID": 494,
+    "Internal ID": 11165,
+    "Unique Entry ID": "nzAimcCqJg46jjNiN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Masquerade_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "masquerade mask",
+    "Filename": "AccessoryGlassVenetian4",
+    "ClothGroup ID": 494,
+    "Internal ID": 11164,
+    "Unique Entry ID": "PEA7Y7djsLQryh4c2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Masquerade_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "masquerade mask",
+    "Filename": "AccessoryGlassVenetian2",
+    "ClothGroup ID": 494,
+    "Internal ID": 11162,
+    "Unique Entry ID": "6yKLSWNnpyXAPKJ4h",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Masquerade_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "monocle",
+    "Filename": "AccessoryGlassMonocle2",
+    "ClothGroup ID": 385,
+    "Internal ID": 11001,
+    "Unique Entry ID": "tXaLxYbQPqcTZWxej",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monocle_(New_Horizons)"
+  },
+  {
+    "Name": "monocle",
+    "Filename": "AccessoryGlassMonocle0",
+    "ClothGroup ID": 385,
+    "Internal ID": 4462,
+    "Unique Entry ID": "vtCepd9DjYS2H5vcb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monocle_(New_Horizons)"
+  },
+  {
+    "Name": "monocle",
+    "Filename": "AccessoryGlassMonocle1",
+    "ClothGroup ID": 385,
+    "Internal ID": 11000,
+    "Unique Entry ID": "ghxLRorCD3NWR5h5x",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monocle_(New_Horizons)"
+  },
+  {
+    "Name": "night-vision goggles",
+    "Filename": "AccessoryGlassNightvisionBlack",
+    "ClothGroup ID": 615,
+    "Internal ID": 5261,
+    "Unique Entry ID": "sMdtidR3zypRsgSCW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Night-Vision_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. eye mask",
+    "Filename": "AccessoryGlassNook0",
+    "ClothGroup ID": 1148,
+    "Internal ID": 9654,
+    "Unique Entry ID": "n8j5gx4zjuK7tkYKq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. snorkel",
+    "Filename": "AccessoryGlassmouthNook0",
+    "ClothGroup ID": 1300,
+    "Internal ID": 13215,
+    "Unique Entry ID": "cg2tZnttCZ9Wj3k9S",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Snorkel_(New_Horizons)"
+  },
+  {
+    "Name": "nose drip",
+    "Filename": "AccessoryMouthJokeDripCyan",
+    "ClothGroup ID": 899,
+    "Internal ID": 5833,
+    "Unique Entry ID": "9YbFJqBD3hmQkW4Gq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nose_Drip_(New_Horizons)"
+  },
+  {
+    "Name": "octagonal glasses",
+    "Filename": "AccessoryGlassOctagon0",
+    "ClothGroup ID": 261,
+    "Internal ID": 4239,
+    "Unique Entry ID": "dzKG7sMGwFn7EaKjm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Octagonal_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "octagonal glasses",
+    "Filename": "AccessoryGlassOctagon4",
+    "ClothGroup ID": 261,
+    "Internal ID": 11075,
+    "Unique Entry ID": "4FT4YuTQcq3RGo3Ss",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Octagonal_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "octagonal glasses",
+    "Filename": "AccessoryGlassOctagon1",
+    "ClothGroup ID": 261,
+    "Internal ID": 11072,
+    "Unique Entry ID": "NME2CQfz2tMbnwLzb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Octagonal_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "octagonal glasses",
+    "Filename": "AccessoryGlassOctagon2",
+    "ClothGroup ID": 261,
+    "Internal ID": 11073,
+    "Unique Entry ID": "Je9RNoLocnJ5kinNQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Octagonal_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "octagonal glasses",
+    "Filename": "AccessoryGlassOctagon3",
+    "ClothGroup ID": 261,
+    "Internal ID": 11074,
+    "Unique Entry ID": "t5MJmR6fbqXwevjus",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Octagonal_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "oval glasses",
+    "Filename": "AccessoryGlassOval6",
+    "ClothGroup ID": 475,
+    "Internal ID": 11092,
+    "Unique Entry ID": "uuttmaKAruqm7tiKL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "oval glasses",
+    "Filename": "AccessoryGlassOval4",
+    "ClothGroup ID": 475,
+    "Internal ID": 11090,
+    "Unique Entry ID": "QBNkZLi9jpeDYMxnQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "oval glasses",
+    "Filename": "AccessoryGlassOval1",
+    "ClothGroup ID": 475,
+    "Internal ID": 11087,
+    "Unique Entry ID": "9AXkAraeTz6TgR6sJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "oval glasses",
+    "Filename": "AccessoryGlassOval5",
+    "ClothGroup ID": 475,
+    "Internal ID": 11091,
+    "Unique Entry ID": "uocqzyhP5WHmnH8dj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "oval glasses",
+    "Filename": "AccessoryGlassOval0",
+    "ClothGroup ID": 475,
+    "Internal ID": 4609,
+    "Unique Entry ID": "jw7KgW9epPat5Pw8W",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "oval glasses",
+    "Filename": "AccessoryGlassOval2",
+    "ClothGroup ID": 475,
+    "Internal ID": 11088,
+    "Unique Entry ID": "ydCsvEetGaAQ4mNs2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "oval glasses",
+    "Filename": "AccessoryGlassOval3",
+    "ClothGroup ID": 475,
+    "Internal ID": 11089,
+    "Unique Entry ID": "9ZhHgTmKeqZ7fgcNr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Filename": "AccessoryMouthPacifier5",
+    "ClothGroup ID": 1055,
+    "Internal ID": 11017,
+    "Unique Entry ID": "aWcYia7rWZ8nhXg37",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Filename": "AccessoryMouthPacifier4",
+    "ClothGroup ID": 1055,
+    "Internal ID": 11016,
+    "Unique Entry ID": "iAyukzDt8Kutfpmab",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Filename": "AccessoryMouthPacifier0",
+    "ClothGroup ID": 1055,
+    "Internal ID": 2298,
+    "Unique Entry ID": "bK8fXPaAy9f3Nqx9Q",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Filename": "AccessoryMouthPacifier7",
+    "ClothGroup ID": 1055,
+    "Internal ID": 11019,
+    "Unique Entry ID": "WZgrieHNMrjuw9Tah",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Filename": "AccessoryMouthPacifier2",
+    "ClothGroup ID": 1055,
+    "Internal ID": 11014,
+    "Unique Entry ID": "iH9JsLkZTan5CQgTt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Filename": "AccessoryMouthPacifier3",
+    "ClothGroup ID": 1055,
+    "Internal ID": 11015,
+    "Unique Entry ID": "XRyQwLEtt9RwgvtST",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Filename": "AccessoryMouthPacifier1",
+    "ClothGroup ID": 1055,
+    "Internal ID": 11013,
+    "Unique Entry ID": "KMB2YJMHNzESo6Hws",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Filename": "AccessoryMouthPacifier6",
+    "ClothGroup ID": 1055,
+    "Internal ID": 11018,
+    "Unique Entry ID": "ScuP52AjZHPkhCuGP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pig nose",
+    "Filename": "AccessoryMouthPigPink",
+    "ClothGroup ID": 485,
+    "Internal ID": 4647,
+    "Unique Entry ID": "H2JSW7YDoTdLr6GTK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pig_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "pilot shades",
+    "Filename": "AccessoryGlassPilot0",
+    "ClothGroup ID": 382,
+    "Internal ID": 4459,
+    "Unique Entry ID": "wuyb75e6fkA5976yx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pilot_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "pilot shades",
+    "Filename": "AccessoryGlassPilot1",
+    "ClothGroup ID": 382,
+    "Internal ID": 11214,
+    "Unique Entry ID": "nBHTPo8pt7eRL47PT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pilot_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "pirate beard",
+    "Filename": "AccessoryMouthPirates0",
+    "ClothGroup ID": 1226,
+    "Internal ID": 12663,
+    "Unique Entry ID": "isFLrwBtByekpKuLB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Beard_(New_Horizons)"
+  },
+  {
+    "Name": "pirate eye patch",
+    "Filename": "AccessoryGlassPiratespatch0",
+    "ClothGroup ID": 1225,
+    "Internal ID": 12662,
+    "Unique Entry ID": "pm3izhYzmdHRwnoWR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Eye_Patch_(New_Horizons)"
+  },
+  {
+    "Name": "pixel shades",
+    "Filename": "AccessoryGlassDot3",
+    "ClothGroup ID": 484,
+    "Internal ID": 11225,
+    "Unique Entry ID": "GY4PDqrCZdcPWb4Ep",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pixel_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "pixel shades",
+    "Filename": "AccessoryGlassDot0",
+    "ClothGroup ID": 484,
+    "Internal ID": 4646,
+    "Unique Entry ID": "Tp2dC3Dk4chwa4ebr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pixel_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "pixel shades",
+    "Filename": "AccessoryGlassDot1",
+    "ClothGroup ID": 484,
+    "Internal ID": 11223,
+    "Unique Entry ID": "6tFnu3DhC5HQvqmZ5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pixel_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "pixel shades",
+    "Filename": "AccessoryGlassDot2",
+    "ClothGroup ID": 484,
+    "Internal ID": 11224,
+    "Unique Entry ID": "SbAGGe9yg4EXAw35b",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pixel_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "pleather mask",
+    "Filename": "AccessoryMouthLeatherBlack",
+    "ClothGroup ID": 922,
+    "Internal ID": 6040,
+    "Unique Entry ID": "aN6Wsxguggh39oBiF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "post-op patch",
+    "Filename": "AccessoryGlassEyepatchWhite",
+    "ClothGroup ID": 376,
+    "Internal ID": 4452,
+    "Unique Entry ID": "8Qgoizxz547DtMNd7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Post-Op_Patch_(New_Horizons)"
+  },
+  {
+    "Name": "privacy mask",
+    "Filename": "AccessoryMouthCrowBlack",
+    "ClothGroup ID": 497,
+    "Internal ID": 4671,
+    "Unique Entry ID": "4GDJFfMNHhsaXXrAN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Privacy_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "reflector",
+    "Filename": "AccessoryGlassMirrorGray",
+    "ClothGroup ID": 921,
+    "Internal ID": 6039,
+    "Unique Entry ID": "J4EgETRkyeSESkRB7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Reflector_(New_Horizons)"
+  },
+  {
+    "Name": "retro shades",
+    "Filename": "AccessoryGlassRetro0",
+    "ClothGroup ID": 379,
+    "Internal ID": 4456,
+    "Unique Entry ID": "SFFhXhR5sYQzJwXWj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "retro shades",
+    "Filename": "AccessoryGlassRetro5",
+    "ClothGroup ID": 379,
+    "Internal ID": 11213,
+    "Unique Entry ID": "6oqHAyihAjKRfH72Z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "retro shades",
+    "Filename": "AccessoryGlassRetro2",
+    "ClothGroup ID": 379,
+    "Internal ID": 11210,
+    "Unique Entry ID": "zg6uY6WZNQcopNq67",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "retro shades",
+    "Filename": "AccessoryGlassRetro3",
+    "ClothGroup ID": 379,
+    "Internal ID": 11211,
+    "Unique Entry ID": "QqEG7ktLKMaXweFzg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "retro shades",
+    "Filename": "AccessoryGlassRetro1",
+    "ClothGroup ID": 379,
+    "Internal ID": 11209,
+    "Unique Entry ID": "zYw3PhLHsw2KZ7TBK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "retro shades",
+    "Filename": "AccessoryGlassRetro4",
+    "ClothGroup ID": 379,
+    "Internal ID": 11212,
+    "Unique Entry ID": "cJCaAmMdqrHG8uDLH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "rhinestone shades",
+    "Filename": "AccessoryGlassRhinestone0",
+    "ClothGroup ID": 509,
+    "Internal ID": 4683,
+    "Unique Entry ID": "BJFhJqt9KuaWGaWuM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rhinestone_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "rhinestone shades",
+    "Filename": "AccessoryGlassRhinestone2",
+    "ClothGroup ID": 509,
+    "Internal ID": 11227,
+    "Unique Entry ID": "qy2BWYZvJedPJ69yX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rhinestone_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "rhinestone shades",
+    "Filename": "AccessoryGlassRhinestone1",
+    "ClothGroup ID": 509,
+    "Internal ID": 11226,
+    "Unique Entry ID": "iwtSmya59DpyGFB97",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rhinestone_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "rimmed glasses",
+    "Filename": "AccessoryGlassCircle2",
+    "ClothGroup ID": 257,
+    "Internal ID": 11185,
+    "Unique Entry ID": "jA7gAHyzXHk8qBRuq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "rimmed glasses",
+    "Filename": "AccessoryGlassCircle0",
+    "ClothGroup ID": 257,
+    "Internal ID": 4235,
+    "Unique Entry ID": "DyPvwyWQK47TL4tjW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "rimmed glasses",
+    "Filename": "AccessoryGlassCircle1",
+    "ClothGroup ID": 257,
+    "Internal ID": 11184,
+    "Unique Entry ID": "xqu5YAX6AmrXR4Qmd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "rimmed glasses",
+    "Filename": "AccessoryGlassCircle4",
+    "ClothGroup ID": 257,
+    "Internal ID": 11187,
+    "Unique Entry ID": "fjKzCMBMhcJNEjsTv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "rimmed glasses",
+    "Filename": "AccessoryGlassCircle3",
+    "ClothGroup ID": 257,
+    "Internal ID": 11186,
+    "Unique Entry ID": "RpfNwdBEPoqgF5pkh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Filename": "AccessoryGlassBoston6",
+    "ClothGroup ID": 263,
+    "Internal ID": 11201,
+    "Unique Entry ID": "z8KywWDutyXSsgXoy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Filename": "AccessoryGlassBoston0",
+    "ClothGroup ID": 263,
+    "Internal ID": 4241,
+    "Unique Entry ID": "SdqiPF4Fzw8HrPY4k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Filename": "AccessoryGlassBoston5",
+    "ClothGroup ID": 263,
+    "Internal ID": 11200,
+    "Unique Entry ID": "Z9bJ6cYkY6hC4mL4o",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Filename": "AccessoryGlassBoston4",
+    "ClothGroup ID": 263,
+    "Internal ID": 11199,
+    "Unique Entry ID": "KFNjnL6rqYckLECFB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Filename": "AccessoryGlassBoston3",
+    "ClothGroup ID": 263,
+    "Internal ID": 11198,
+    "Unique Entry ID": "BE37D4h9xHkhRwgmH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Filename": "AccessoryGlassBoston1",
+    "ClothGroup ID": 263,
+    "Internal ID": 11196,
+    "Unique Entry ID": "Mf9c5DHdko9uWo2Hu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Filename": "AccessoryGlassBoston2",
+    "ClothGroup ID": 263,
+    "Internal ID": 11197,
+    "Unique Entry ID": "hyhWF8rW2Y2AkXGTj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Filename": "AccessoryGlassBoston7",
+    "ClothGroup ID": 263,
+    "Internal ID": 11202,
+    "Unique Entry ID": "fy6sue9jdYtpwh4Aq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round tinted shades",
+    "Filename": "AccessoryGlassRound0",
+    "ClothGroup ID": 473,
+    "Internal ID": 4607,
+    "Unique Entry ID": "GdrT6sBLFECRG8LyN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Tinted_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round tinted shades",
+    "Filename": "AccessoryGlassRound1",
+    "ClothGroup ID": 473,
+    "Internal ID": 11220,
+    "Unique Entry ID": "KqtiBXYfKejymQ4Wg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Tinted_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round tinted shades",
+    "Filename": "AccessoryGlassRound3",
+    "ClothGroup ID": 473,
+    "Internal ID": 11222,
+    "Unique Entry ID": "CeX6fKZRL2XFK7jnW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Tinted_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round tinted shades",
+    "Filename": "AccessoryGlassRound2",
+    "ClothGroup ID": 473,
+    "Internal ID": 11221,
+    "Unique Entry ID": "tfuBgNyNNSXc3o4Q2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Tinted_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "rounded beard",
+    "Filename": "AccessoryMouthBeardRoundBlack",
+    "ClothGroup ID": 505,
+    "Internal ID": 4679,
+    "Unique Entry ID": "As4RR5kDBbDWqHP69",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rounded_Beard_(New_Horizons)"
+  },
+  {
+    "Name": "shattered glasses",
+    "Filename": "AccessoryGlassCrackBlack",
+    "ClothGroup ID": 315,
+    "Internal ID": 4337,
+    "Unique Entry ID": "9nxh9LSDKZoYjygJg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shattered_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "ski goggles",
+    "Filename": "AccessoryGlassGogglesski1",
+    "ClothGroup ID": 377,
+    "Internal ID": 11479,
+    "Unique Entry ID": "NwNqq5g2iw4DeMsBY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "ski goggles",
+    "Filename": "AccessoryGlassGogglesski0",
+    "ClothGroup ID": 377,
+    "Internal ID": 4453,
+    "Unique Entry ID": "GWhWLPt3sExfeAG2c",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "ski goggles",
+    "Filename": "AccessoryGlassGogglesski2",
+    "ClothGroup ID": 377,
+    "Internal ID": 11480,
+    "Unique Entry ID": "4umKSoR2BWtW6JyFK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "ski goggles",
+    "Filename": "AccessoryGlassGogglesski5",
+    "ClothGroup ID": 377,
+    "Internal ID": 11483,
+    "Unique Entry ID": "vSksuA8nCN72Tq3ji",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "ski goggles",
+    "Filename": "AccessoryGlassGogglesski4",
+    "ClothGroup ID": 377,
+    "Internal ID": 11482,
+    "Unique Entry ID": "SydPBHGEnpRAKuCfq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "ski goggles",
+    "Filename": "AccessoryGlassGogglesski3",
+    "ClothGroup ID": 377,
+    "Internal ID": 11481,
+    "Unique Entry ID": "RBByDZoTeK5b6jvXn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "snorkel mask",
+    "Filename": "AccessoryGlassmouthDiver5",
+    "ClothGroup ID": 432,
+    "Internal ID": 11497,
+    "Unique Entry ID": "jFwR59w58PSPL53K4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snorkel_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "snorkel mask",
+    "Filename": "AccessoryGlassmouthDiver2",
+    "ClothGroup ID": 432,
+    "Internal ID": 11494,
+    "Unique Entry ID": "ekXFtoFg8mmsbyZYp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snorkel_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "snorkel mask",
+    "Filename": "AccessoryGlassmouthDiver3",
+    "ClothGroup ID": 432,
+    "Internal ID": 11495,
+    "Unique Entry ID": "3oBKZL4APPZGp7KpN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snorkel_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "snorkel mask",
+    "Filename": "AccessoryGlassmouthDiver1",
+    "ClothGroup ID": 432,
+    "Internal ID": 11493,
+    "Unique Entry ID": "xHJu2dJts5RYTFw7p",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snorkel_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "snorkel mask",
+    "Filename": "AccessoryGlassmouthDiver4",
+    "ClothGroup ID": 432,
+    "Internal ID": 11496,
+    "Unique Entry ID": "v9xCArJntbpz9FhSG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snorkel_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "snorkel mask",
+    "Filename": "AccessoryGlassmouthDiver0",
+    "ClothGroup ID": 432,
+    "Internal ID": 4551,
+    "Unique Entry ID": "rSw6wK34RyoG5cMe3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snorkel_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "sporty shades",
+    "Filename": "AccessoryGlassSports1",
+    "ClothGroup ID": 381,
+    "Internal ID": 11489,
+    "Unique Entry ID": "CA5YASgCBpgL2PSpX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sporty_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "sporty shades",
+    "Filename": "AccessoryGlassSports0",
+    "ClothGroup ID": 381,
+    "Internal ID": 4458,
+    "Unique Entry ID": "QkHqffg8X4eTL6PXX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sporty_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "sporty shades",
+    "Filename": "AccessoryGlassSports2",
+    "ClothGroup ID": 381,
+    "Internal ID": 11490,
+    "Unique Entry ID": "GgdcckY8p5Rg5NyTY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sporty_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "sporty shades",
+    "Filename": "AccessoryGlassSports3",
+    "ClothGroup ID": 381,
+    "Internal ID": 11491,
+    "Unique Entry ID": "uwEjreWEdYSbuxXE9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sporty_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "sporty shades",
+    "Filename": "AccessoryGlassSports4",
+    "ClothGroup ID": 381,
+    "Internal ID": 11492,
+    "Unique Entry ID": "THB8TWPykhsELXErr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sporty_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "square glasses",
+    "Filename": "AccessoryGlassSquare2",
+    "ClothGroup ID": 258,
+    "Internal ID": 11067,
+    "Unique Entry ID": "QxFwFytYcWo5acGtW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Square_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "square glasses",
+    "Filename": "AccessoryGlassSquare1",
+    "ClothGroup ID": 258,
+    "Internal ID": 11066,
+    "Unique Entry ID": "LhvFWS5ADiDiPJwai",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Square_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "square glasses",
+    "Filename": "AccessoryGlassSquare3",
+    "ClothGroup ID": 258,
+    "Internal ID": 11068,
+    "Unique Entry ID": "CvziuqadDpoQgGK4C",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Square_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "square glasses",
+    "Filename": "AccessoryGlassSquare0",
+    "ClothGroup ID": 258,
+    "Internal ID": 4236,
+    "Unique Entry ID": "rAzkKijSEqXzoAZKY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Square_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "stache & glasses",
+    "Filename": "AccessoryGlassmouthBeard0",
+    "ClothGroup ID": 408,
+    "Internal ID": 4501,
+    "Unique Entry ID": "s7hDzZ3ajPpK9fnEW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stache_&_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "stache & glasses",
+    "Filename": "AccessoryGlassmouthBeard1",
+    "ClothGroup ID": 408,
+    "Internal ID": 11007,
+    "Unique Entry ID": "M8owND8DnAEKA9nuX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stache_&_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "star shades",
+    "Filename": "AccessoryGlassStar1",
+    "ClothGroup ID": 262,
+    "Internal ID": 11192,
+    "Unique Entry ID": "PCZAYraP9kdaqnZy7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "star shades",
+    "Filename": "AccessoryGlassStar0",
+    "ClothGroup ID": 262,
+    "Internal ID": 4240,
+    "Unique Entry ID": "y4n8SisxyS7dGRWL7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "star shades",
+    "Filename": "AccessoryGlassStar4",
+    "ClothGroup ID": 262,
+    "Internal ID": 11195,
+    "Unique Entry ID": "PaF6nho2LRBu5x7Pi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "star shades",
+    "Filename": "AccessoryGlassStar2",
+    "ClothGroup ID": 262,
+    "Internal ID": 11193,
+    "Unique Entry ID": "h4zk6rrWiX94jefGH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "star shades",
+    "Filename": "AccessoryGlassStar3",
+    "ClothGroup ID": 262,
+    "Internal ID": 11194,
+    "Unique Entry ID": "GiBvxa93RwTN46zhE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "steampunk glasses",
+    "Filename": "AccessoryGlassSteampunk0",
+    "ClothGroup ID": 511,
+    "Internal ID": 4685,
+    "Unique Entry ID": "uANDLz5EDWphoM3Lc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Steampunk_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "steampunk glasses",
+    "Filename": "AccessoryGlassSteampunk1",
+    "ClothGroup ID": 511,
+    "Internal ID": 11505,
+    "Unique Entry ID": "Rhhrv89PGEMbdbdPt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Steampunk_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "sticky rice",
+    "Filename": "AccessoryMouthRice",
+    "ClothGroup ID": 489,
+    "Internal ID": 4652,
+    "Unique Entry ID": "isnXDFfGkHKKB8bMP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sticky_Rice_(New_Horizons)"
+  },
+  {
+    "Name": "superhero mask",
+    "Filename": "AccessoryGlassHeromaskBlack",
+    "ClothGroup ID": 510,
+    "Internal ID": 4684,
+    "Unique Entry ID": "fK2Xz8nxAebSkWNdE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Superhero_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "tiny shades",
+    "Filename": "AccessoryGlassMini1",
+    "ClothGroup ID": 384,
+    "Internal ID": 11215,
+    "Unique Entry ID": "tCxZoqcR8egLcu4oh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tiny_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "tiny shades",
+    "Filename": "AccessoryGlassMini2",
+    "ClothGroup ID": 384,
+    "Internal ID": 11216,
+    "Unique Entry ID": "8YkgkHp2z5tycST3j",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tiny_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "tiny shades",
+    "Filename": "AccessoryGlassMini0",
+    "ClothGroup ID": 384,
+    "Internal ID": 4461,
+    "Unique Entry ID": "DnZtrKfwj3MAy6PZc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tiny_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "tortoise specs",
+    "Filename": "AccessoryGlassTortoiseshell2",
+    "ClothGroup ID": 383,
+    "Internal ID": 11080,
+    "Unique Entry ID": "fEshNAFDwcyo9v2fX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tortoise_Specs_(New_Horizons)"
+  },
+  {
+    "Name": "tortoise specs",
+    "Filename": "AccessoryGlassTortoiseshell1",
+    "ClothGroup ID": 383,
+    "Internal ID": 11079,
+    "Unique Entry ID": "jewJFqgFQTHKyAKTz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tortoise_Specs_(New_Horizons)"
+  },
+  {
+    "Name": "tortoise specs",
+    "Filename": "AccessoryGlassTortoiseshell0",
+    "ClothGroup ID": 383,
+    "Internal ID": 4460,
+    "Unique Entry ID": "kqomsYL33TB7zaNtY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tortoise_Specs_(New_Horizons)"
+  },
+  {
+    "Name": "triangle shades",
+    "Filename": "AccessoryGlassTriangle5",
+    "ClothGroup ID": 264,
+    "Internal ID": 11207,
+    "Unique Entry ID": "QpAQQTRoBmcjNBeEK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Triangle_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "triangle shades",
+    "Filename": "AccessoryGlassTriangle6",
+    "ClothGroup ID": 264,
+    "Internal ID": 11208,
+    "Unique Entry ID": "vGHab8KFNDFRgW5h6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Triangle_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "triangle shades",
+    "Filename": "AccessoryGlassTriangle0",
+    "ClothGroup ID": 264,
+    "Internal ID": 4242,
+    "Unique Entry ID": "cw8m5tS85qMGGnpy9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Triangle_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "triangle shades",
+    "Filename": "AccessoryGlassTriangle1",
+    "ClothGroup ID": 264,
+    "Internal ID": 11203,
+    "Unique Entry ID": "cR58LxuFK4Kcxh7fc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Triangle_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "triangle shades",
+    "Filename": "AccessoryGlassTriangle4",
+    "ClothGroup ID": 264,
+    "Internal ID": 11206,
+    "Unique Entry ID": "4edkdodmNhmpkSCBo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Triangle_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "triangle shades",
+    "Filename": "AccessoryGlassTriangle2",
+    "ClothGroup ID": 264,
+    "Internal ID": 11204,
+    "Unique Entry ID": "xSM4vD2KSok5cjo6p",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Triangle_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "triangle shades",
+    "Filename": "AccessoryGlassTriangle3",
+    "ClothGroup ID": 264,
+    "Internal ID": 11205,
+    "Unique Entry ID": "vAuSuBJcAfyMR6wk7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Triangle_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "wooden-frame glasses",
+    "Filename": "AccessoryGlassWood0",
+    "ClothGroup ID": 496,
+    "Internal ID": 4669,
+    "Unique Entry ID": "dbnqry4vZBvK6LrS2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden-Frame_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "wooden-frame glasses",
+    "Filename": "AccessoryGlassWood1",
+    "ClothGroup ID": 496,
+    "Internal ID": 11093,
+    "Unique Entry ID": "2MufTC9TPErbryyKS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden-Frame_Glasses_(New_Horizons)"
+  }
+]

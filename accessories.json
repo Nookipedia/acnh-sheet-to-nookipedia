@@ -1,0 +1,464 @@
+[
+  {
+    "Name": "3D glasses",
+    "Internal ID": 4463,
+    "Unique Entry ID": "FNxEraBTeWRiCvtFu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:3D_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "animal nose",
+    "Internal ID": 13018,
+    "Unique Entry ID": "6RJgfodWEebvmWTN9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Animal_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "bandage",
+    "Internal ID": 4677,
+    "Unique Entry ID": "2qFT5iPkk8bREvpkj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bandage_(New_Horizons)"
+  },
+  {
+    "Name": "beak",
+    "Internal ID": 3549,
+    "Unique Entry ID": "T5CpsJi4xBSachNL5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beak_(New_Horizons)"
+  },
+  {
+    "Name": "birthday shades",
+    "Internal ID": 11218,
+    "Unique Entry ID": "ojXoAAj8Bs2XgRiWB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Birthday_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "bottom-rimmed glasses",
+    "Internal ID": 11086,
+    "Unique Entry ID": "eT6KLntq43nCGFvB9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bottom-Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "browline glasses",
+    "Internal ID": 11071,
+    "Unique Entry ID": "R9rDoMEzPcBw75hLE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Browline_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "bubblegum",
+    "Internal ID": 11030,
+    "Unique Entry ID": "r9N2a2TYhvXBKiihn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubblegum_(New_Horizons)"
+  },
+  {
+    "Name": "bunny nose",
+    "Internal ID": 11024,
+    "Unique Entry ID": "ci8RKqDmqS5wD3W5k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "butterfly shades",
+    "Internal ID": 4608,
+    "Unique Entry ID": "WjbaLp9JbBGYRrb6K",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Butterfly_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "candy-skull mask",
+    "Internal ID": 11169,
+    "Unique Entry ID": "xyQdqFuAkXkNs9qQ5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Candy-Skull_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "cat nose",
+    "Internal ID": 4483,
+    "Unique Entry ID": "45Muns9ig4dqrsFF7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cat_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "cucumber pack",
+    "Internal ID": 4491,
+    "Unique Entry ID": "MhbCBrYX5fHxZWDuA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cucumber_Pack_(New_Horizons)"
+  },
+  {
+    "Name": "curly mustache",
+    "Internal ID": 4672,
+    "Unique Entry ID": "9tyCrNPeibcu5NLo8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Curly_Mustache_(New_Horizons)"
+  },
+  {
+    "Name": "cyber shades",
+    "Internal ID": 11499,
+    "Unique Entry ID": "AKakpCweRnd5hAsRB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyber_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "DAL eye mask",
+    "Internal ID": 12128,
+    "Unique Entry ID": "sbkqQrHpJWMEEZLSR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:DAL_Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "DAL sunglasses",
+    "Internal ID": 12129,
+    "Unique Entry ID": "zRnkH9B3rYNMLpiTP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:DAL_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "doctor's mask",
+    "Internal ID": 4451,
+    "Unique Entry ID": "vZDsrDRdgrbbiwi8N",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Doctor's_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "dog nose",
+    "Internal ID": 5244,
+    "Unique Entry ID": "moGRcnkQihHbN89Kc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dog_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "double-bridge glasses",
+    "Internal ID": 11077,
+    "Unique Entry ID": "CLPEzZqr3vut85Ja4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Double-Bridge_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "drinking-straw glasses",
+    "Internal ID": 11012,
+    "Unique Entry ID": "bQ67Xe7cQZ4PcXnNe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Drinking-Straw_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "eye mask",
+    "Internal ID": 11155,
+    "Unique Entry ID": "FFAmL82w7xmtQyj49",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "eye patch",
+    "Internal ID": 4457,
+    "Unique Entry ID": "iZoTNGb8htGE8JWEw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eye_Patch_(New_Horizons)"
+  },
+  {
+    "Name": "facial mask",
+    "Internal ID": 4512,
+    "Unique Entry ID": "KzBY9kLtwTHhHGzR3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Facial_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "fake nose",
+    "Internal ID": 4496,
+    "Unique Entry ID": "chP2wAyDtdSTS3XrF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fake_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "flower sunglasses",
+    "Internal ID": 5739,
+    "Unique Entry ID": "iJsQqLTdb4gcPwekJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flower_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "food mess",
+    "Internal ID": 5857,
+    "Unique Entry ID": "ErTpS7LHoG7hZ4bvn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Food_Mess_(New_Horizons)"
+  },
+  {
+    "Name": "funny glasses",
+    "Internal ID": 11008,
+    "Unique Entry ID": "4ASpkj55QiocnNkZ2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Funny_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "gas mask",
+    "Internal ID": 4649,
+    "Unique Entry ID": "cuqWQPfsbkmXz5DuB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gas_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "glass-bottle glasses",
+    "Internal ID": 4282,
+    "Unique Entry ID": "JFtffcGH7WnPnJKtc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Glass-Bottle_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "goatee",
+    "Internal ID": 4676,
+    "Unique Entry ID": "W5S7BC9qA4QMCQEFR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goatee_(New_Horizons)"
+  },
+  {
+    "Name": "goggles",
+    "Internal ID": 4454,
+    "Unique Entry ID": "3YkDq5TZm3jE8nBL9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "handlebar mustache",
+    "Internal ID": 3550,
+    "Unique Entry ID": "HJfvmuhPDFMN8eRB2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Handlebar_Mustache_(New_Horizons)"
+  },
+  {
+    "Name": "heart shades",
+    "Internal ID": 4237,
+    "Unique Entry ID": "ZkwfoAxXwqiJav677",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "HMD",
+    "Internal ID": 5182,
+    "Unique Entry ID": "Hkcb2b5RCvgcXrHvc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hmd_(New_Horizons)"
+  },
+  {
+    "Name": "jester's mask",
+    "Internal ID": 4678,
+    "Unique Entry ID": "5iGdajwpPAQ98B9eE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jester's_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle sunglasses",
+    "Internal ID": 11776,
+    "Unique Entry ID": "Pk4syNKBscFTBD2mP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Sunglasses_(New_Horizons)"
+  },
+  {
+    "Name": "ladder shades",
+    "Internal ID": 4464,
+    "Unique Entry ID": "DErjYKaqmFEkp7RQ3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "leaf",
+    "Internal ID": 4682,
+    "Unique Entry ID": "XrpTjwp94FwmvXjmE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leaf_(New_Horizons)"
+  },
+  {
+    "Name": "masquerade mask",
+    "Internal ID": 11161,
+    "Unique Entry ID": "GL9igRSB2nTebNAin",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Masquerade_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "monocle",
+    "Internal ID": 11001,
+    "Unique Entry ID": "tXaLxYbQPqcTZWxej",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monocle_(New_Horizons)"
+  },
+  {
+    "Name": "night-vision goggles",
+    "Internal ID": 5261,
+    "Unique Entry ID": "sMdtidR3zypRsgSCW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Night-Vision_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. eye mask",
+    "Internal ID": 9654,
+    "Unique Entry ID": "n8j5gx4zjuK7tkYKq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Eye_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. snorkel",
+    "Internal ID": 13215,
+    "Unique Entry ID": "cg2tZnttCZ9Wj3k9S",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Snorkel_(New_Horizons)"
+  },
+  {
+    "Name": "nose drip",
+    "Internal ID": 5833,
+    "Unique Entry ID": "9YbFJqBD3hmQkW4Gq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nose_Drip_(New_Horizons)"
+  },
+  {
+    "Name": "octagonal glasses",
+    "Internal ID": 4239,
+    "Unique Entry ID": "dzKG7sMGwFn7EaKjm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Octagonal_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "oval glasses",
+    "Internal ID": 11092,
+    "Unique Entry ID": "uuttmaKAruqm7tiKL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Oval_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "pacifier",
+    "Internal ID": 11017,
+    "Unique Entry ID": "aWcYia7rWZ8nhXg37",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pacifier_(New_Horizons)"
+  },
+  {
+    "Name": "pig nose",
+    "Internal ID": 4647,
+    "Unique Entry ID": "H2JSW7YDoTdLr6GTK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pig_Nose_(New_Horizons)"
+  },
+  {
+    "Name": "pilot shades",
+    "Internal ID": 4459,
+    "Unique Entry ID": "wuyb75e6fkA5976yx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pilot_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "pirate beard",
+    "Internal ID": 12663,
+    "Unique Entry ID": "isFLrwBtByekpKuLB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Beard_(New_Horizons)"
+  },
+  {
+    "Name": "pirate eye patch",
+    "Internal ID": 12662,
+    "Unique Entry ID": "pm3izhYzmdHRwnoWR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Eye_Patch_(New_Horizons)"
+  },
+  {
+    "Name": "pixel shades",
+    "Internal ID": 11225,
+    "Unique Entry ID": "GY4PDqrCZdcPWb4Ep",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pixel_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "pleather mask",
+    "Internal ID": 6040,
+    "Unique Entry ID": "aN6Wsxguggh39oBiF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pleather_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "post-op patch",
+    "Internal ID": 4452,
+    "Unique Entry ID": "8Qgoizxz547DtMNd7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Post-Op_Patch_(New_Horizons)"
+  },
+  {
+    "Name": "privacy mask",
+    "Internal ID": 4671,
+    "Unique Entry ID": "4GDJFfMNHhsaXXrAN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Privacy_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "reflector",
+    "Internal ID": 6039,
+    "Unique Entry ID": "J4EgETRkyeSESkRB7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Reflector_(New_Horizons)"
+  },
+  {
+    "Name": "retro shades",
+    "Internal ID": 4456,
+    "Unique Entry ID": "SFFhXhR5sYQzJwXWj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "rhinestone shades",
+    "Internal ID": 4683,
+    "Unique Entry ID": "BJFhJqt9KuaWGaWuM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rhinestone_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "rimmed glasses",
+    "Internal ID": 11185,
+    "Unique Entry ID": "jA7gAHyzXHk8qBRuq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rimmed_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "round shades",
+    "Internal ID": 11201,
+    "Unique Entry ID": "z8KywWDutyXSsgXoy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "round tinted shades",
+    "Internal ID": 4607,
+    "Unique Entry ID": "GdrT6sBLFECRG8LyN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Round_Tinted_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "rounded beard",
+    "Internal ID": 4679,
+    "Unique Entry ID": "As4RR5kDBbDWqHP69",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rounded_Beard_(New_Horizons)"
+  },
+  {
+    "Name": "shattered glasses",
+    "Internal ID": 4337,
+    "Unique Entry ID": "9nxh9LSDKZoYjygJg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shattered_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "ski goggles",
+    "Internal ID": 11479,
+    "Unique Entry ID": "NwNqq5g2iw4DeMsBY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "snorkel mask",
+    "Internal ID": 11497,
+    "Unique Entry ID": "jFwR59w58PSPL53K4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snorkel_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "sporty shades",
+    "Internal ID": 11489,
+    "Unique Entry ID": "CA5YASgCBpgL2PSpX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sporty_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "square glasses",
+    "Internal ID": 11067,
+    "Unique Entry ID": "QxFwFytYcWo5acGtW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Square_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "stache & glasses",
+    "Internal ID": 4501,
+    "Unique Entry ID": "s7hDzZ3ajPpK9fnEW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stache_&_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "star shades",
+    "Internal ID": 11192,
+    "Unique Entry ID": "PCZAYraP9kdaqnZy7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "steampunk glasses",
+    "Internal ID": 4685,
+    "Unique Entry ID": "uANDLz5EDWphoM3Lc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Steampunk_Glasses_(New_Horizons)"
+  },
+  {
+    "Name": "sticky rice",
+    "Internal ID": 4652,
+    "Unique Entry ID": "isnXDFfGkHKKB8bMP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sticky_Rice_(New_Horizons)"
+  },
+  {
+    "Name": "superhero mask",
+    "Internal ID": 4684,
+    "Unique Entry ID": "fK2Xz8nxAebSkWNdE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Superhero_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "tiny shades",
+    "Internal ID": 11215,
+    "Unique Entry ID": "tCxZoqcR8egLcu4oh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tiny_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "tortoise specs",
+    "Internal ID": 11080,
+    "Unique Entry ID": "fEshNAFDwcyo9v2fX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tortoise_Specs_(New_Horizons)"
+  },
+  {
+    "Name": "triangle shades",
+    "Internal ID": 11207,
+    "Unique Entry ID": "QpAQQTRoBmcjNBeEK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Triangle_Shades_(New_Horizons)"
+  },
+  {
+    "Name": "wooden-frame glasses",
+    "Internal ID": 4669,
+    "Unique Entry ID": "dbnqry4vZBvK6LrS2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden-Frame_Glasses_(New_Horizons)"
+  }
+]

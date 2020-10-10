@@ -1,0 +1,464 @@
+[
+  {
+    "Name": "axe",
+    "Internal ID": 2100,
+    "Unique Entry ID": "iR9zzEhzpbXTGdkR4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Axe_(New_Horizons)"
+  },
+  {
+    "Name": "bamboo wand",
+    "Internal ID": 7590,
+    "Unique Entry ID": "YLjDYt9NhwTgoXhLD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bamboo_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "blue balloon",
+    "Internal ID": 7869,
+    "Unique Entry ID": "wZi9GW6MbpePQpvKY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Balloon_(New_Horizons)"
+  },
+  {
+    "Name": "blue sparkler",
+    "Internal ID": 12974,
+    "Unique Entry ID": "nX6tAkPNA4xgzbhon",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Sparkler_(New_Horizons)"
+  },
+  {
+    "Name": "bubble blower",
+    "Internal ID": 4386,
+    "Unique Entry ID": "CQmL5dEmhYEGkCJCF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubble_Blower_(New_Horizons)"
+  },
+  {
+    "Name": "bug wand",
+    "Internal ID": 8769,
+    "Unique Entry ID": "vqp4KBeWgZjYbFj7Z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bug_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day wand",
+    "Internal ID": 12578,
+    "Unique Entry ID": "26wk773sY75rKY2P4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "cherry-blossom wand",
+    "Internal ID": 7589,
+    "Unique Entry ID": "WHHbg5ZqTMu4J2wm5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry-Blossom_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "colorful fishing rod",
+    "Internal ID": 8472,
+    "Unique Entry ID": "ZTf6fzMoETiRSgYyv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "colorful net",
+    "Internal ID": 8177,
+    "Unique Entry ID": "5wGjS9fxCaGhWK5Cv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Net_(New_Horizons)"
+  },
+  {
+    "Name": "colorful shovel",
+    "Internal ID": 8577,
+    "Unique Entry ID": "ojvEkqxvFKKrrB6GR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "colorful slingshot",
+    "Internal ID": 8580,
+    "Unique Entry ID": "dSvd9K7sRTbx6k5cd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "colorful watering can",
+    "Internal ID": 8534,
+    "Unique Entry ID": "35yzBzko3wrMwHjST",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "cosmos wand",
+    "Internal ID": 5092,
+    "Unique Entry ID": "vNqGM6xMEtteYKoza",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cosmos_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "elephant watering can",
+    "Internal ID": 8535,
+    "Unique Entry ID": "AjAhCPjQAreLmqKCB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elephant_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "fish fishing rod",
+    "Internal ID": 8471,
+    "Unique Entry ID": "dBNahAnSJkF5q7Wta",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "fish wand",
+    "Internal ID": 8770,
+    "Unique Entry ID": "HrGFzby54HCv326PJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "fishing rod",
+    "Internal ID": 2377,
+    "Unique Entry ID": "Y62px4Jy5vaMtN46u",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy axe",
+    "Internal ID": 3068,
+    "Unique Entry ID": "L79jandXPjEAoQScd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Axe_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy fishing rod",
+    "Internal ID": 3084,
+    "Unique Entry ID": "qtA9zfSRuaCkmmQXr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy net",
+    "Internal ID": 2376,
+    "Unique Entry ID": "PHe3aaN2nsXFcQXxN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy shovel",
+    "Internal ID": 3082,
+    "Unique Entry ID": "PnLgMCQ34R3HxWqcT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "flimsy watering can",
+    "Internal ID": 3083,
+    "Unique Entry ID": "BdRyC6atcvz3KJnnM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flimsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "golden axe",
+    "Internal ID": 9617,
+    "Unique Entry ID": "eX9RXzQHaaZX89zoN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Axe_(New_Horizons)"
+  },
+  {
+    "Name": "golden net",
+    "Internal ID": 8179,
+    "Unique Entry ID": "aKMTWuywGTuorriEg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Net_(New_Horizons)"
+  },
+  {
+    "Name": "golden rod",
+    "Internal ID": 8660,
+    "Unique Entry ID": "Tt5YeqejtuW3T7Cbq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "golden shovel",
+    "Internal ID": 8574,
+    "Unique Entry ID": "EMzMphvPgdhguM4Ku",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "golden slingshot",
+    "Internal ID": 8578,
+    "Unique Entry ID": "tx3MMcGrZPHeyoLeY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "golden wand",
+    "Internal ID": 7591,
+    "Unique Entry ID": "fdDGHvQBc5AhtExnt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "golden watering can",
+    "Internal ID": 8533,
+    "Unique Entry ID": "bzEwTDjTeK4gKSsZa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "green balloon",
+    "Internal ID": 13125,
+    "Unique Entry ID": "6xF5xbt7WxTdqMYaH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Green_Balloon_(New_Horizons)"
+  },
+  {
+    "Name": "hyacinth wand",
+    "Internal ID": 5083,
+    "Unique Entry ID": "aBPEFn5NehSoQ428E",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hyacinth_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "ice wand",
+    "Internal ID": 7585,
+    "Unique Entry ID": "pQCDsY6gvHXL2SAff",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ice_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "iron wand",
+    "Internal ID": 7592,
+    "Unique Entry ID": "5JC2q7xYFFCBhX2mS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iron_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "ladder",
+    "Internal ID": 2615,
+    "Unique Entry ID": "TxFCim9KyNE7edcXH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ladder_(New_Horizons)"
+  },
+  {
+    "Name": "light stick",
+    "Internal ID": 5741,
+    "Unique Entry ID": "9HpdmfZcEfuXtR8ey",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Light_Stick_(New_Horizons)"
+  },
+  {
+    "Name": "lily wand",
+    "Internal ID": 5094,
+    "Unique Entry ID": "rX7Dget4dZzprkSY4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lily_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "mums wand",
+    "Internal ID": 5095,
+    "Unique Entry ID": "9sd3YGxf9jmuGBrGw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mums_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "mushroom wand",
+    "Internal ID": 7588,
+    "Unique Entry ID": "6PLR84qz4JifgtLmh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mushroom_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "net",
+    "Internal ID": 5784,
+    "Unique Entry ID": "HH8tKPMbt8DQpSrMS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Net_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. handheld pennant",
+    "Internal ID": 13128,
+    "Unique Entry ID": "C5sMrB792zhZekeqW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Handheld_Pennant_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. uchiwa fan",
+    "Internal ID": 9762,
+    "Unique Entry ID": "Qwfx3obKdwCDKr4WG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Uchiwa_Fan_(New_Horizons)"
+  },
+  {
+    "Name": "ocarina",
+    "Internal ID": 5320,
+    "Unique Entry ID": "xN5tB3m4aXnm94RLL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ocarina_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy fishing rod",
+    "Internal ID": 8473,
+    "Unique Entry ID": "bvYTHd7dbDC9ZijAd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Fishing_Rod_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy net",
+    "Internal ID": 8178,
+    "Unique Entry ID": "v8G8jriZ3R47Y5CTA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Net_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy shovel",
+    "Internal ID": 8575,
+    "Unique Entry ID": "Je4oQvJHrridANtwW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy slingshot",
+    "Internal ID": 8579,
+    "Unique Entry ID": "qJkGDgJtD9cQye8oD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "outdoorsy watering can",
+    "Internal ID": 8536,
+    "Unique Entry ID": "QSmseNnk3WqSmSFH8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoorsy_Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "pan flute",
+    "Internal ID": 5517,
+    "Unique Entry ID": "7LjdexM2bmrbxDaCG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pan_Flute_(New_Horizons)"
+  },
+  {
+    "Name": "pansy wand",
+    "Internal ID": 5091,
+    "Unique Entry ID": "kPAMdHZaM8oHFjjyg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pansy_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "party popper",
+    "Internal ID": 2753,
+    "Unique Entry ID": "Wo8iqf7JZZ7egzmLf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Party_Popper_(New_Horizons)"
+  },
+  {
+    "Name": "pink balloon",
+    "Internal ID": 13126,
+    "Unique Entry ID": "jJkSMbhxX3ekBkWZK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pink_Balloon_(New_Horizons)"
+  },
+  {
+    "Name": "pinwheel",
+    "Internal ID": 5744,
+    "Unique Entry ID": "ixfo3W4miuTh5zvSP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pinwheel_(New_Horizons)"
+  },
+  {
+    "Name": "printed-design shovel",
+    "Internal ID": 8576,
+    "Unique Entry ID": "nQuRoWnfXx8BPFTmA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Printed-Design_Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "red balloon",
+    "Internal ID": 13123,
+    "Unique Entry ID": "93qC6sGCBMeknRuJ7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Balloon_(New_Horizons)"
+  },
+  {
+    "Name": "red sparkler",
+    "Internal ID": 5743,
+    "Unique Entry ID": "5YyG34qEdmAuABqHd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Red_Sparkler_(New_Horizons)"
+  },
+  {
+    "Name": "rose wand",
+    "Internal ID": 5093,
+    "Unique Entry ID": "RB9jk9eLFLJdokFjG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rose_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "shell wand",
+    "Internal ID": 7586,
+    "Unique Entry ID": "EsdC3wFYpzqXB7RRi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shell_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "shovel",
+    "Internal ID": 2099,
+    "Unique Entry ID": "B6ejTnMqrR65wXv5z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shovel_(New_Horizons)"
+  },
+  {
+    "Name": "slingshot",
+    "Internal ID": 2822,
+    "Unique Entry ID": "kgAEBkWjeZrdvZLwC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Slingshot_(New_Horizons)"
+  },
+  {
+    "Name": "spooky wand",
+    "Internal ID": 13237,
+    "Unique Entry ID": "M8JtabnRsijZu4RqN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spooky_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "star net",
+    "Internal ID": 8176,
+    "Unique Entry ID": "wmcDHN8JZMbnvLiNs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Net_(New_Horizons)"
+  },
+  {
+    "Name": "star wand",
+    "Internal ID": 2544,
+    "Unique Entry ID": "mMwQ96ZbuiBMzgutd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "stone axe",
+    "Internal ID": 5856,
+    "Unique Entry ID": "NKHsBuYu25RHWjMBx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stone_Axe_(New_Horizons)"
+  },
+  {
+    "Name": "tambourine",
+    "Internal ID": 5430,
+    "Unique Entry ID": "eYwGmK6fQwz2XJcht",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tambourine_(New_Horizons)"
+  },
+  {
+    "Name": "timer",
+    "Internal ID": 3331,
+    "Unique Entry ID": "vEEPnFx9FEcKKuzg2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Timer_(New_Horizons)"
+  },
+  {
+    "Name": "tree-branch wand",
+    "Internal ID": 7587,
+    "Unique Entry ID": "KnHhJXtuXEhqcPMTx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tree-Branch_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "tulip wand",
+    "Internal ID": 5085,
+    "Unique Entry ID": "u7ZfCMpDYtPRbK2vc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tulip_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "tweeter",
+    "Internal ID": 5742,
+    "Unique Entry ID": "QxaQCNrLi393nadSQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tweeter_(New_Horizons)"
+  },
+  {
+    "Name": "uchiwa fan",
+    "Internal ID": 5319,
+    "Unique Entry ID": "bPKsESXK5jLNWXAof",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Uchiwa_Fan_(New_Horizons)"
+  },
+  {
+    "Name": "vaulting pole",
+    "Internal ID": 4703,
+    "Unique Entry ID": "2vD5XPKHSCCSjy882",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Vaulting_Pole_(New_Horizons)"
+  },
+  {
+    "Name": "wand",
+    "Internal ID": 7584,
+    "Unique Entry ID": "2Re2yBHTfLRDiTWRb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wand_(New_Horizons)"
+  },
+  {
+    "Name": "watering can",
+    "Internal ID": 2379,
+    "Unique Entry ID": "wLChevsx2T9Sm6yf4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watering_Can_(New_Horizons)"
+  },
+  {
+    "Name": "wedding wand",
+    "Internal ID": 12695,
+    "Unique Entry ID": "syPb2baTrP3zqi66f",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wedding_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "windflower wand",
+    "Internal ID": 5084,
+    "Unique Entry ID": "ERMKczYuvS6Eff7C9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Windflower_Wand_(New_Horizons)"
+  },
+  {
+    "Name": "worn axe",
+    "Internal ID": 12615,
+    "Unique Entry ID": "xqXJch47cQrNT65jG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Worn_Axe_(New_Horizons)"
+  },
+  {
+    "Name": "yellow balloon",
+    "Internal ID": 13124,
+    "Unique Entry ID": "dF8pTGMJY5465vatR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yellow_Balloon_(New_Horizons)"
+  }
+]

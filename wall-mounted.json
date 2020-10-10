@@ -1,0 +1,794 @@
+[
+  {
+    "Name": "air conditioner",
+    "Internal ID": 929,
+    "Unique Entry ID": "7EpH4QiWWq6i7j4yp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Air_Conditioner_(New_Horizons)"
+  },
+  {
+    "Name": "antique phone",
+    "Internal ID": 3953,
+    "Unique Entry ID": "hJBB3R4NDJrTGhQK7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Antique_Phone_(New_Horizons)"
+  },
+  {
+    "Name": "autograph cards",
+    "Internal ID": 1899,
+    "Unique Entry ID": "HpebEX4QbjWeQGmPb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Autograph_Cards_(New_Horizons)"
+  },
+  {
+    "Name": "bamboo wall decoration",
+    "Internal ID": 3558,
+    "Unique Entry ID": "pbECjLkaDPDQ5dNXp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bamboo_Wall_Decoration_(New_Horizons)"
+  },
+  {
+    "Name": "bathroom towel rack",
+    "Internal ID": 4030,
+    "Unique Entry ID": "3mD27HBCBkjy4beMd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bathroom_Towel_Rack_(New_Horizons)"
+  },
+  {
+    "Name": "blue rose wreath",
+    "Internal ID": 5772,
+    "Unique Entry ID": "WAhbxkq89fSuMSSNa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Rose_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "bone doorplate",
+    "Internal ID": 4751,
+    "Unique Entry ID": "GWsheTRiG46HjezX3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bone_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "boomerang",
+    "Internal ID": 682,
+    "Unique Entry ID": "ckBkMWTsoQs9DqJyY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Boomerang_(New_Horizons)"
+  },
+  {
+    "Name": "breaker",
+    "Internal ID": 875,
+    "Unique Entry ID": "qkoNJc3xgRsWMkDiy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Breaker_(New_Horizons)"
+  },
+  {
+    "Name": "bronze HHA plaque",
+    "Internal ID": 7037,
+    "Unique Entry ID": "PN2tS6ktAtJor7dYQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bronze_HHA_Plaque_(New_Horizons)"
+  },
+  {
+    "Name": "broom and dustpan",
+    "Internal ID": 3967,
+    "Unique Entry ID": "ng3LSLuHpPTEwNfED",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Broom_And_Dustpan_(New_Horizons)"
+  },
+  {
+    "Name": "bug plaque",
+    "Internal ID": 12485,
+    "Unique Entry ID": "qpp8eyzBrCe7eFFfg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bug_Plaque_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day glowy garland",
+    "Internal ID": 12417,
+    "Unique Entry ID": "5BcF8Sk7rTzrG3pzr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Glowy_Garland_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day wall clock",
+    "Internal ID": 12418,
+    "Unique Entry ID": "Tb7KSuoRanow4ekqm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Wall_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day wreath",
+    "Internal ID": 12517,
+    "Unique Entry ID": "4HcJP4W3RFWRSbspS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "butterfly-fish model",
+    "Internal ID": 11182,
+    "Unique Entry ID": "QgzRi2QqTEcpKac5q",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Butterfly-Fish_Model_(New_Horizons)"
+  },
+  {
+    "Name": "cherry lamp",
+    "Internal ID": 4012,
+    "Unique Entry ID": "LvZKcdaWM6pSLdxni",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry_Lamp_(New_Horizons)"
+  },
+  {
+    "Name": "cherry-blossom clock",
+    "Internal ID": 6832,
+    "Unique Entry ID": "tb9y9v6vrf98WExq7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry-Blossom_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "chic cosmos wreath",
+    "Internal ID": 5764,
+    "Unique Entry ID": "DgLEZbDS2BsJ59K78",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chic_Cosmos_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "chic windflower wreath",
+    "Internal ID": 5765,
+    "Unique Entry ID": "tBJvNsSQvk8ajonsT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chic_Windflower_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "coconut wall planter",
+    "Internal ID": 4130,
+    "Unique Entry ID": "wsXGBE5N9NwenYTRj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Coconut_Wall_Planter_(New_Horizons)"
+  },
+  {
+    "Name": "cool hyacinth wreath",
+    "Internal ID": 5750,
+    "Unique Entry ID": "MLMnpWFmufqDeg479",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cool_Hyacinth_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "cool pansy wreath",
+    "Internal ID": 5767,
+    "Unique Entry ID": "wS4t24ixhhAnsRXFB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cool_Pansy_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "cool windflower wreath",
+    "Internal ID": 5746,
+    "Unique Entry ID": "uZT5wfceZaKMP2nZZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cool_Windflower_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "corkboard",
+    "Internal ID": 1783,
+    "Unique Entry ID": "5QL4Epdhwtt3e6CKB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Corkboard_(New_Horizons)"
+  },
+  {
+    "Name": "cosmos wreath",
+    "Internal ID": 4293,
+    "Unique Entry ID": "Jb4w7uvb9QhGerC3Z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cosmos_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "crest doorplate",
+    "Internal ID": 5717,
+    "Unique Entry ID": "iE8G3C8jdhexkkY8c",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crest_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "cuckoo clock",
+    "Internal ID": 915,
+    "Unique Entry ID": "YkqSGut473PFEpLjj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cuckoo_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "cute wall-mounted clock",
+    "Internal ID": 3996,
+    "Unique Entry ID": "oL9aQ7wvxNZqHuNMu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Wall-Mounted_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "dark lily wreath",
+    "Internal ID": 5770,
+    "Unique Entry ID": "hK45uJh5Jniz9cxpZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Lily_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "dark rose wreath",
+    "Internal ID": 5766,
+    "Unique Entry ID": "5w5rk2xDXwiFP8EGD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Rose_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "dark tulip wreath",
+    "Internal ID": 5771,
+    "Unique Entry ID": "WYEwdpAPRqiAvTgvv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Tulip_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "deer decoration",
+    "Internal ID": 3340,
+    "Unique Entry ID": "dji4bHpAttN6oLt4q",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Deer_Decoration_(New_Horizons)"
+  },
+  {
+    "Name": "diner neon clock",
+    "Internal ID": 4144,
+    "Unique Entry ID": "AQG2jihcobK8xgHBX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Diner_Neon_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "double-sided wall clock",
+    "Internal ID": 4133,
+    "Unique Entry ID": "DwQN4SEyH4mrmE5GL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Double-Sided_Wall_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "exit sign",
+    "Internal ID": 955,
+    "Unique Entry ID": "KPuyujsNorFJ5NAMR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Exit_Sign_(New_Horizons)"
+  },
+  {
+    "Name": "fancy lily wreath",
+    "Internal ID": 5677,
+    "Unique Entry ID": "8PemBLHX35teZJkzR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fancy_Lily_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "fancy mum wreath",
+    "Internal ID": 5749,
+    "Unique Entry ID": "g9AQk7fhJK4ugWzef",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fancy_Mum_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "fancy rose wreath",
+    "Internal ID": 5747,
+    "Unique Entry ID": "2qqKqAEwdH3MA43hH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fancy_Rose_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "fish doorplate",
+    "Internal ID": 4764,
+    "Unique Entry ID": "4YpkwmX78YQKie4oA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "fish plaque",
+    "Internal ID": 12486,
+    "Unique Entry ID": "RdYGQnDdR5PNJaFgH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Plaque_(New_Horizons)"
+  },
+  {
+    "Name": "fish print",
+    "Internal ID": 3699,
+    "Unique Entry ID": "h3o6vTzCgbEeCX7Qk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fish_Print_(New_Horizons)"
+  },
+  {
+    "Name": "fishing-boat flag",
+    "Internal ID": 3583,
+    "Unique Entry ID": "WLrh6WSuT6GRaeXJ4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fishing-Boat_Flag_(New_Horizons)"
+  },
+  {
+    "Name": "floral swag",
+    "Internal ID": 4027,
+    "Unique Entry ID": "DixWDRX2EtfWWgGpn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Floral_Swag_(New_Horizons)"
+  },
+  {
+    "Name": "formal paper",
+    "Internal ID": 4099,
+    "Unique Entry ID": "BQXoMfr2CcyQetnqz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Formal_Paper_(New_Horizons)"
+  },
+  {
+    "Name": "fossil doorplate",
+    "Internal ID": 5719,
+    "Unique Entry ID": "vy29qgXL4FjiEdMZG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fossil_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "fossil plaque",
+    "Internal ID": 12484,
+    "Unique Entry ID": "QeCRAdXPWYzTNry5z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fossil_Plaque_(New_Horizons)"
+  },
+  {
+    "Name": "fruit wreath",
+    "Internal ID": 4378,
+    "Unique Entry ID": "DhQAhiR5Wmz6KoqwE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fruit_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "gears",
+    "Internal ID": 7280,
+    "Unique Entry ID": "yC8vuk8WW9jYRDRSM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gears_(New_Horizons)"
+  },
+  {
+    "Name": "gold HHA plaque",
+    "Internal ID": 7035,
+    "Unique Entry ID": "96FA4Adsv2zNHfLSg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gold_HHA_Plaque_(New_Horizons)"
+  },
+  {
+    "Name": "gold rose wreath",
+    "Internal ID": 5820,
+    "Unique Entry ID": "geJErudegm7vdwPW9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gold_Rose_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "golden gears",
+    "Internal ID": 11261,
+    "Unique Entry ID": "KmDHWA6j4hEsbKkuf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Golden_Gears_(New_Horizons)"
+  },
+  {
+    "Name": "grasshopper-head model",
+    "Internal ID": 11099,
+    "Unique Entry ID": "cWJSaiCHDL6REzvyq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Grasshopper-Head_Model_(New_Horizons)"
+  },
+  {
+    "Name": "hanging scroll",
+    "Internal ID": 7282,
+    "Unique Entry ID": "B8BxKEKGEEjK88gjM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hanging_Scroll_(New_Horizons)"
+  },
+  {
+    "Name": "hanging terrarium",
+    "Internal ID": 3775,
+    "Unique Entry ID": "oXQnR76JRp3iHycMy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hanging_Terrarium_(New_Horizons)"
+  },
+  {
+    "Name": "heart doorplate",
+    "Internal ID": 5309,
+    "Unique Entry ID": "Lmtub5DdFXrXgoR6D",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "HHA pennant",
+    "Internal ID": 7040,
+    "Unique Entry ID": "MxXAxkekKoMP5Wvuk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:HHA_Pennant_(New_Horizons)"
+  },
+  {
+    "Name": "hyacinth wreath",
+    "Internal ID": 5468,
+    "Unique Entry ID": "DjRfSJNwdpHu4Gshg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hyacinth_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "imperial decorative shelves",
+    "Internal ID": 3970,
+    "Unique Entry ID": "N44Bm79ZnhPvb6F2E",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Imperial_Decorative_Shelves_(New_Horizons)"
+  },
+  {
+    "Name": "imperial dining lantern",
+    "Internal ID": 8415,
+    "Unique Entry ID": "8nRurR89dQGH4zwCa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Imperial_Dining_Lantern_(New_Horizons)"
+  },
+  {
+    "Name": "intercom monitor",
+    "Internal ID": 3399,
+    "Unique Entry ID": "3oLMxaMTetGEquJqh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Intercom_Monitor_(New_Horizons)"
+  },
+  {
+    "Name": "iron doorplate",
+    "Internal ID": 4752,
+    "Unique Entry ID": "8bmHCjJaEKEs8Jcwi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iron_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "iron wall lamp",
+    "Internal ID": 3559,
+    "Unique Entry ID": "GGEo4iYWTQ83wfzFG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iron_Wall_Lamp_(New_Horizons)"
+  },
+  {
+    "Name": "iron wall rack",
+    "Internal ID": 3562,
+    "Unique Entry ID": "RtqKrio5AzxSXrtR6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iron_Wall_Rack_(New_Horizons)"
+  },
+  {
+    "Name": "ironwood clock",
+    "Internal ID": 3275,
+    "Unique Entry ID": "vNKBuJATboP4WJc5J",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ironwood_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "Jack's portrait",
+    "Internal ID": 13353,
+    "Unique Entry ID": "wy7NKPRDfh4Zc6XmC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jack's_Portrait_(New_Horizons)"
+  },
+  {
+    "Name": "key holder",
+    "Internal ID": 3992,
+    "Unique Entry ID": "mYSFGJ3EvfN65AxFk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Key_Holder_(New_Horizons)"
+  },
+  {
+    "Name": "Leo sculpture",
+    "Internal ID": 5964,
+    "Unique Entry ID": "WWysMfHGukSAM2Qph",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leo_Sculpture_(New_Horizons)"
+  },
+  {
+    "Name": "light switch",
+    "Internal ID": 3471,
+    "Unique Entry ID": "rQE2byXQiBvr53TgP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Light_Switch_(New_Horizons)"
+  },
+  {
+    "Name": "lily wreath",
+    "Internal ID": 5641,
+    "Unique Entry ID": "zxaMEH6t7K7emezta",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lily_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "log wall-mounted clock",
+    "Internal ID": 4037,
+    "Unique Entry ID": "mz684LXNfkspZDLDf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Log_Wall-Mounted_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "macrame tapestry",
+    "Internal ID": 4119,
+    "Unique Entry ID": "xLHFMTMSb7wSuaj6i",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Macrame_Tapestry_(New_Horizons)"
+  },
+  {
+    "Name": "magnetic knife rack",
+    "Internal ID": 4118,
+    "Unique Entry ID": "utM3v57qgymPACujB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Magnetic_Knife_Rack_(New_Horizons)"
+  },
+  {
+    "Name": "mantis-head model",
+    "Internal ID": 11098,
+    "Unique Entry ID": "MB6ck2v9T8Y42ZyGR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mantis-Head_Model_(New_Horizons)"
+  },
+  {
+    "Name": "mermaid wall clock",
+    "Internal ID": 12557,
+    "Unique Entry ID": "iPu6xLx3S2Tqniv8M",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mermaid_Wall_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "mobile",
+    "Internal ID": 9565,
+    "Unique Entry ID": "bMEzNi4ZSo3ZPyBnF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mobile_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's art",
+    "Internal ID": 7139,
+    "Unique Entry ID": "yo9motrTZdsi62wAq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Art_(New_Horizons)"
+  },
+  {
+    "Name": "Mom's embroidery",
+    "Internal ID": 7145,
+    "Unique Entry ID": "TbXL3d8sfck28KBGM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mom's_Embroidery_(New_Horizons)"
+  },
+  {
+    "Name": "mounted black bass",
+    "Internal ID": 11127,
+    "Unique Entry ID": "Qavtu3AuS8rgdNTEj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mounted_Black_Bass_(New_Horizons)"
+  },
+  {
+    "Name": "mounted blue marlin",
+    "Internal ID": 11128,
+    "Unique Entry ID": "2aHZtZ6kJewzjcPft",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mounted_Blue_Marlin_(New_Horizons)"
+  },
+  {
+    "Name": "mum wreath",
+    "Internal ID": 5467,
+    "Unique Entry ID": "R39eBwKXSm8iPLupv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mum_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "mushroom wreath",
+    "Internal ID": 4726,
+    "Unique Entry ID": "hEi3Kjr3joNZ9372X",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mushroom_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "natural mum wreath",
+    "Internal ID": 5768,
+    "Unique Entry ID": "JApYT62qXnRJdrN6E",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Natural_Mum_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "orange wall-mounted clock",
+    "Internal ID": 3976,
+    "Unique Entry ID": "DDTj9pSTogxWWT7xE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange_Wall-Mounted_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "ornament mobile",
+    "Internal ID": 6818,
+    "Unique Entry ID": "EBJQx6sRmZMZMLpKr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ornament_Mobile_(New_Horizons)"
+  },
+  {
+    "Name": "ornament wreath",
+    "Internal ID": 4377,
+    "Unique Entry ID": "wedAF6DvCg9onv4o9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ornament_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "pansy wreath",
+    "Internal ID": 5466,
+    "Unique Entry ID": "EXzBc9g6GJCzBEfSq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pansy_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "party garland",
+    "Internal ID": 4077,
+    "Unique Entry ID": "Fhbeq58ZicAdCR5DF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Party_Garland_(New_Horizons)"
+  },
+  {
+    "Name": "paw-print doorplate",
+    "Internal ID": 5716,
+    "Unique Entry ID": "YJFWZqk6NSWXvi32P",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paw-Print_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "pendulum clock",
+    "Internal ID": 4106,
+    "Unique Entry ID": "AeMuWFZaRaHBTpMD2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pendulum_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "pennant",
+    "Internal ID": 3818,
+    "Unique Entry ID": "LApzuZ9kvqby5KbBH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pennant_(New_Horizons)"
+  },
+  {
+    "Name": "pot rack",
+    "Internal ID": 928,
+    "Unique Entry ID": "rh25cApnS4gJR5pxx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pot_Rack_(New_Horizons)"
+  },
+  {
+    "Name": "potted ivy",
+    "Internal ID": 3785,
+    "Unique Entry ID": "fkw6cXvhi9MyD4mLy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Potted_Ivy_(New_Horizons)"
+  },
+  {
+    "Name": "pretty cosmos wreath",
+    "Internal ID": 5745,
+    "Unique Entry ID": "N8e9ZMKmQqmtj7wwS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pretty_Cosmos_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "pretty tulip wreath",
+    "Internal ID": 5751,
+    "Unique Entry ID": "soJ9BExbzhRvsgzmC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pretty_Tulip_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "purple hyacinth wreath",
+    "Internal ID": 5769,
+    "Unique Entry ID": "vQH4yRjopNyEpX5oz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Hyacinth_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "retro radiator",
+    "Internal ID": 4028,
+    "Unique Entry ID": "jxkFyWpRK3mm8fAsk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Retro_Radiator_(New_Horizons)"
+  },
+  {
+    "Name": "rose wreath",
+    "Internal ID": 5437,
+    "Unique Entry ID": "8A2koBPGhgntm4SKp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rose_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "Sagittarius arrow",
+    "Internal ID": 5958,
+    "Unique Entry ID": "YNvaFozsLz7EZQmZK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sagittarius_Arrow_(New_Horizons)"
+  },
+  {
+    "Name": "shell wreath",
+    "Internal ID": 4376,
+    "Unique Entry ID": "dmrgb5T2CzNo9LbJh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shell_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "shower set",
+    "Internal ID": 4017,
+    "Unique Entry ID": "Jn5uASafvsFYBZHY3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shower_Set_(New_Horizons)"
+  },
+  {
+    "Name": "silver HHA plaque",
+    "Internal ID": 7036,
+    "Unique Entry ID": "SKzYP8NzT7z9w9dwY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Silver_HHA_Plaque_(New_Horizons)"
+  },
+  {
+    "Name": "skull doorplate",
+    "Internal ID": 4738,
+    "Unique Entry ID": "SSNsa9u4Mx9o6MXPL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Skull_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "snazzy pansy wreath",
+    "Internal ID": 5748,
+    "Unique Entry ID": "hDZETp4cwqfgSeQ9c",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snazzy_Pansy_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "snowflake wreath",
+    "Internal ID": 4375,
+    "Unique Entry ID": "3qG6tze7DpgvtKtq2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snowflake_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "spider doorplate",
+    "Internal ID": 5310,
+    "Unique Entry ID": "97PqJgCNW7WQfCe9M",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spider_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "spider web",
+    "Internal ID": 3817,
+    "Unique Entry ID": "qmLbJD4ZHuhJ78APn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spider_Web_(New_Horizons)"
+  },
+  {
+    "Name": "spooky garland",
+    "Internal ID": 13222,
+    "Unique Entry ID": "5mKLmvbCqdHsdiYGZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spooky_Garland_(New_Horizons)"
+  },
+  {
+    "Name": "starry garland",
+    "Internal ID": 6827,
+    "Unique Entry ID": "TLufk7Lr6iMdDXb38",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Starry_Garland_(New_Horizons)"
+  },
+  {
+    "Name": "studio wall spotlight",
+    "Internal ID": 7190,
+    "Unique Entry ID": "dZEmxTttRksH6RNr3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Studio_Wall_Spotlight_(New_Horizons)"
+  },
+  {
+    "Name": "study poster",
+    "Internal ID": 3584,
+    "Unique Entry ID": "eqDMnWHyBDS7S9uAg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Study_Poster_(New_Horizons)"
+  },
+  {
+    "Name": "surveillance camera",
+    "Internal ID": 1165,
+    "Unique Entry ID": "urRi7eEm3v22KrCWK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Surveillance_Camera_(New_Horizons)"
+  },
+  {
+    "Name": "tapestry",
+    "Internal ID": 704,
+    "Unique Entry ID": "oP8Ynvx6KWsa7QJkd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tapestry_(New_Horizons)"
+  },
+  {
+    "Name": "throwback wall clock",
+    "Internal ID": 4756,
+    "Unique Entry ID": "AiwZ3CvnwHZMsRB4i",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Throwback_Wall_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "timber doorplate",
+    "Internal ID": 5718,
+    "Unique Entry ID": "xSTWiQQuQaWSPAWhw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Timber_Doorplate_(New_Horizons)"
+  },
+  {
+    "Name": "tree branch wreath",
+    "Internal ID": 4727,
+    "Unique Entry ID": "MzEzA66kgsfBmR4bx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tree_Branch_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "tree's bounty mobile",
+    "Internal ID": 6075,
+    "Unique Entry ID": "vu6CcKwJn9TrkHWW3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tree's_Bounty_Mobile_(New_Horizons)"
+  },
+  {
+    "Name": "tulip wreath",
+    "Internal ID": 5670,
+    "Unique Entry ID": "eotzEuDmC8kRwpXNG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tulip_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "ventilation fan",
+    "Internal ID": 957,
+    "Unique Entry ID": "uAzwtaK3oXttabv9y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ventilation_Fan_(New_Horizons)"
+  },
+  {
+    "Name": "wall clock",
+    "Internal ID": 1744,
+    "Unique Entry ID": "TQ8MPfBmYSebj3EL3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wall_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "wall fan",
+    "Internal ID": 3431,
+    "Unique Entry ID": "hdxNaRA8eGDTMLqjo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wall_Fan_(New_Horizons)"
+  },
+  {
+    "Name": "wall-mounted candle",
+    "Internal ID": 5165,
+    "Unique Entry ID": "TeDcQnwSPdBJH3W5w",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wall-Mounted_Candle_(New_Horizons)"
+  },
+  {
+    "Name": "wall-mounted phone",
+    "Internal ID": 3987,
+    "Unique Entry ID": "jtXASWPrz7No5cGzg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wall-Mounted_Phone_(New_Horizons)"
+  },
+  {
+    "Name": "wall-mounted tool board",
+    "Internal ID": 8417,
+    "Unique Entry ID": "o2FMLgn53Z9Fg7fJq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wall-Mounted_Tool_Board_(New_Horizons)"
+  },
+  {
+    "Name": "wall-mounted TV (20 in.)",
+    "Internal ID": 3986,
+    "Unique Entry ID": "XSa8HD4kkP7ixvHTQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wall-Mounted_TV_(20_In.)_(New_Horizons)"
+  },
+  {
+    "Name": "wall-mounted TV (50 in.)",
+    "Internal ID": 3428,
+    "Unique Entry ID": "spqMDMdnuLLkHM9cF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wall-Mounted_TV_(50_In.)_(New_Horizons)"
+  },
+  {
+    "Name": "wasp-head model",
+    "Internal ID": 11100,
+    "Unique Entry ID": "4E4HuLoFsmQPey32r",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wasp-Head_Model_(New_Horizons)"
+  },
+  {
+    "Name": "wedding decoration",
+    "Internal ID": 12407,
+    "Unique Entry ID": "hNpjEHWRbtWaAeMvY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wedding_Decoration_(New_Horizons)"
+  },
+  {
+    "Name": "windflower wreath",
+    "Internal ID": 5436,
+    "Unique Entry ID": "vaYbmMKt9yWPACuRr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Windflower_Wreath_(New_Horizons)"
+  },
+  {
+    "Name": "wooden-block wall clock",
+    "Internal ID": 3208,
+    "Unique Entry ID": "cQNnv5bziDnwJQFmo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden-Block_Wall_Clock_(New_Horizons)"
+  },
+  {
+    "Name": "wooden-plank sign",
+    "Internal ID": 5636,
+    "Unique Entry ID": "SPEvaBm2nhJdEFirp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wooden-Plank_Sign_(New_Horizons)"
+  },
+  {
+    "Name": "world map",
+    "Internal ID": 12741,
+    "Unique Entry ID": "i6Q2vWb2Ha7oBacmj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:World_Map_(New_Horizons)"
+  }
+]

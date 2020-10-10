@@ -1,0 +1,1346 @@
+[
+  {
+    "Name": "acorn knit cap",
+    "Internal ID": 10935,
+    "Unique Entry ID": "EfbMmL5YGZYtZNgHe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Acorn_Knit_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "alpinist hat",
+    "Internal ID": 11885,
+    "Unique Entry ID": "mKejTXKMxXnRBkk4B",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Alpinist_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "ancient administrator hat",
+    "Internal ID": 6048,
+    "Unique Entry ID": "BNBBbdP7uZbY2r3zw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ancient_Administrator_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "apple hat",
+    "Internal ID": 9871,
+    "Unique Entry ID": "rEpxF8jscsm4fwjSf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Apple_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "Aran-knit cap",
+    "Internal ID": 9864,
+    "Unique Entry ID": "6Zi8WYr34D8niHAnC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Aran-Knit_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "baby's hat",
+    "Internal ID": 11856,
+    "Unique Entry ID": "wyPrRhtyyMtn7Hy3Y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Baby's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "balloon hat",
+    "Internal ID": 11050,
+    "Unique Entry ID": "rWRnH9TkRg3o9xDJQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Balloon_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "bamboo hat",
+    "Internal ID": 5143,
+    "Unique Entry ID": "ehxYwYvtXQ5wyi3pQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bamboo_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "barrette",
+    "Internal ID": 9860,
+    "Unique Entry ID": "BK2NAfuYfrr4womPM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Barrette_(New_Horizons)"
+  },
+  {
+    "Name": "baseball cap",
+    "Internal ID": 12094,
+    "Unique Entry ID": "HE8xZkXbRspp6qgoE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Baseball_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "batter's helmet",
+    "Internal ID": 11598,
+    "Unique Entry ID": "ohKfr9GPDP7QdRSnC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Batter's_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "bear cap",
+    "Internal ID": 5330,
+    "Unique Entry ID": "qmkSD7yKDpFvdxcPK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bear_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "beret",
+    "Internal ID": 11527,
+    "Unique Entry ID": "4cJGWuLDDa2emHT9H",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beret_(New_Horizons)"
+  },
+  {
+    "Name": "bicycle helmet",
+    "Internal ID": 10220,
+    "Unique Entry ID": "QDn7xQHdWZ6xPh3BT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bicycle_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "birthday hat",
+    "Internal ID": 11032,
+    "Unique Entry ID": "SHSKySrv2c9QJHFbt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Birthday_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "blue rose crown",
+    "Internal ID": 7377,
+    "Unique Entry ID": "FMTDb2CYPMNxEfjTu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blue_Rose_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "bowler hat with ribbon",
+    "Internal ID": 10884,
+    "Unique Entry ID": "DXBymHgCPFMRd9ruP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bowler_Hat_With_Ribbon_(New_Horizons)"
+  },
+  {
+    "Name": "bridal veil",
+    "Internal ID": 5692,
+    "Unique Entry ID": "8bavS95pnPk55RWhq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bridal_Veil_(New_Horizons)"
+  },
+  {
+    "Name": "bulb bopper",
+    "Internal ID": 9857,
+    "Unique Entry ID": "kgvf6QgRbhreRM9mx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bulb_Bopper_(New_Horizons)"
+  },
+  {
+    "Name": "bun wig",
+    "Internal ID": 11890,
+    "Unique Entry ID": "iHzbGt8cd8noNaNhK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bun_Wig_(New_Horizons)"
+  },
+  {
+    "Name": "Bunny Day crown",
+    "Internal ID": 12445,
+    "Unique Entry ID": "22fHRtAozAf9F7KAP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Day_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "bunny ears",
+    "Internal ID": 7209,
+    "Unique Entry ID": "guAKXMvkQjACjCeko",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Ears_(New_Horizons)"
+  },
+  {
+    "Name": "bunny hood",
+    "Internal ID": 11701,
+    "Unique Entry ID": "yspHESBTkZq8CtqQ2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunny_Hood_(New_Horizons)"
+  },
+  {
+    "Name": "captain's hat",
+    "Internal ID": 5332,
+    "Unique Entry ID": "hKr3Y4nRnRQQji93W",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Captain's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "cat cap",
+    "Internal ID": 11703,
+    "Unique Entry ID": "vHB8gJoaSPoCJGkLz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cat_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "catcher's mask",
+    "Internal ID": 11602,
+    "Unique Entry ID": "FiRH6PxvgXwf7RXFL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Catcher's_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "cavalier hat",
+    "Internal ID": 11807,
+    "Unique Entry ID": "jpuz4JgbGnmndBnrF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cavalier_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "chef's hat",
+    "Internal ID": 5140,
+    "Unique Entry ID": "nEKEfN4THZSYy2Fam",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chef's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "cherry hat",
+    "Internal ID": 9873,
+    "Unique Entry ID": "zAezFwCd6zTXDiLmH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "chic mum crown",
+    "Internal ID": 5118,
+    "Unique Entry ID": "k3yYLEyKr9hmD482c",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chic_Mum_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "chic rose crown",
+    "Internal ID": 5113,
+    "Unique Entry ID": "AFGYn6gsbgZv7hR7h",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chic_Rose_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "chic tulip crown",
+    "Internal ID": 5103,
+    "Unique Entry ID": "egj5MuWKmQwuikuhY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chic_Tulip_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "coin headpiece",
+    "Internal ID": 6091,
+    "Unique Entry ID": "gZaTz678JajwxN46E",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Coin_Headpiece_(New_Horizons)"
+  },
+  {
+    "Name": "colorful striped knit cap",
+    "Internal ID": 5409,
+    "Unique Entry ID": "9g2SAsCcRPBDN3a98",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colorful_Striped_Knit_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "combat helmet",
+    "Internal ID": 10226,
+    "Unique Entry ID": "4xSCqGw5N8a9AxF6i",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Combat_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "composer's wig",
+    "Internal ID": 5696,
+    "Unique Entry ID": "kmehP3Am6XP3sH2KN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Composer's_Wig_(New_Horizons)"
+  },
+  {
+    "Name": "cool hyacinth crown",
+    "Internal ID": 5097,
+    "Unique Entry ID": "95vRHFGEYo5ZGQssX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cool_Hyacinth_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "cool pansy crown",
+    "Internal ID": 5106,
+    "Unique Entry ID": "GyeNhCRzLNF33hKqh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cool_Pansy_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "cool windflower crown",
+    "Internal ID": 5100,
+    "Unique Entry ID": "8gj25M44duF3QM6Cu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cool_Windflower_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "cosmos crown",
+    "Internal ID": 5108,
+    "Unique Entry ID": "jF2NZPn7WLhoNzDic",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cosmos_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "crown",
+    "Internal ID": 8000,
+    "Unique Entry ID": "HsmAmzyoymYTYqKFg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Crown_(New_Horizons)"
+  },
+  {
+    "Name": "cute lily crown",
+    "Internal ID": 5115,
+    "Unique Entry ID": "7asbWZybHzvF3zE7j",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Lily_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "cute rose crown",
+    "Internal ID": 5112,
+    "Unique Entry ID": "Fj9YYwxNxHsQEy9vv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cute_Rose_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "cycling cap",
+    "Internal ID": 5257,
+    "Unique Entry ID": "3E8cqPTbQkn6s782m",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cycling_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "DAL cap",
+    "Internal ID": 12132,
+    "Unique Entry ID": "HmDxQzzqcLnkqBTAc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:DAL_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "dandy hat",
+    "Internal ID": 11535,
+    "Unique Entry ID": "4mb7j2hfguEA5wZ5k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dandy_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "dark cosmos crown",
+    "Internal ID": 5110,
+    "Unique Entry ID": "jx7LXntCK2GiwXTo7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Cosmos_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "dark lily crown",
+    "Internal ID": 5116,
+    "Unique Entry ID": "tQPbQCDeX6muarGM2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Lily_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "dark tulip crown",
+    "Internal ID": 5104,
+    "Unique Entry ID": "b4SfkEZZkMpc9qPDu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dark_Tulip_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "denim cap",
+    "Internal ID": 5256,
+    "Unique Entry ID": "eZgTWRWftQMBQQ7es",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Denim_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "detective hat",
+    "Internal ID": 11819,
+    "Unique Entry ID": "hG3EBHxFL38zt2KaF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Detective_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "DJ cap",
+    "Internal ID": 11538,
+    "Unique Entry ID": "goCGnSxhi3dXDzWrb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:DJ_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "do-rag",
+    "Internal ID": 10747,
+    "Unique Entry ID": "kMwprrwYCa7gHoxwd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Do-Rag_(New_Horizons)"
+  },
+  {
+    "Name": "dotted shower cap",
+    "Internal ID": 5298,
+    "Unique Entry ID": "8r6Dii3ZfTYyRTTjq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dotted_Shower_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "earth-egg shell",
+    "Internal ID": 12439,
+    "Unique Entry ID": "h6ryjyiv5qwNZm9eB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Earth-Egg_Shell_(New_Horizons)"
+  },
+  {
+    "Name": "egg party hat",
+    "Internal ID": 12446,
+    "Unique Entry ID": "Bb3qhdGwvMtNwT5GZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Egg_Party_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "eggshell",
+    "Internal ID": 5642,
+    "Unique Entry ID": "TEiK2TDpJv6JHYgrp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eggshell_(New_Horizons)"
+  },
+  {
+    "Name": "elder mask",
+    "Internal ID": 6035,
+    "Unique Entry ID": "bh3dK6zyGkdsDwhkr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elder_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "elegant hat",
+    "Internal ID": 10890,
+    "Unique Entry ID": "u4Sb2dKkCR7iMQxWC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elegant_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "explorer's hat",
+    "Internal ID": 11810,
+    "Unique Entry ID": "u2tGd3cFjEEuDmKPy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Explorer's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "fairy-tale hood",
+    "Internal ID": 5323,
+    "Unique Entry ID": "p3AtA6bS7YcZLq3Qw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fairy-Tale_Hood_(New_Horizons)"
+  },
+  {
+    "Name": "faux-fur hat",
+    "Internal ID": 10924,
+    "Unique Entry ID": "om6xFnwFeAiAbCEdX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Faux-Fur_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "fedora",
+    "Internal ID": 11048,
+    "Unique Entry ID": "MMhwGN3er9uwzDxF5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fedora_(New_Horizons)"
+  },
+  {
+    "Name": "firefighter's hat",
+    "Internal ID": 5374,
+    "Unique Entry ID": "cR8NwZTuWmdYG35Jj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Firefighter's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "flashy hairpin",
+    "Internal ID": 10847,
+    "Unique Entry ID": "yQpkhzDDYowAwfiPF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flashy_Hairpin_(New_Horizons)"
+  },
+  {
+    "Name": "flashy pointy-ear animal hat",
+    "Internal ID": 13419,
+    "Unique Entry ID": "JSbSikvZYmPfztS28",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flashy_Pointy-Ear_Animal_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "flashy round-ear animal hat",
+    "Internal ID": 13424,
+    "Unique Entry ID": "L2t75cLXm6in9f8P7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flashy_Round-Ear_Animal_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "floral hairpin",
+    "Internal ID": 9854,
+    "Unique Entry ID": "8Jddb8tpAJ9dCFNhR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Floral_Hairpin_(New_Horizons)"
+  },
+  {
+    "Name": "flower bopper",
+    "Internal ID": 9858,
+    "Unique Entry ID": "ut6Mpg5beqMZbHCx5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flower_Bopper_(New_Horizons)"
+  },
+  {
+    "Name": "football helmet",
+    "Internal ID": 11604,
+    "Unique Entry ID": "BqaKYDQcnYuGkhqiX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Football_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "fox mask",
+    "Internal ID": 6034,
+    "Unique Entry ID": "hvuy2ff7D5HmQDWhP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fox_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "frog cap",
+    "Internal ID": 5335,
+    "Unique Entry ID": "2o34Cs7NhTHdiAA2J",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Frog_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "frugal hat",
+    "Internal ID": 11846,
+    "Unique Entry ID": "zB2YwDPXFAkqrfWGo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Frugal_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "geisha wig",
+    "Internal ID": 9746,
+    "Unique Entry ID": "JKW7jE3fFnXoH6vyB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Geisha_Wig_(New_Horizons)"
+  },
+  {
+    "Name": "giant ribbon",
+    "Internal ID": 12057,
+    "Unique Entry ID": "SWbrNbBpjj4FWtPyE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Giant_Ribbon_(New_Horizons)"
+  },
+  {
+    "Name": "glengarry",
+    "Internal ID": 6049,
+    "Unique Entry ID": "wJL28HCtAeYiw9Qnf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Glengarry_(New_Horizons)"
+  },
+  {
+    "Name": "gold helmet",
+    "Internal ID": 5346,
+    "Unique Entry ID": "BBTeM9iQR8tG5DCWA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gold_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "gold rose crown",
+    "Internal ID": 7378,
+    "Unique Entry ID": "FX33n2bWNfRJ6cuKm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gold_Rose_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "gothic headdress",
+    "Internal ID": 11897,
+    "Unique Entry ID": "xgnfJr4rfnJHpz3Cy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gothic_Headdress_(New_Horizons)"
+  },
+  {
+    "Name": "grape hat",
+    "Internal ID": 5278,
+    "Unique Entry ID": "T7jWyxruDuEJssnYX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Grape_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "halo",
+    "Internal ID": 6921,
+    "Unique Entry ID": "h5uXo4cEWBngWp7sS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Halo_(New_Horizons)"
+  },
+  {
+    "Name": "handmade crown",
+    "Internal ID": 12576,
+    "Unique Entry ID": "qtR8v5BvaApJkokuf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Handmade_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "headband",
+    "Internal ID": 6093,
+    "Unique Entry ID": "2ZQBtmCyTt4kGY2gM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Headband_(New_Horizons)"
+  },
+  {
+    "Name": "headgear",
+    "Internal ID": 5687,
+    "Unique Entry ID": "jmnTEJgWu8kHL6CcQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Headgear_(New_Horizons)"
+  },
+  {
+    "Name": "headkerchief",
+    "Internal ID": 5322,
+    "Unique Entry ID": "K59p7jjXDCpeYStyh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Headkerchief_(New_Horizons)"
+  },
+  {
+    "Name": "heart bopper",
+    "Internal ID": 9859,
+    "Unique Entry ID": "r6NShbHdjPM6Xj4uN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Bopper_(New_Horizons)"
+  },
+  {
+    "Name": "heart hairpin",
+    "Internal ID": 12168,
+    "Unique Entry ID": "qoHkG5w57FHejH7sW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Heart_Hairpin_(New_Horizons)"
+  },
+  {
+    "Name": "helmet with goggles",
+    "Internal ID": 10235,
+    "Unique Entry ID": "oNKeKYrhc57TYvMSQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Helmet_With_Goggles_(New_Horizons)"
+  },
+  {
+    "Name": "hibiscus hairpin",
+    "Internal ID": 10849,
+    "Unique Entry ID": "79RboM5aoWXKBrJS9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hibiscus_Hairpin_(New_Horizons)"
+  },
+  {
+    "Name": "hockey mask",
+    "Internal ID": 6041,
+    "Unique Entry ID": "NDgayuyJk7tRysSQr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hockey_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "hot-dog hood",
+    "Internal ID": 5369,
+    "Unique Entry ID": "w2djDRA9FiE4WD6pX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hot-Dog_Hood_(New_Horizons)"
+  },
+  {
+    "Name": "hyacinth crown",
+    "Internal ID": 5096,
+    "Unique Entry ID": "AupxHTZM4fc5HJBRu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hyacinth_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "imitation cow skull",
+    "Internal ID": 5447,
+    "Unique Entry ID": "vWz6PnRkqiMa2KJkv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Imitation_Cow_Skull_(New_Horizons)"
+  },
+  {
+    "Name": "imp hood",
+    "Internal ID": 5464,
+    "Unique Entry ID": "f7MYQ3k8qYWwTtrcr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Imp_Hood_(New_Horizons)"
+  },
+  {
+    "Name": "impish horns",
+    "Internal ID": 13394,
+    "Unique Entry ID": "qoje9NtnMAPBiusHN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Impish_Horns_(New_Horizons)"
+  },
+  {
+    "Name": "Jack's face",
+    "Internal ID": 13002,
+    "Unique Entry ID": "ByH2HdaT4BuioHL8H",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jack's_Face_(New_Horizons)"
+  },
+  {
+    "Name": "jester's cap",
+    "Internal ID": 11860,
+    "Unique Entry ID": "ugMtz99HpaJBEppZS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jester's_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "jockey's helmet",
+    "Internal ID": 11627,
+    "Unique Entry ID": "6MbsXdjSnfoQzc39M",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jockey's_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "kaffiyeh",
+    "Internal ID": 6052,
+    "Unique Entry ID": "BEAno4ew9FkKMfWwk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kaffiyeh_(New_Horizons)"
+  },
+  {
+    "Name": "kappa cap",
+    "Internal ID": 5331,
+    "Unique Entry ID": "zo2gb6sjpYjpkd6W8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kappa_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "King Tut mask",
+    "Internal ID": 5607,
+    "Unique Entry ID": "GnuiKjdcyQhaGEToC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:King_Tut_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "kiwi hat",
+    "Internal ID": 5276,
+    "Unique Entry ID": "vvPendWMdGWCSNvNw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kiwi_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "knight's helmet",
+    "Internal ID": 5334,
+    "Unique Entry ID": "ChakqZJq8igZjNDcH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Knight's_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "knit cap with earflaps",
+    "Internal ID": 10949,
+    "Unique Entry ID": "F3qyTm7oAHPfLcvEC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Knit_Cap_With_Earflaps_(New_Horizons)"
+  },
+  {
+    "Name": "knit hat",
+    "Internal ID": 6880,
+    "Unique Entry ID": "puALkP9K5hCSFy95L",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Knit_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle cap",
+    "Internal ID": 11746,
+    "Unique Entry ID": "7p2osKzqpSv8TSz5D",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "Labelle hat",
+    "Internal ID": 11751,
+    "Unique Entry ID": "dkk6nawDAJhEtQHWv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Labelle_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "leaf mask",
+    "Internal ID": 7291,
+    "Unique Entry ID": "SzZ9pCgSNQz4P2PRn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leaf_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "leaf-egg shell",
+    "Internal ID": 12441,
+    "Unique Entry ID": "nwNuAognQtrTGfTWn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leaf-Egg_Shell_(New_Horizons)"
+  },
+  {
+    "Name": "lettered cap",
+    "Internal ID": 9866,
+    "Unique Entry ID": "7Q3wGGajkfDjfzhJz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lettered_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "lily crown",
+    "Internal ID": 5114,
+    "Unique Entry ID": "oyd8dzDWXoCeq6d3P",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lily_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "lovely cosmos crown",
+    "Internal ID": 5109,
+    "Unique Entry ID": "JpEmegx5ChztAdbnv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lovely_Cosmos_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "mage's hat",
+    "Internal ID": 5245,
+    "Unique Entry ID": "xC42tzk6SK3sN9RoG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mage's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "mage's striped hat",
+    "Internal ID": 13404,
+    "Unique Entry ID": "D4rPMvD6SYSo7Qeeb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mage's_Striped_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "magic-academy hood",
+    "Internal ID": 13399,
+    "Unique Entry ID": "LbcyifHghbL5pjFoP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Magic-Academy_Hood_(New_Horizons)"
+  },
+  {
+    "Name": "matanpushi",
+    "Internal ID": 12034,
+    "Unique Entry ID": "wLkeY9D82XAyLE3N9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Matanpushi_(New_Horizons)"
+  },
+  {
+    "Name": "matronly bun",
+    "Internal ID": 5691,
+    "Unique Entry ID": "2HsMdh23YHSqA4AhL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Matronly_Bun_(New_Horizons)"
+  },
+  {
+    "Name": "mermaid tiara",
+    "Internal ID": 12661,
+    "Unique Entry ID": "sGCqgfbJSc9ndpEv8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mermaid_Tiara_(New_Horizons)"
+  },
+  {
+    "Name": "mesh cap",
+    "Internal ID": 11511,
+    "Unique Entry ID": "B75gGQnqmbvwFnY3r",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mesh_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "milkmaid hat",
+    "Internal ID": 5365,
+    "Unique Entry ID": "xxPurMe9L9zyhgmoH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Milkmaid_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "mohawk wig",
+    "Internal ID": 5688,
+    "Unique Entry ID": "xSP2ma9tBnzzWzfv6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mohawk_Wig_(New_Horizons)"
+  },
+  {
+    "Name": "mum crown",
+    "Internal ID": 5117,
+    "Unique Entry ID": "jcwfq9ffbRoL4AEde",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mum_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "mummy mask",
+    "Internal ID": 5324,
+    "Unique Entry ID": "RumzTwR7oeh4Ap6Ge",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mummy_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "New Year's hat",
+    "Internal ID": 4799,
+    "Unique Entry ID": "mRkejbn9CwDxWTD8v",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:New_Year's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "New Year's silk hat",
+    "Internal ID": 5946,
+    "Unique Entry ID": "4gvYY4rPwuzRbaMXQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:New_Year's_Silk_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "ninja hood",
+    "Internal ID": 5364,
+    "Unique Entry ID": "tNfkPdEzqBqjaJpoL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ninja_Hood_(New_Horizons)"
+  },
+  {
+    "Name": "Noh mask",
+    "Internal ID": 6036,
+    "Unique Entry ID": "g5HMKByrRY6yupb25",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Noh_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. bandanna",
+    "Internal ID": 5628,
+    "Unique Entry ID": "uPbBLGqqSiTSKdsap",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Bandanna_(New_Horizons)"
+  },
+  {
+    "Name": "Nook Inc. cap",
+    "Internal ID": 5627,
+    "Unique Entry ID": "M6ZPhdcjGPvRGtDCS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nook_Inc._Cap_(New_Horizons)"
+  },
+  {
+    "Name": "nurse's cap",
+    "Internal ID": 11812,
+    "Unique Entry ID": "u6EEbkfK3e6iHMXsY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nurse's_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "OK Motors cap",
+    "Internal ID": 12424,
+    "Unique Entry ID": "EfqFMvapb35xaDsnk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ok_Motors_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "orange hat",
+    "Internal ID": 5275,
+    "Unique Entry ID": "QSHPkoQAJJpdDJpXv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Orange_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "outback hat",
+    "Internal ID": 11056,
+    "Unique Entry ID": "uBsynLkxZLapw4j4w",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outback_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "outdoor hat",
+    "Internal ID": 11040,
+    "Unique Entry ID": "jG7vw4ZYdt5wxPJZh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Outdoor_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "paintball mask",
+    "Internal ID": 10227,
+    "Unique Entry ID": "iFPdeeqLGNuWaconR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paintball_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "paisley bandanna",
+    "Internal ID": 10762,
+    "Unique Entry ID": "RxdhMRe7iZv3LxYtQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paisley_Bandanna_(New_Horizons)"
+  },
+  {
+    "Name": "pansy crown",
+    "Internal ID": 5105,
+    "Unique Entry ID": "Kn2k9jdadPZNeT4oH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pansy_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "paper bag",
+    "Internal ID": 5840,
+    "Unique Entry ID": "Z8NpXTFEZNuwzJb7B",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paper_Bag_(New_Horizons)"
+  },
+  {
+    "Name": "paperboy cap",
+    "Internal ID": 11512,
+    "Unique Entry ID": "ymFNyTkYST6eYQDWm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paperboy_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "patchwork tulip hat",
+    "Internal ID": 9870,
+    "Unique Entry ID": "SGjLHQg8TFGDWH2N8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Patchwork_Tulip_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "peach hat",
+    "Internal ID": 9874,
+    "Unique Entry ID": "ndyX7HhTu335TzW9b",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peach_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "pear hat",
+    "Internal ID": 9872,
+    "Unique Entry ID": "nQDCrcuuoxWRwhyzt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pear_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "pigtail",
+    "Internal ID": 5819,
+    "Unique Entry ID": "8GiNANCYoscQGgW8i",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pigtail_(New_Horizons)"
+  },
+  {
+    "Name": "pilot's cap",
+    "Internal ID": 11613,
+    "Unique Entry ID": "6BxAvii2rcxRCaL7g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pilot's_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "pilot's hat",
+    "Internal ID": 11827,
+    "Unique Entry ID": "rtjQ3mqNSJsPmFmaK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pilot's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "pineapple cap",
+    "Internal ID": 5279,
+    "Unique Entry ID": "dPCd6Ab8DeCJFYskS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pineapple_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "pirate bandanna",
+    "Internal ID": 13089,
+    "Unique Entry ID": "WFxrhr6BfYyCAJsGS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate_Bandanna_(New_Horizons)"
+  },
+  {
+    "Name": "pirate-treasure crown",
+    "Internal ID": 12980,
+    "Unique Entry ID": "6NNSm3ERsLbEy5BTC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate-Treasure_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "pirate's hat",
+    "Internal ID": 5142,
+    "Unique Entry ID": "cKNoCD7vwdECyuDeP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pirate's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "plain cap",
+    "Internal ID": 5148,
+    "Unique Entry ID": "by6mbBP6LtRDsEnGb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Plain_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "police cap",
+    "Internal ID": 5141,
+    "Unique Entry ID": "yfwrPpLDLYjKTwmbt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Police_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "pom casquette",
+    "Internal ID": 11539,
+    "Unique Entry ID": "FEBs8oY4JiFabEvz8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pom_Casquette_(New_Horizons)"
+  },
+  {
+    "Name": "pompadour wig",
+    "Internal ID": 5689,
+    "Unique Entry ID": "jBfmG2MkmbCBcTeyg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pompadour_Wig_(New_Horizons)"
+  },
+  {
+    "Name": "power helmet",
+    "Internal ID": 11796,
+    "Unique Entry ID": "gY6w3hNQMAcgSgPxa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Power_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "purple hyacinth crown",
+    "Internal ID": 5098,
+    "Unique Entry ID": "MPEexcEJFfRQPPHoq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Hyacinth_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "purple pansy crown",
+    "Internal ID": 5107,
+    "Unique Entry ID": "vmtf5bE9cGLDf99Th",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Pansy_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "purple windflower crown",
+    "Internal ID": 5101,
+    "Unique Entry ID": "BerFDtXNFXSKuaijZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purple_Windflower_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "racing helmet",
+    "Internal ID": 10237,
+    "Unique Entry ID": "KpBh5M485u3R2Lrcc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Racing_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "rain hat",
+    "Internal ID": 9573,
+    "Unique Entry ID": "WiE7mCBg8Xm3eq9MP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rain_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "ribbon",
+    "Internal ID": 10855,
+    "Unique Entry ID": "Za6NEdY6H8kymJjZD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ribbon_(New_Horizons)"
+  },
+  {
+    "Name": "ribboned garden hat",
+    "Internal ID": 11990,
+    "Unique Entry ID": "uwjz7ukHv4SHPXK5z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ribboned_Garden_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "ribboned straw hat",
+    "Internal ID": 10895,
+    "Unique Entry ID": "YLtzZraTojRJKEEwD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ribboned_Straw_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "rose crown",
+    "Internal ID": 5111,
+    "Unique Entry ID": "jnYpwpwEuPzZBLyNE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rose_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "royal crown",
+    "Internal ID": 5307,
+    "Unique Entry ID": "s8RSxedxt7JkFnGCw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Royal_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "safety helmet",
+    "Internal ID": 10218,
+    "Unique Entry ID": "9sEsTF8fz25uiKeyu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Safety_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "sailor's hat",
+    "Internal ID": 5265,
+    "Unique Entry ID": "4X4XmNgYXYAzzNtdi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sailor's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "samurai helmet",
+    "Internal ID": 11879,
+    "Unique Entry ID": "Ffq5iTxhgCu7y3DSS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Samurai_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "samurai wig",
+    "Internal ID": 5690,
+    "Unique Entry ID": "sPyM96NbCMMthDRAT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Samurai_Wig_(New_Horizons)"
+  },
+  {
+    "Name": "scholar's hat",
+    "Internal ID": 5137,
+    "Unique Entry ID": "ngKiFRMtrgD6LBE6A",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Scholar's_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "school hat",
+    "Internal ID": 4739,
+    "Unique Entry ID": "ihFYQjYM3HLa4CQNi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:School_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "shallow knit cap",
+    "Internal ID": 10942,
+    "Unique Entry ID": "sjPzMYvFq3nxYz9xZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shallow_Knit_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "sheep hood",
+    "Internal ID": 5465,
+    "Unique Entry ID": "RpK4nNwMTTACXuzhs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sheep_Hood_(New_Horizons)"
+  },
+  {
+    "Name": "silk hat",
+    "Internal ID": 11851,
+    "Unique Entry ID": "wAXG8RJJ7TpyncmcF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Silk_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "simple mum crown",
+    "Internal ID": 5119,
+    "Unique Entry ID": "azamBTFvDxNkLTXFL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simple_Mum_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "skateboarding helmet",
+    "Internal ID": 12050,
+    "Unique Entry ID": "j9Bx4gQDy2tCdzDj7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Skateboarding_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "skeleton hood",
+    "Internal ID": 5328,
+    "Unique Entry ID": "QypAPiQ8g9ALJ5sZ2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Skeleton_Hood_(New_Horizons)"
+  },
+  {
+    "Name": "ski mask",
+    "Internal ID": 10826,
+    "Unique Entry ID": "ogspBj87pEQMkarDs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ski_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "sky-egg shell",
+    "Internal ID": 12443,
+    "Unique Entry ID": "gx5CGMFvPAuqsgYye",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sky-Egg_Shell_(New_Horizons)"
+  },
+  {
+    "Name": "small silk hat",
+    "Internal ID": 11057,
+    "Unique Entry ID": "KqxGXsprWBskSFuFE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Small_Silk_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "snowperson head",
+    "Internal ID": 8609,
+    "Unique Entry ID": "GqFZJ5PfCqn93XvrQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snowperson_Head_(New_Horizons)"
+  },
+  {
+    "Name": "snowy knit cap",
+    "Internal ID": 10956,
+    "Unique Entry ID": "AMEAt7bNv2FKkuErK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snowy_Knit_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "soft-serve hat",
+    "Internal ID": 6998,
+    "Unique Entry ID": "jqpTmDvBaG4prYPDn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Soft-Serve_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "sombrero",
+    "Internal ID": 10872,
+    "Unique Entry ID": "Ds5rhcNjFXAhWqY37",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sombrero_(New_Horizons)"
+  },
+  {
+    "Name": "space helmet",
+    "Internal ID": 5394,
+    "Unique Entry ID": "4iAdswfjHr2WDddrj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Space_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "sports cap",
+    "Internal ID": 11528,
+    "Unique Entry ID": "mLrPan5QQTWKmtHmB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sports_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "stagehand hat",
+    "Internal ID": 6053,
+    "Unique Entry ID": "3iuLkRkAKbp4KbfET",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stagehand_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "star bopper",
+    "Internal ID": 2611,
+    "Unique Entry ID": "zNorsCxjDBFoB3cB4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Bopper_(New_Horizons)"
+  },
+  {
+    "Name": "star hairpin",
+    "Internal ID": 12172,
+    "Unique Entry ID": "Sj22yQDh6XZ548xNs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Hairpin_(New_Horizons)"
+  },
+  {
+    "Name": "star head",
+    "Internal ID": 9862,
+    "Unique Entry ID": "GeCyKvrDGPAceAQQP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Star_Head_(New_Horizons)"
+  },
+  {
+    "Name": "stone-egg shell",
+    "Internal ID": 12440,
+    "Unique Entry ID": "6sSucNJN4o9egdsT6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stone-Egg_Shell_(New_Horizons)"
+  },
+  {
+    "Name": "straw boater",
+    "Internal ID": 10879,
+    "Unique Entry ID": "YTxDHZqDGSAH3Fmjf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Straw_Boater_(New_Horizons)"
+  },
+  {
+    "Name": "straw hat",
+    "Internal ID": 10893,
+    "Unique Entry ID": "7B9BjYT2FRp9yzea9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Straw_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "straw umbrella hat",
+    "Internal ID": 7254,
+    "Unique Entry ID": "cz6T8vemWpFgE489x",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Straw_Umbrella_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "strawberry hat",
+    "Internal ID": 5277,
+    "Unique Entry ID": "R8fyQu6e76ZM7bMhp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Strawberry_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "student cap",
+    "Internal ID": 8613,
+    "Unique Entry ID": "LKXDnCJeGKiLRBdTW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Student_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "summer-solstice crown",
+    "Internal ID": 12577,
+    "Unique Entry ID": "joCTjPoPgEfNraHSH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Summer-Solstice_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "sushi chef hat",
+    "Internal ID": 5281,
+    "Unique Entry ID": "DKpSqDbfvc7Ac3NWb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sushi_Chef_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "swimming cap",
+    "Internal ID": 10755,
+    "Unique Entry ID": "uAS3Zs4ySQ4pyH6RT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Swimming_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "tam-o'-shanter",
+    "Internal ID": 11544,
+    "Unique Entry ID": "8MbGqyymgLtiQRKoe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tam-O'-Shanter_(New_Horizons)"
+  },
+  {
+    "Name": "terry-cloth do-rag",
+    "Internal ID": 5311,
+    "Unique Entry ID": "3A87hGGENrpxFjCBM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Terry-Cloth_Do-Rag_(New_Horizons)"
+  },
+  {
+    "Name": "terry-cloth nightcap",
+    "Internal ID": 10929,
+    "Unique Entry ID": "HGt3DPCTNwisbCW9m",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Terry-Cloth_Nightcap_(New_Horizons)"
+  },
+  {
+    "Name": "tiara",
+    "Internal ID": 7412,
+    "Unique Entry ID": "wPnrbYEAzgiH4MBCr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tiara_(New_Horizons)"
+  },
+  {
+    "Name": "tiara hair",
+    "Internal ID": 6092,
+    "Unique Entry ID": "dhMP2ThwJYzisAXRH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tiara_Hair_(New_Horizons)"
+  },
+  {
+    "Name": "top hat",
+    "Internal ID": 11033,
+    "Unique Entry ID": "NfzKSM4CXGwoitHMy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Top_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "tropical hat",
+    "Internal ID": 12041,
+    "Unique Entry ID": "G4gbisnhEmJMw8cYR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tropical_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "tubeteika",
+    "Internal ID": 10913,
+    "Unique Entry ID": "QFGyvXwscrvo5e89i",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tubeteika_(New_Horizons)"
+  },
+  {
+    "Name": "tulip crown",
+    "Internal ID": 5102,
+    "Unique Entry ID": "boCfvbAPGLLbHxadk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tulip_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "tulip hat",
+    "Internal ID": 5293,
+    "Unique Entry ID": "2atryTheqj4uK8rjW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tulip_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "turban",
+    "Internal ID": 11864,
+    "Unique Entry ID": "9Ge7K5fRmCEB9mfed",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Turban_(New_Horizons)"
+  },
+  {
+    "Name": "tweed cap",
+    "Internal ID": 11984,
+    "Unique Entry ID": "kYQH5dhveFPmxHfWx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tweed_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "veil",
+    "Internal ID": 11882,
+    "Unique Entry ID": "peNBBPLzRX8veChtN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Veil_(New_Horizons)"
+  },
+  {
+    "Name": "veiled gardening hat",
+    "Internal ID": 5669,
+    "Unique Entry ID": "47rrN4MCnmx3nJEEi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Veiled_Gardening_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "viking helmet",
+    "Internal ID": 5266,
+    "Unique Entry ID": "537cx76ofDQmS26Ey",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Viking_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "visual-punk wig",
+    "Internal ID": 5832,
+    "Unique Entry ID": "vht7uMem86b7xt6mH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Visual-Punk_Wig_(New_Horizons)"
+  },
+  {
+    "Name": "water-egg shell",
+    "Internal ID": 12444,
+    "Unique Entry ID": "mN8qCCPvcMABTSDyg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Water-Egg_Shell_(New_Horizons)"
+  },
+  {
+    "Name": "watermelon hat",
+    "Internal ID": 5280,
+    "Unique Entry ID": "PSDsGq5y7TsLDnSu7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Watermelon_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "welding mask",
+    "Internal ID": 5381,
+    "Unique Entry ID": "jo3TyHC3dXYa2Zy4g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Welding_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "wide-brim straw hat",
+    "Internal ID": 10887,
+    "Unique Entry ID": "zro4j3P3J4PyP2Ad6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wide-Brim_Straw_Hat_(New_Horizons)"
+  },
+  {
+    "Name": "windflower crown",
+    "Internal ID": 5099,
+    "Unique Entry ID": "ozmWzY5uiHT5KjnJv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Windflower_Crown_(New_Horizons)"
+  },
+  {
+    "Name": "wizard's cap",
+    "Internal ID": 5336,
+    "Unique Entry ID": "Wz4cvdNMErcHzjuYG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wizard's_Cap_(New_Horizons)"
+  },
+  {
+    "Name": "wood-egg shell",
+    "Internal ID": 12442,
+    "Unique Entry ID": "dRt2qDxRs35EkEoPP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wood-Egg_Shell_(New_Horizons)"
+  },
+  {
+    "Name": "wrestling mask",
+    "Internal ID": 11832,
+    "Unique Entry ID": "MJfPeiLwjdKRRAMuh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wrestling_Mask_(New_Horizons)"
+  },
+  {
+    "Name": "zap helmet",
+    "Internal ID": 11802,
+    "Unique Entry ID": "4yKDqw7GEjCqk3Wue",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Zap_Helmet_(New_Horizons)"
+  },
+  {
+    "Name": "zen hair clip",
+    "Internal ID": 8610,
+    "Unique Entry ID": "6uuujwuHdzMm9ttkc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Zen_Hair_Clip_(New_Horizons)"
+  }
+]

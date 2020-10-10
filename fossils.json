@@ -1,0 +1,513 @@
+[
+  {
+    "Name": "acanthostega",
+    "Filename": "FtrFossilFirstFourLegs",
+    "Internal ID": 4664,
+    "Unique Entry ID": "LQkRP3kBn3T2jBboF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Acanthostega"
+  },
+  {
+    "Name": "amber",
+    "Filename": "FtrFossilAmber",
+    "Internal ID": 294,
+    "Unique Entry ID": "ANAhATcHWvAGEhRnt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Amber"
+  },
+  {
+    "Name": "ammonite",
+    "Filename": "FtrFossilAmmonoidea",
+    "Internal ID": 295,
+    "Unique Entry ID": "ojNKnr4YRrmPi2gPo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ammonite"
+  },
+  {
+    "Name": "ankylo skull",
+    "Filename": "FtrFossilAnkylosaurusA",
+    "Internal ID": 169,
+    "Unique Entry ID": "QQjxKmQ8Aac9cSoM2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ankylosaurus"
+  },
+  {
+    "Name": "ankylo tail",
+    "Filename": "FtrFossilAnkylosaurusC",
+    "Internal ID": 171,
+    "Unique Entry ID": "wLWBm2R727RC3qSL2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ankylosaurus"
+  },
+  {
+    "Name": "ankylo torso",
+    "Filename": "FtrFossilAnkylosaurusB",
+    "Internal ID": 170,
+    "Unique Entry ID": "5QNzf5buPckabN6cR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ankylosaurus"
+  },
+  {
+    "Name": "anomalocaris",
+    "Filename": "FtrFossilAnomalocaris",
+    "Internal ID": 4651,
+    "Unique Entry ID": "TYX964LM2tNZ3SYKC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Anomalocaris"
+  },
+  {
+    "Name": "archaeopteryx",
+    "Filename": "FtrFossilArchaeopteryx",
+    "Internal ID": 298,
+    "Unique Entry ID": "ky9pkmc2fmK9thuFH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Archaeopteryx"
+  },
+  {
+    "Name": "archelon skull",
+    "Filename": "FtrFossilArchelonA",
+    "Internal ID": 177,
+    "Unique Entry ID": "cYZhXfyNiqZy2hgeM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Archelon"
+  },
+  {
+    "Name": "archelon tail",
+    "Filename": "FtrFossilArchelonB",
+    "Internal ID": 178,
+    "Unique Entry ID": "CtosFxKjG5nzLGi4t",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Archelon"
+  },
+  {
+    "Name": "australopith",
+    "Filename": "FtrFossilAustralopithecus",
+    "Internal ID": 301,
+    "Unique Entry ID": "vE5WQNHepjDb36K6g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Australopith"
+  },
+  {
+    "Name": "brachio chest",
+    "Filename": "FtrFossilBrachiosaurusB",
+    "Internal ID": 4689,
+    "Unique Entry ID": "FykMyEnM2Xhzd54x8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Brachiosaurus"
+  },
+  {
+    "Name": "brachio pelvis",
+    "Filename": "FtrFossilBrachiosaurusC",
+    "Internal ID": 4690,
+    "Unique Entry ID": "5zCdNszyap3Gs7hZY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Brachiosaurus"
+  },
+  {
+    "Name": "brachio skull",
+    "Filename": "FtrFossilBrachiosaurusA",
+    "Internal ID": 4688,
+    "Unique Entry ID": "bECfoiR8RoGTXmqCL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Brachiosaurus"
+  },
+  {
+    "Name": "brachio tail",
+    "Filename": "FtrFossilBrachiosaurusD",
+    "Internal ID": 4691,
+    "Unique Entry ID": "RTtavecsrgWSGLm7C",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Brachiosaurus"
+  },
+  {
+    "Name": "coprolite",
+    "Filename": "FtrFossilCoprolite",
+    "Internal ID": 296,
+    "Unique Entry ID": "hKbRzACFb4D24W8HJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Coprolite"
+  },
+  {
+    "Name": "deinony tail",
+    "Filename": "FtrFossilDeinonychusB",
+    "Internal ID": 211,
+    "Unique Entry ID": "e3NuAF5y9iv7J52Sv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Deinonychus"
+  },
+  {
+    "Name": "deinony torso",
+    "Filename": "FtrFossilDeinonychusA",
+    "Internal ID": 210,
+    "Unique Entry ID": "NSe8AQvNigyZqmLzo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Deinonychus"
+  },
+  {
+    "Name": "dimetrodon skull",
+    "Filename": "FtrFossilDimetrodonA",
+    "Internal ID": 184,
+    "Unique Entry ID": "sEuSt7ycajTAqSzKg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Dimetrodon"
+  },
+  {
+    "Name": "dimetrodon torso",
+    "Filename": "FtrFossilDimetrodonB",
+    "Internal ID": 185,
+    "Unique Entry ID": "LcbJqY3JzLcQRoPGT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Dimetrodon"
+  },
+  {
+    "Name": "dinosaur track",
+    "Filename": "FtrFossilIchnology",
+    "Internal ID": 300,
+    "Unique Entry ID": "fJWu7dHhZuKxjRwTy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Dinosaur_Track"
+  },
+  {
+    "Name": "diplo chest",
+    "Filename": "FtrFossilDiplodocusC",
+    "Internal ID": 218,
+    "Unique Entry ID": "ZYuR9spddLgaZawiY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Diplodocus"
+  },
+  {
+    "Name": "diplo neck",
+    "Filename": "FtrFossilDiplodocusB",
+    "Internal ID": 217,
+    "Unique Entry ID": "odxoEbLSduTmarKkm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Diplodocus"
+  },
+  {
+    "Name": "diplo pelvis",
+    "Filename": "FtrFossilDiplodocusD",
+    "Internal ID": 219,
+    "Unique Entry ID": "kLYuD5QgNqfKJPfj7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Diplodocus"
+  },
+  {
+    "Name": "diplo skull",
+    "Filename": "FtrFossilDiplodocusA",
+    "Internal ID": 216,
+    "Unique Entry ID": "n6cAybPhTSykws3Mb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Diplodocus"
+  },
+  {
+    "Name": "diplo tail",
+    "Filename": "FtrFossilDiplodocusE",
+    "Internal ID": 220,
+    "Unique Entry ID": "iKsrdn2aAxSfe83qZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Diplodocus"
+  },
+  {
+    "Name": "diplo tail tip",
+    "Filename": "FtrFossilDiplodocusF",
+    "Internal ID": 7251,
+    "Unique Entry ID": "a2r3s8t7bg4uZvdSy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Diplodocus"
+  },
+  {
+    "Name": "dunkleosteus",
+    "Filename": "FtrFossilDunkleosteus",
+    "Internal ID": 4660,
+    "Unique Entry ID": "AtCoTAfo9bKFiGzFD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Dunkleosteus"
+  },
+  {
+    "Name": "eusthenopteron",
+    "Filename": "FtrFossilFirstAmphibian",
+    "Internal ID": 4663,
+    "Unique Entry ID": "BHhdGwq7YeZuHmkEW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Eusthenopteron"
+  },
+  {
+    "Name": "iguanodon skull",
+    "Filename": "FtrFossilIguanodonA",
+    "Internal ID": 188,
+    "Unique Entry ID": "pDn2iASHjo7yWKE3k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Iguanodon"
+  },
+  {
+    "Name": "iguanodon tail",
+    "Filename": "FtrFossilIguanodonC",
+    "Internal ID": 190,
+    "Unique Entry ID": "GL2CuJXa4gYb4E4cE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Iguanodon"
+  },
+  {
+    "Name": "iguanodon torso",
+    "Filename": "FtrFossilIguanodonB",
+    "Internal ID": 189,
+    "Unique Entry ID": "dJRCXccvviu6chWyK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Iguanodon"
+  },
+  {
+    "Name": "juramaia",
+    "Filename": "FtrFossilFirstMammal",
+    "Internal ID": 4665,
+    "Unique Entry ID": "Ch68dGRXX2mu7ABgC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Juramaia"
+  },
+  {
+    "Name": "left megalo side",
+    "Filename": "FtrFossilMegalocerosB",
+    "Internal ID": 4659,
+    "Unique Entry ID": "7YzSLZWsjXQNp5xRY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Megaloceros"
+  },
+  {
+    "Name": "left ptera wing",
+    "Filename": "FtrFossilPteranodonC",
+    "Internal ID": 208,
+    "Unique Entry ID": "GJtNP9DjAFjGQdMPN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pteranodon"
+  },
+  {
+    "Name": "left quetzal wing",
+    "Filename": "FtrFossilQuetzalcoatlusC",
+    "Internal ID": 4699,
+    "Unique Entry ID": "rS4iizyMDxN4yizLT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Quetzalcoatlus"
+  },
+  {
+    "Name": "mammoth skull",
+    "Filename": "FtrFossilMammothA",
+    "Internal ID": 195,
+    "Unique Entry ID": "96CTubnHfYqmHyd3s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Mammoth"
+  },
+  {
+    "Name": "mammoth torso",
+    "Filename": "FtrFossilMammothB",
+    "Internal ID": 196,
+    "Unique Entry ID": "hT68CXm4z8LreXqWS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Mammoth"
+  },
+  {
+    "Name": "megacero skull",
+    "Filename": "FtrFossilBrontotheriumA",
+    "Internal ID": 180,
+    "Unique Entry ID": "8CF9fvWstP6cWRbRD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Megacerops"
+  },
+  {
+    "Name": "megacero tail",
+    "Filename": "FtrFossilBrontotheriumC",
+    "Internal ID": 182,
+    "Unique Entry ID": "NQcfdw5y6fokTPNGs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Megacerops"
+  },
+  {
+    "Name": "megacero torso",
+    "Filename": "FtrFossilBrontotheriumB",
+    "Internal ID": 181,
+    "Unique Entry ID": "NcbHKXp9gq6Y96Wtw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Megacerops"
+  },
+  {
+    "Name": "myllokunmingia",
+    "Filename": "FtrFossilFirstFish",
+    "Internal ID": 4662,
+    "Unique Entry ID": "XjLHtDMYXqwjZd4wT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Myllokunmingia"
+  },
+  {
+    "Name": "ophthalmo skull",
+    "Filename": "FtrFossilOphthalmosaurusA",
+    "Internal ID": 192,
+    "Unique Entry ID": "Sq6yQQ6EH2AMqQo2A",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ophthalmosaurus"
+  },
+  {
+    "Name": "ophthalmo torso",
+    "Filename": "FtrFossilOphthalmosaurusB",
+    "Internal ID": 193,
+    "Unique Entry ID": "8tzwNNwbSKAeWAzfP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ophthalmosaurus"
+  },
+  {
+    "Name": "pachy skull",
+    "Filename": "FtrFossilPachycephalosaurusA",
+    "Internal ID": 198,
+    "Unique Entry ID": "tgNyyjMaE9GbzMJzQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pachycephalosaurus"
+  },
+  {
+    "Name": "pachy tail",
+    "Filename": "FtrFossilPachycephalosaurusB",
+    "Internal ID": 199,
+    "Unique Entry ID": "assKMf95bhB6pe3PM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pachycephalosaurus"
+  },
+  {
+    "Name": "parasaur skull",
+    "Filename": "FtrFossilParasaurolophusA",
+    "Internal ID": 202,
+    "Unique Entry ID": "6xAZRPKhHNNQLofoE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Parasaurolophus"
+  },
+  {
+    "Name": "parasaur tail",
+    "Filename": "FtrFossilParasaurolophusC",
+    "Internal ID": 204,
+    "Unique Entry ID": "fEFd7AbLQpNwkzC8a",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Parasaurolophus"
+  },
+  {
+    "Name": "parasaur torso",
+    "Filename": "FtrFossilParasaurolophusB",
+    "Internal ID": 203,
+    "Unique Entry ID": "GgX3Tdgzmf4hjguGF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Parasaurolophus"
+  },
+  {
+    "Name": "plesio skull",
+    "Filename": "FtrFossilElasmosaurusA",
+    "Internal ID": 234,
+    "Unique Entry ID": "ioAEHvPecRoCBLJsK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Plesiosaurus"
+  },
+  {
+    "Name": "plesio tail",
+    "Filename": "FtrFossilElasmosaurusC",
+    "Internal ID": 236,
+    "Unique Entry ID": "7dLqS33KYzWRFvkde",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Plesiosaurus"
+  },
+  {
+    "Name": "plesio torso",
+    "Filename": "FtrFossilElasmosaurusB",
+    "Internal ID": 235,
+    "Unique Entry ID": "jbfiPhmAcserk23rm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Plesiosaurus"
+  },
+  {
+    "Name": "ptera body",
+    "Filename": "FtrFossilPteranodonA",
+    "Internal ID": 206,
+    "Unique Entry ID": "6oAjXjSy7DqrbifKT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pteranodon"
+  },
+  {
+    "Name": "quetzal torso",
+    "Filename": "FtrFossilQuetzalcoatlusA",
+    "Internal ID": 4697,
+    "Unique Entry ID": "SoS8Q55cyTsEyqeZi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Quetzalcoatlus"
+  },
+  {
+    "Name": "right megalo side",
+    "Filename": "FtrFossilMegalocerosA",
+    "Internal ID": 4658,
+    "Unique Entry ID": "6qFWqu3vKF9SuPjRE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Megaloceros"
+  },
+  {
+    "Name": "right ptera wing",
+    "Filename": "FtrFossilPteranodonB",
+    "Internal ID": 207,
+    "Unique Entry ID": "z45jBDDaRufwQkiEf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Pteranodon"
+  },
+  {
+    "Name": "right quetzal wing",
+    "Filename": "FtrFossilQuetzalcoatlusB",
+    "Internal ID": 4698,
+    "Unique Entry ID": "aAXrsXuY5cTjq4yKi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Quetzalcoatlus"
+  },
+  {
+    "Name": "sabertooth skull",
+    "Filename": "FtrFossilSmilodonA",
+    "Internal ID": 213,
+    "Unique Entry ID": "4xkrLpphWXubgtRPw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Sabertooth_Tiger"
+  },
+  {
+    "Name": "sabertooth tail",
+    "Filename": "FtrFossilSmilodonB",
+    "Internal ID": 214,
+    "Unique Entry ID": "iXfTo3dxakDrLZxnv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Sabertooth_Tiger"
+  },
+  {
+    "Name": "shark-tooth pattern",
+    "Filename": "FtrFossilShark",
+    "Internal ID": 302,
+    "Unique Entry ID": "yKE5xwKL9EeCJdN4D",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Shark-Tooth_Pattern"
+  },
+  {
+    "Name": "spino skull",
+    "Filename": "FtrFossilSpinosaurusA",
+    "Internal ID": 222,
+    "Unique Entry ID": "qbzMLGPcJWikeTWAG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Spinosaurus"
+  },
+  {
+    "Name": "spino tail",
+    "Filename": "FtrFossilSpinosaurusC",
+    "Internal ID": 224,
+    "Unique Entry ID": "7gnFZgeb6qq6K34Tb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Spinosaurus"
+  },
+  {
+    "Name": "spino torso",
+    "Filename": "FtrFossilSpinosaurusB",
+    "Internal ID": 223,
+    "Unique Entry ID": "Ap8LgQD6Ht4dryTjk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Spinosaurus"
+  },
+  {
+    "Name": "stego skull",
+    "Filename": "FtrFossilStegosaurusA",
+    "Internal ID": 226,
+    "Unique Entry ID": "DqsxWDoY5Mue6eQxg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Stegosaurus"
+  },
+  {
+    "Name": "stego tail",
+    "Filename": "FtrFossilStegosaurusC",
+    "Internal ID": 228,
+    "Unique Entry ID": "DQgfeZCeApGKBazBL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Stegosaurus"
+  },
+  {
+    "Name": "stego torso",
+    "Filename": "FtrFossilStegosaurusB",
+    "Internal ID": 227,
+    "Unique Entry ID": "Lv7ChzGsofd3qEjDL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Stegosaurus"
+  },
+  {
+    "Name": "T. rex skull",
+    "Filename": "FtrFossilTRexA",
+    "Internal ID": 238,
+    "Unique Entry ID": "9DunYGEb3QhJLwpPu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/T._Rex"
+  },
+  {
+    "Name": "T. rex tail",
+    "Filename": "FtrFossilTRexC",
+    "Internal ID": 240,
+    "Unique Entry ID": "AfeJAEkmJCdgtMrWj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/T._Rex"
+  },
+  {
+    "Name": "T. rex torso",
+    "Filename": "FtrFossilTRexB",
+    "Internal ID": 239,
+    "Unique Entry ID": "q9voJCHs9X5b32TWf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/T._Rex"
+  },
+  {
+    "Name": "tricera skull",
+    "Filename": "FtrFossilTriceratopsA",
+    "Internal ID": 242,
+    "Unique Entry ID": "ueCYTncJDsf2RYJYx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Triceratops"
+  },
+  {
+    "Name": "tricera tail",
+    "Filename": "FtrFossilTriceratopsC",
+    "Internal ID": 244,
+    "Unique Entry ID": "TXbdqeAkhjtqBJAWC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Triceratops"
+  },
+  {
+    "Name": "tricera torso",
+    "Filename": "FtrFossilTriceratopsB",
+    "Internal ID": 243,
+    "Unique Entry ID": "s2EGQuuStMSwFdT8y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Triceratops"
+  },
+  {
+    "Name": "trilobite",
+    "Filename": "FtrFossilTrilobite",
+    "Internal ID": 303,
+    "Unique Entry ID": "qFoqCvDTBd2oyC5Gz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Trilobite"
+  }
+]

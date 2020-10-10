@@ -1,0 +1,492 @@
+[
+  {
+    "Name": "academic painting",
+    "Filename": "FtrArtVitruvianMan",
+    "Internal ID": 12619,
+    "Unique Entry ID": "xfTf9sfyLkxHQEz4u",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Academic_Painting"
+  },
+  {
+    "Name": "academic painting",
+    "Filename": "FtrArtVitruvianManFake",
+    "Internal ID": 12620,
+    "Unique Entry ID": "5KNFAo3LkdTTJPQkd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Academic_Painting"
+  },
+  {
+    "Name": "amazing painting",
+    "Filename": "FtrArtNightWatch",
+    "Internal ID": 56,
+    "Unique Entry ID": "Sg6MCSG3m9tvjGWoj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Amazing_Painting"
+  },
+  {
+    "Name": "amazing painting",
+    "Filename": "FtrArtNightWatchFake",
+    "Internal ID": 55,
+    "Unique Entry ID": "vc2Ebu4Pkn443zYiN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Amazing_Painting"
+  },
+  {
+    "Name": "ancient statue",
+    "Filename": "FtrSculptureDoguu",
+    "Internal ID": 1337,
+    "Unique Entry ID": "zpAsguge9Yb29ksjS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ancient_Statue"
+  },
+  {
+    "Name": "ancient statue",
+    "Filename": "FtrSculptureDoguuFake",
+    "Internal ID": 1338,
+    "Unique Entry ID": "fXbsrcXirg6miBoqT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Ancient_Statue"
+  },
+  {
+    "Name": "basic painting",
+    "Filename": "FtrArtBlueBoy",
+    "Internal ID": 14,
+    "Unique Entry ID": "Xhn8ZjtbdZeET3NXR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Basic_Painting"
+  },
+  {
+    "Name": "basic painting",
+    "Filename": "FtrArtBlueBoyFake",
+    "Internal ID": 13,
+    "Unique Entry ID": "o4px7Mx9g2Zk6NHvC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Basic_Painting"
+  },
+  {
+    "Name": "beautiful statue",
+    "Filename": "FtrSculptureMilo",
+    "Internal ID": 1341,
+    "Unique Entry ID": "iscap6FsmDZdNP5dw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Beautiful_Statue"
+  },
+  {
+    "Name": "beautiful statue",
+    "Filename": "FtrSculptureMiloFake",
+    "Internal ID": 1342,
+    "Unique Entry ID": "w9vrMbhJNj6JHkznu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Beautiful_Statue"
+  },
+  {
+    "Name": "calm painting",
+    "Filename": "FtrArtSundayOn",
+    "Internal ID": 78,
+    "Unique Entry ID": "7QgYY7KuhauCnS37H",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Calm_Painting"
+  },
+  {
+    "Name": "common painting",
+    "Filename": "FtrArtGleaners",
+    "Internal ID": 44,
+    "Unique Entry ID": "GE6sppzKjqkG7sRoz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Common_Painting"
+  },
+  {
+    "Name": "detailed painting",
+    "Filename": "FtrArtAjisaisoukeizu",
+    "Internal ID": 12622,
+    "Unique Entry ID": "T2QA6mqARHfToTJpQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Detailed_Painting"
+  },
+  {
+    "Name": "detailed painting",
+    "Filename": "FtrArtAjisaisoukeizuFake",
+    "Internal ID": 12623,
+    "Unique Entry ID": "m9TkAsJFFkpQ9Hr4s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Detailed_Painting"
+  },
+  {
+    "Name": "dynamic painting",
+    "Filename": "FtrArtKanagawaOki",
+    "Internal ID": 38,
+    "Unique Entry ID": "BMBiEvuooPCwpzHj7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Dynamic_Painting"
+  },
+  {
+    "Name": "familiar statue",
+    "Filename": "FtrSculptureThinker",
+    "Internal ID": 12541,
+    "Unique Entry ID": "e45RimLWaxcoBYLNq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Familiar_Statue"
+  },
+  {
+    "Name": "famous painting",
+    "Filename": "FtrArtMonaLisa",
+    "Internal ID": 18,
+    "Unique Entry ID": "23b6Mtp42pbXaLiGj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Famous_Painting"
+  },
+  {
+    "Name": "famous painting",
+    "Filename": "FtrArtMonaLisaFake",
+    "Internal ID": 17,
+    "Unique Entry ID": "ppnz4rtJf2L6FK6YN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Famous_Painting"
+  },
+  {
+    "Name": "flowery painting",
+    "Filename": "FtrArtSunflower",
+    "Internal ID": 50,
+    "Unique Entry ID": "aDZWPQ79YhLCMRqAE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Flowery_Painting"
+  },
+  {
+    "Name": "gallant statue",
+    "Filename": "FtrSculptureDavid",
+    "Internal ID": 1333,
+    "Unique Entry ID": "hNbaWeaJCdihGnHM9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Gallant_Statue"
+  },
+  {
+    "Name": "gallant statue",
+    "Filename": "FtrSculptureDavidFake",
+    "Internal ID": 1334,
+    "Unique Entry ID": "aoJwhWz4TTkNHrgg4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Gallant_Statue"
+  },
+  {
+    "Name": "glowing painting",
+    "Filename": "FtrArtFightingTemeraire",
+    "Internal ID": 12624,
+    "Unique Entry ID": "89wbjB4u9oKjrKiZB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Glowing_Painting"
+  },
+  {
+    "Name": "graceful painting",
+    "Filename": "FtrArtMikaeri",
+    "Internal ID": 6,
+    "Unique Entry ID": "8M8N84TgtyATYSaPK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Graceful_Painting"
+  },
+  {
+    "Name": "graceful painting",
+    "Filename": "FtrArtMikaeriFake",
+    "Internal ID": 5,
+    "Unique Entry ID": "PJCq2YjGNkP3rLYAs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Graceful_Painting"
+  },
+  {
+    "Name": "great statue",
+    "Filename": "FtrSculptureKamehameha",
+    "Internal ID": 1339,
+    "Unique Entry ID": "AAE89LXrdnv7yxs7p",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Great_Statue"
+  },
+  {
+    "Name": "informative statue",
+    "Filename": "FtrSculptureRosettaStone",
+    "Internal ID": 12535,
+    "Unique Entry ID": "QW7tW8LLK5ReWvNeT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Informative_Statue"
+  },
+  {
+    "Name": "informative statue",
+    "Filename": "FtrSculptureRosettaStoneFake",
+    "Internal ID": 12536,
+    "Unique Entry ID": "qsBfFStS8mFJWotF3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Informative_Statue"
+  },
+  {
+    "Name": "jolly painting",
+    "Filename": "FtrArtSummer",
+    "Internal ID": 42,
+    "Unique Entry ID": "JmuDLy5Gzy5L98TYi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Jolly_Painting"
+  },
+  {
+    "Name": "jolly painting",
+    "Filename": "FtrArtSummerFake",
+    "Internal ID": 41,
+    "Unique Entry ID": "ndpzuYrx9RtgkuF4q",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Jolly_Painting"
+  },
+  {
+    "Name": "moody painting",
+    "Filename": "FtrArtSlower",
+    "Internal ID": 52,
+    "Unique Entry ID": "BvTziFiDfmghDfn2f",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Moody_Painting"
+  },
+  {
+    "Name": "motherly statue",
+    "Filename": "FtrSculptureCapitolini",
+    "Internal ID": 1331,
+    "Unique Entry ID": "CzWpdw9fWH7CSqvD4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Motherly_Statue"
+  },
+  {
+    "Name": "motherly statue",
+    "Filename": "FtrSculptureCapitoliniFake",
+    "Internal ID": 1332,
+    "Unique Entry ID": "FQnkD6Ecica9g8hn6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Motherly_Statue"
+  },
+  {
+    "Name": "moving painting",
+    "Filename": "FtrArtBirthVenus",
+    "Internal ID": 32,
+    "Unique Entry ID": "CbpBJoxScgd7YkJ2a",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Moving_Painting"
+  },
+  {
+    "Name": "moving painting",
+    "Filename": "FtrArtBirthVenusFake",
+    "Internal ID": 31,
+    "Unique Entry ID": "8ji8jMXCQbeXcBZ4G",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Moving_Painting"
+  },
+  {
+    "Name": "mysterious painting",
+    "Filename": "FtrArtIsleOfDead",
+    "Internal ID": 12625,
+    "Unique Entry ID": "jyEqfpiQxoJr7dFim",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Mysterious_Painting"
+  },
+  {
+    "Name": "mystic statue",
+    "Filename": "FtrSculptureNefertiti",
+    "Internal ID": 1343,
+    "Unique Entry ID": "m8rdQtfhuSxvLjbA7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Mystic_Statue"
+  },
+  {
+    "Name": "mystic statue",
+    "Filename": "FtrSculptureNefertitiFake",
+    "Internal ID": 1344,
+    "Unique Entry ID": "DPZFgiykKg576TMns",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Mystic_Statue"
+  },
+  {
+    "Name": "nice painting",
+    "Filename": "FtrArtFifePlayer",
+    "Internal ID": 48,
+    "Unique Entry ID": "bE9epxYeiupMZXZBY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Nice_Painting"
+  },
+  {
+    "Name": "perfect painting",
+    "Filename": "FtrArtAppleOrange",
+    "Internal ID": 20,
+    "Unique Entry ID": "GrTJQRodgefZ3ndPz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Perfect_Painting"
+  },
+  {
+    "Name": "proper painting",
+    "Filename": "FtrArtBarFB",
+    "Internal ID": 46,
+    "Unique Entry ID": "5MYg559uG6YjFrJLu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Proper_Painting"
+  },
+  {
+    "Name": "quaint painting",
+    "Filename": "FtrArtMilkmaid",
+    "Internal ID": 10,
+    "Unique Entry ID": "4eD8bxvcsNdFuJZy3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Quaint_Painting"
+  },
+  {
+    "Name": "quaint painting",
+    "Filename": "FtrArtMilkmaidFake",
+    "Internal ID": 9,
+    "Unique Entry ID": "A8oEDJdRDYCWWvgqP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Quaint_Painting"
+  },
+  {
+    "Name": "robust statue",
+    "Filename": "FtrSculptureDiskobolos",
+    "Internal ID": 1335,
+    "Unique Entry ID": "BMJTrZQQLrzhgFQ6T",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Robust_Statue"
+  },
+  {
+    "Name": "robust statue",
+    "Filename": "FtrSculptureDiskobolosFake",
+    "Internal ID": 1336,
+    "Unique Entry ID": "JxRWC7dP3bSnrYafb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Robust_Statue"
+  },
+  {
+    "Name": "rock-head statue",
+    "Filename": "FtrSculptureOlmecaHead",
+    "Internal ID": 12533,
+    "Unique Entry ID": "yuq7wqkBtYpTh9cQs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Rock-Head_Statue"
+  },
+  {
+    "Name": "rock-head statue",
+    "Filename": "FtrSculptureOlmecaHeadFake",
+    "Internal ID": 12534,
+    "Unique Entry ID": "vgYniErBETSwYurmo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Rock-Head_Statue"
+  },
+  {
+    "Name": "scary painting",
+    "Filename": "FtrArtOotaniOniji",
+    "Internal ID": 66,
+    "Unique Entry ID": "mPutXzCMyFowYqPHu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Scary_Painting"
+  },
+  {
+    "Name": "scary painting",
+    "Filename": "FtrArtOotaniOnijiFake",
+    "Internal ID": 65,
+    "Unique Entry ID": "xfEX3LgBZxdy8cWnv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Scary_Painting"
+  },
+  {
+    "Name": "scenic painting",
+    "Filename": "FtrArtHunterSnow",
+    "Internal ID": 2,
+    "Unique Entry ID": "9zdd3tRyrgvHg7MHR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Scenic_Painting"
+  },
+  {
+    "Name": "scenic painting",
+    "Filename": "FtrArtHunterSnowFake",
+    "Internal ID": 12629,
+    "Unique Entry ID": "xXvgi6GY62Kiy7ZPc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Scenic_Painting"
+  },
+  {
+    "Name": "serene painting",
+    "Filename": "FtrArtPortraitCecilia",
+    "Internal ID": 24,
+    "Unique Entry ID": "xWDYCn59iCuXXFYCa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Serene_Painting"
+  },
+  {
+    "Name": "serene painting",
+    "Filename": "FtrArtPortraitCeciliaFake",
+    "Internal ID": 23,
+    "Unique Entry ID": "DAFG5byhuAns7SeNJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Serene_Painting"
+  },
+  {
+    "Name": "sinking painting",
+    "Filename": "FtrArtOphelia",
+    "Internal ID": 12621,
+    "Unique Entry ID": "7ku7mD4CEkRPAfvgf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Sinking_Painting"
+  },
+  {
+    "Name": "solemn painting",
+    "Filename": "FtrArtLasMeninas",
+    "Internal ID": 72,
+    "Unique Entry ID": "Rdxe9rejLcZB9FPPj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Solemn_Painting"
+  },
+  {
+    "Name": "solemn painting",
+    "Filename": "FtrArtLasMeninasFake",
+    "Internal ID": 71,
+    "Unique Entry ID": "nk6zayAkJFzinuKDK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Solemn_Painting"
+  },
+  {
+    "Name": "tremendous statue",
+    "Filename": "FtrSculptureHoumuwuDing",
+    "Internal ID": 12537,
+    "Unique Entry ID": "jNGr7gorm7HSW3saj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Tremendous_Statue"
+  },
+  {
+    "Name": "tremendous statue",
+    "Filename": "FtrSculptureHoumuwuDingFake",
+    "Internal ID": 12538,
+    "Unique Entry ID": "JixcFeWLnkcAy7rnu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Tremendous_Statue"
+  },
+  {
+    "Name": "twinkling painting",
+    "Filename": "FtrArtStarryNight",
+    "Internal ID": 12618,
+    "Unique Entry ID": "vd2Naaf6TREFTQsdy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Twinkling_Painting"
+  },
+  {
+    "Name": "valiant statue",
+    "Filename": "FtrSculptureSamothrace",
+    "Internal ID": 1345,
+    "Unique Entry ID": "stPbtNz5bpPCb3eRy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Valiant_Statue"
+  },
+  {
+    "Name": "valiant statue",
+    "Filename": "FtrSculptureSamothraceFake",
+    "Internal ID": 1346,
+    "Unique Entry ID": "FWFGsBRxrdnE4RSXa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Valiant_Statue"
+  },
+  {
+    "Name": "warm painting",
+    "Filename": "FtrArtClothedMaja",
+    "Internal ID": 34,
+    "Unique Entry ID": "SD7NXc97t2b4f74xi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Warm_Painting"
+  },
+  {
+    "Name": "warrior statue",
+    "Filename": "FtrSculptureHeibayo",
+    "Internal ID": 12539,
+    "Unique Entry ID": "5ZWqwpgKjNRGgT44E",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Warrior_Statue"
+  },
+  {
+    "Name": "warrior statue",
+    "Filename": "FtrSculptureHeibayoFake",
+    "Internal ID": 12540,
+    "Unique Entry ID": "phB8tH4gdSYwq48Gs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Warrior_Statue"
+  },
+  {
+    "Name": "wild painting left half",
+    "Filename": "FtrArtRaijin",
+    "Internal ID": 12570,
+    "Unique Entry ID": "hMQkJiQG5cNGQxKCE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Wild_Painting"
+  },
+  {
+    "Name": "wild painting left half",
+    "Filename": "FtrArtRaijinFake",
+    "Internal ID": 12571,
+    "Unique Entry ID": "E9szuomHevSfq8yY3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Wild_Painting"
+  },
+  {
+    "Name": "wild painting right half",
+    "Filename": "FtrArtFuujin",
+    "Internal ID": 76,
+    "Unique Entry ID": "rcXt6qMXZh9jj4ojN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Wild_Painting"
+  },
+  {
+    "Name": "wild painting right half",
+    "Filename": "FtrArtFuujinFake",
+    "Internal ID": 75,
+    "Unique Entry ID": "aKefsi2sySXJkzPLo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Wild_Painting"
+  },
+  {
+    "Name": "wistful painting",
+    "Filename": "FtrArtPearlEarring",
+    "Internal ID": 28,
+    "Unique Entry ID": "Mupx2ny4sM3Kbfs3v",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Wistful_Painting"
+  },
+  {
+    "Name": "wistful painting",
+    "Filename": "FtrArtPearlEarringFake",
+    "Internal ID": 27,
+    "Unique Entry ID": "c7zw6f8Dbe5h9oJni",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Wistful_Painting"
+  },
+  {
+    "Name": "worthy painting",
+    "Filename": "FtrArtLibertyLeading",
+    "Internal ID": 68,
+    "Unique Entry ID": "8R3LhTWJzqHmPPPvK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Worthy_Painting"
+  }
+]

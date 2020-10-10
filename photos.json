@@ -1,0 +1,2348 @@
+[
+  {
+    "Name": "Admiral's photo",
+    "Internal ID": 6626,
+    "Unique Entry ID": "QPR5b8GPW4TpNDErv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Admiral's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Agent S's photo",
+    "Internal ID": 6709,
+    "Unique Entry ID": "ajFvDMZMfMgAgcpk8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Agent_S's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Agnes's photo",
+    "Internal ID": 6661,
+    "Unique Entry ID": "Y9TFv46iQHZu2zFZd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Agnes's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Al's photo",
+    "Internal ID": 6518,
+    "Unique Entry ID": "fgXqHQkbNynr4dHSj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Al's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Alfonso's photo",
+    "Internal ID": 6800,
+    "Unique Entry ID": "sHeBWxocuJwBwwsX9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Alfonso's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Alice's photo",
+    "Internal ID": 6555,
+    "Unique Entry ID": "gZp2fontkZDvuszMd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Alice's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Alli's photo",
+    "Internal ID": 6801,
+    "Unique Entry ID": "Bc29TDiDwZcmkH4vF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Alli's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Amelia's photo",
+    "Internal ID": 6621,
+    "Unique Entry ID": "JSxiKWLGAnnqxmDhs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Amelia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Anabelle's photo",
+    "Internal ID": 6743,
+    "Unique Entry ID": "LT7496qvy6dDvgGkY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Anabelle's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Anchovy's photo",
+    "Internal ID": 6582,
+    "Unique Entry ID": "hpLFGZgWJsbaseuBc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Anchovy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Angus's photo",
+    "Internal ID": 6704,
+    "Unique Entry ID": "bWYmPSadFcLqxGxcS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Angus's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Anicotti's photo",
+    "Internal ID": 6598,
+    "Unique Entry ID": "pffn93KpfJ7mNmFAN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Anicotti's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ankha's photo",
+    "Internal ID": 6766,
+    "Unique Entry ID": "wanh7QBD9ojePXr6R",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ankha's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Annalisa's photo",
+    "Internal ID": 6765,
+    "Unique Entry ID": "QdJTerAbMDgHtmpSo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Annalisa's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Annalise's photo",
+    "Internal ID": 6548,
+    "Unique Entry ID": "Aj5vy8sBd4MG69QQo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Annalise's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Antonio's photo",
+    "Internal ID": 6537,
+    "Unique Entry ID": "whr8GRsLLoRddENk5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Antonio's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Apollo's photo",
+    "Internal ID": 6620,
+    "Unique Entry ID": "axikJmFQgsY2bybAw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Apollo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Apple's photo",
+    "Internal ID": 6522,
+    "Unique Entry ID": "7yfYWZeQ93ET7uuRv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Apple's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Astrid's photo",
+    "Internal ID": 6567,
+    "Unique Entry ID": "ESu425ZBbfPZJzJcC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Astrid's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Audie's photo",
+    "Internal ID": 6994,
+    "Unique Entry ID": "ZqocuXSDskeRzDHMi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Audie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Aurora's photo",
+    "Internal ID": 6630,
+    "Unique Entry ID": "H9JJ9yx4pZCN4eZWE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Aurora's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ava's photo",
+    "Internal ID": 6789,
+    "Unique Entry ID": "M2wuwD3ZwZAwsyzYD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ava's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Avery's photo",
+    "Internal ID": 6624,
+    "Unique Entry ID": "A9vMmJuzRBaEEvuj4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Avery's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Axel's photo",
+    "Internal ID": 6479,
+    "Unique Entry ID": "M4vEjWAhc3TNaMz4Q",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Axel's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Baabara's photo",
+    "Internal ID": 6691,
+    "Unique Entry ID": "KfgNp2KkZGqc5f8zD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Baabara's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bam's photo",
+    "Internal ID": 6808,
+    "Unique Entry ID": "vJDFtBiyFE5JZEft7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bam's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bangle's photo",
+    "Internal ID": 6727,
+    "Unique Entry ID": "bqW3bzcigETEwsYvk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bangle's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Barold's photo",
+    "Internal ID": 6783,
+    "Unique Entry ID": "hm74TZ3dwwBwNnvrw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Barold's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bea's photo",
+    "Internal ID": 6447,
+    "Unique Entry ID": "9haSdGSkr55GgsapM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bea's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Beardo's photo",
+    "Internal ID": 6538,
+    "Unique Entry ID": "3CSN78o6M4G8DwGvy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beardo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Beau's photo",
+    "Internal ID": 6433,
+    "Unique Entry ID": "ZATuBav2Tus7sdh8e",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Beau's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Becky's photo",
+    "Internal ID": 6790,
+    "Unique Entry ID": "gJahzCvoTR7ARW2sy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Becky's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bella's photo",
+    "Internal ID": 6591,
+    "Unique Entry ID": "7i3Sr98wyvSC3vMMN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bella's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Benedict's photo",
+    "Internal ID": 6786,
+    "Unique Entry ID": "ZEGcGMYPPdsSzEaMm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Benedict's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Benjamin's photo",
+    "Internal ID": 6451,
+    "Unique Entry ID": "P8WmvDBN548ECj6qv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Benjamin's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bertha's photo",
+    "Internal ID": 6532,
+    "Unique Entry ID": "9D4wnhq6FNiuTN5iS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bertha's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bettina's photo",
+    "Internal ID": 6601,
+    "Unique Entry ID": "5B2ixkNi8yqKdv8FK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bettina's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bianca's photo",
+    "Internal ID": 6730,
+    "Unique Entry ID": "7tnDg86smRTQk7FCx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bianca's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Biff's photo",
+    "Internal ID": 6533,
+    "Unique Entry ID": "bPAT3zDKRsLRJP9Bb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Biff's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Big Top's photo",
+    "Internal ID": 6475,
+    "Unique Entry ID": "4whisRfxKcKhT24oR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Big_Top's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bill's photo",
+    "Internal ID": 6454,
+    "Unique Entry ID": "NfpoZkaZ2sqz9YnMW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bill's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Billy's photo",
+    "Internal ID": 6506,
+    "Unique Entry ID": "G37MhvZgu9Wo5dP53",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Billy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Biskit's photo",
+    "Internal ID": 6440,
+    "Unique Entry ID": "iLFmPM4yMHyqaKrmS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Biskit's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bitty's photo",
+    "Internal ID": 6534,
+    "Unique Entry ID": "M3uaCjaMYXrWFs8oE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bitty's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Blaire's photo",
+    "Internal ID": 6705,
+    "Unique Entry ID": "SnPPjxraEpBmvbfGi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blaire's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Blanche's photo",
+    "Internal ID": 6617,
+    "Unique Entry ID": "uXp5jF6RBJrnSgWxz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Blanche's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bluebear's photo",
+    "Internal ID": 6769,
+    "Unique Entry ID": "Fc4fH7EtaFk82e5XL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bluebear's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bob's photo",
+    "Internal ID": 6745,
+    "Unique Entry ID": "WXjsZTnaGxwLw3ooF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bob's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bonbon's photo",
+    "Internal ID": 6680,
+    "Unique Entry ID": "5QkgCjcovEca2vybJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bonbon's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bones's photo",
+    "Internal ID": 6441,
+    "Unique Entry ID": "jr87kjzTZQPnCamPw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bones's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Boomer's photo",
+    "Internal ID": 6639,
+    "Unique Entry ID": "DgjWke4FgaREhESyh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Boomer's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Boone's photo",
+    "Internal ID": 6513,
+    "Unique Entry ID": "3yzpZJkBKThsce23s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Boone's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Boots's photo",
+    "Internal ID": 6802,
+    "Unique Entry ID": "qX6BakcExTHMh6g3S",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Boots's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Boris's photo",
+    "Internal ID": 6653,
+    "Unique Entry ID": "PvA2qap8YZzahoRph",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Boris's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Boyd's photo",
+    "Internal ID": 6516,
+    "Unique Entry ID": "jcjJqbJa9wERH4nhq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Boyd's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bree's photo",
+    "Internal ID": 6592,
+    "Unique Entry ID": "6StdfA4GAN6ArL543",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bree's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Broccolo's photo",
+    "Internal ID": 6599,
+    "Unique Entry ID": "orxpokmrJvs9vJYKt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Broccolo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Broffina's photo",
+    "Internal ID": 6793,
+    "Unique Entry ID": "DNtbGyxxDGujDWcx4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Broffina's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bruce's photo",
+    "Internal ID": 6429,
+    "Unique Entry ID": "zFnqcPx9fjXkkGzTL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bruce's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bubbles's photo",
+    "Internal ID": 6531,
+    "Unique Entry ID": "PKScRzhJTCXWcBNBF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bubbles's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Buck's photo",
+    "Internal ID": 6539,
+    "Unique Entry ID": "iXQkcdHDoc4eq74aZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Buck's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bud's photo",
+    "Internal ID": 6573,
+    "Unique Entry ID": "GKZcr6ZJX5X6PjmD7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bud's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Bunnie's photo",
+    "Internal ID": 6662,
+    "Unique Entry ID": "2xAznvHfTFgN2MbvQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Bunnie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Butch's photo",
+    "Internal ID": 6437,
+    "Unique Entry ID": "YXg8P9MWMzoexMKnB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Butch's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Buzz's photo",
+    "Internal ID": 6623,
+    "Unique Entry ID": "HkgCAPz5mZhZJusSe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Buzz's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cally's photo",
+    "Internal ID": 6716,
+    "Unique Entry ID": "jmk9thhYqHXyiCET9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cally's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Camofrog's photo",
+    "Internal ID": 6487,
+    "Unique Entry ID": "k6viw9upbxHpMssHK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Camofrog's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Canberra's photo",
+    "Internal ID": 6561,
+    "Unique Entry ID": "jSTvWFBPGMb7yhuPR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Canberra's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Candi's photo",
+    "Internal ID": 6596,
+    "Unique Entry ID": "CctQ5wRib5v8YHkyi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Candi's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Carmen's photo",
+    "Internal ID": 6679,
+    "Unique Entry ID": "HZLPmrnY9u9rNKP46",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Carmen's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Caroline's photo",
+    "Internal ID": 6710,
+    "Unique Entry ID": "C6KYa7FugQE2Tzjcf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Caroline's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Carrie's photo",
+    "Internal ID": 6566,
+    "Unique Entry ID": "t94crZz5r3ysXWEz2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Carrie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cashmere's photo",
+    "Internal ID": 6695,
+    "Unique Entry ID": "RdPEA9g4yjXjkvDmL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cashmere's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Celia's photo",
+    "Internal ID": 6629,
+    "Unique Entry ID": "SHrxuw8Sti9G465mz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Celia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cesar's photo",
+    "Internal ID": 6511,
+    "Unique Entry ID": "ksPvCiJqTJme5mqgN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cesar's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Chadder's photo",
+    "Internal ID": 6605,
+    "Unique Entry ID": "mJsBL4vhHggysJfJQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chadder's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Charlise's photo",
+    "Internal ID": 6526,
+    "Unique Entry ID": "2BFmMncrPW5oioJ8f",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Charlise's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cheri's photo",
+    "Internal ID": 6779,
+    "Unique Entry ID": "GakcAoKrPFdXkmsCp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cheri's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cherry's photo",
+    "Internal ID": 6452,
+    "Unique Entry ID": "Q3iPbiYCGRyByJdey",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cherry's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Chester's photo",
+    "Internal ID": 6782,
+    "Unique Entry ID": "MzS8dYRX43G8xdEEu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chester's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Chevre's photo",
+    "Internal ID": 6503,
+    "Unique Entry ID": "WsZubKxsA4u93N4LE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chevre's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Chief's photo",
+    "Internal ID": 6731,
+    "Unique Entry ID": "pNNgnAJmhgmb7Wdfw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chief's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Chops's photo",
+    "Internal ID": 6657,
+    "Unique Entry ID": "4Ff9zEkg3AxtAPjs9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chops's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Chow's photo",
+    "Internal ID": 6438,
+    "Unique Entry ID": "WoystyWx6sJscjrHx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chow's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Chrissy's photo",
+    "Internal ID": 6676,
+    "Unique Entry ID": "FM8oegQKWkLtwy7hv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Chrissy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Claude's photo",
+    "Internal ID": 6674,
+    "Unique Entry ID": "XyW5SWJwSMv8zojLk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Claude's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Claudia's photo",
+    "Internal ID": 6729,
+    "Unique Entry ID": "J45Me6Dzso3Ln59zQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Claudia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Clay's photo",
+    "Internal ID": 6527,
+    "Unique Entry ID": "kGDzqnCpMksr9fMT5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Clay's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cleo's photo",
+    "Internal ID": 6546,
+    "Unique Entry ID": "gxJqs6CPfde3w2qrM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cleo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Clyde's photo",
+    "Internal ID": 6550,
+    "Unique Entry ID": "QKsJtxAJy9sctQs5p",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Clyde's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Coach's photo",
+    "Internal ID": 6742,
+    "Unique Entry ID": "jbLAXY6p6azRaCJGF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Coach's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cobb's photo",
+    "Internal ID": 6652,
+    "Unique Entry ID": "BQ94PsJLjQJa7DBPy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cobb's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Coco's photo",
+    "Internal ID": 6664,
+    "Unique Entry ID": "d4WWiydrvivQYjRJT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Coco's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cole's photo",
+    "Internal ID": 6681,
+    "Unique Entry ID": "jyLQSJLZrzvpggFTp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cole's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Colton's photo",
+    "Internal ID": 6551,
+    "Unique Entry ID": "M6BKXupsei8rCdCiX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Colton's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cookie's photo",
+    "Internal ID": 6445,
+    "Unique Entry ID": "aJA8aiZbgG4hq8kAa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cookie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cousteau's photo",
+    "Internal ID": 6494,
+    "Unique Entry ID": "kEXLoAoxHFEusYcPR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cousteau's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cranston's photo",
+    "Internal ID": 6614,
+    "Unique Entry ID": "f8G49TwHjKgdWenax",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cranston's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Croque's photo",
+    "Internal ID": 6500,
+    "Unique Entry ID": "CjLqDbWnP4zGiQMW4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Croque's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cube's photo",
+    "Internal ID": 6632,
+    "Unique Entry ID": "KmaKc9atf2bRQYXkr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cube's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Curlos's photo",
+    "Internal ID": 6697,
+    "Unique Entry ID": "9ivgRcADfC7gBEFnh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Curlos's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Curly's photo",
+    "Internal ID": 6644,
+    "Unique Entry ID": "3JzkDEAJu5xAzbc7L",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Curly's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Curt's photo",
+    "Internal ID": 6427,
+    "Unique Entry ID": "xPshZbWGceYiigiP4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Curt's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cyd's photo",
+    "Internal ID": 6997,
+    "Unique Entry ID": "AXq6zKAKPYGerJ8g8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyd's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Cyrano's photo",
+    "Internal ID": 6426,
+    "Unique Entry ID": "xgTPMqhdFEpfX6w2L",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Cyrano's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Daisy's photo",
+    "Internal ID": 6444,
+    "Unique Entry ID": "wvCE2WAjXDuf2zHxf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Daisy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Deena's photo",
+    "Internal ID": 6458,
+    "Unique Entry ID": "isd7HarJQLDX5Wbgx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Deena's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Deirdre's photo",
+    "Internal ID": 6430,
+    "Unique Entry ID": "E5kbbEkjtSGDgyrkR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Deirdre's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Del's photo",
+    "Internal ID": 6803,
+    "Unique Entry ID": "bgwwQWmgzBe6ZNbPP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Del's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Deli's photo",
+    "Internal ID": 6588,
+    "Unique Entry ID": "bbWPikJKZPuWMkG3W",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Deli's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Derwin's photo",
+    "Internal ID": 6463,
+    "Unique Entry ID": "MMnFmnkz2EdkaQYfn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Derwin's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Diana's photo",
+    "Internal ID": 6434,
+    "Unique Entry ID": "NPdgDo3zdpXDgjJzM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Diana's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Diva's photo",
+    "Internal ID": 6501,
+    "Unique Entry ID": "CucY6mcFEcvKz64d8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Diva's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Dizzy's photo",
+    "Internal ID": 6474,
+    "Unique Entry ID": "45FJqWdtzKqDofwAm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dizzy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Dobie's photo",
+    "Internal ID": 6735,
+    "Unique Entry ID": "9p7whygq2M5pZZAsq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dobie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Doc's photo",
+    "Internal ID": 6673,
+    "Unique Entry ID": "a3TaWtDfFmegaPnx7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Doc's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Dom's photo",
+    "Internal ID": 7213,
+    "Unique Entry ID": "j7gnmRfdePza4nScM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dom's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Dora's photo",
+    "Internal ID": 6589,
+    "Unique Entry ID": "XJRAs6F9BbhzY2ZfZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dora's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Dotty's photo",
+    "Internal ID": 6663,
+    "Unique Entry ID": "6DLTLyq5YkLdLo3KK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Dotty's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Drago's photo",
+    "Internal ID": 6806,
+    "Unique Entry ID": "mGBsDnqrLuD4GBTeQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Drago's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Drake's photo",
+    "Internal ID": 6464,
+    "Unique Entry ID": "7TLvHnGJHcTQb8Gdd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Drake's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Drift's photo",
+    "Internal ID": 6488,
+    "Unique Entry ID": "hrLBq7meWW2uaPWgJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Drift's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ed's photo",
+    "Internal ID": 6545,
+    "Unique Entry ID": "ZAY4rAAK4x9yLB39Z",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ed's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Egbert's photo",
+    "Internal ID": 6788,
+    "Unique Entry ID": "Sxum7siva5r5PYWXe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Egbert's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Elise's photo",
+    "Internal ID": 6585,
+    "Unique Entry ID": "E2MyoC6NseDQQKNP7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elise's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ellie's photo",
+    "Internal ID": 6480,
+    "Unique Entry ID": "vaq8KR97bby7ZAnjh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ellie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Elmer's photo",
+    "Internal ID": 6542,
+    "Unique Entry ID": "FR53M4vJTSYjDfphY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elmer's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Eloise's photo",
+    "Internal ID": 6476,
+    "Unique Entry ID": "EvtXRRPDb774LzBvX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eloise's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Elvis's photo",
+    "Internal ID": 6574,
+    "Unique Entry ID": "AQ8JGKe8AudRQtMqe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Elvis's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Erik's photo",
+    "Internal ID": 6435,
+    "Unique Entry ID": "iNSLwtM2JZWHixprQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Erik's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Eugene's photo",
+    "Internal ID": 6563,
+    "Unique Entry ID": "6S8poZ23SaTiEbEkz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eugene's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Eunice's photo",
+    "Internal ID": 6692,
+    "Unique Entry ID": "ALFRzJKNBryfC7hdN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Eunice's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Fang's photo",
+    "Internal ID": 6738,
+    "Unique Entry ID": "YBqvKMfvHkPrY7rPP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fang's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Fauna's photo",
+    "Internal ID": 6807,
+    "Unique Entry ID": "kwYp2hqweRv8LEv3D",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fauna's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Felicity's photo",
+    "Internal ID": 6763,
+    "Unique Entry ID": "3pwpQLkFnWtKccZYf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Felicity's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Filbert's photo",
+    "Internal ID": 6706,
+    "Unique Entry ID": "KbAjhSct8CMXeujiw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Filbert's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Flip's photo",
+    "Internal ID": 6586,
+    "Unique Entry ID": "emLthDEXzP9xDBZXY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flip's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Flo's photo",
+    "Internal ID": 6642,
+    "Unique Entry ID": "jSfRAbSrhhg6nbN6w",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Flora's photo",
+    "Internal ID": 6618,
+    "Unique Entry ID": "5LzNSsKF4RMNJfF7k",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flora's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Flurry's photo",
+    "Internal ID": 6528,
+    "Unique Entry ID": "82za8YFKpAs7B7rbt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Flurry's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Francine's photo",
+    "Internal ID": 6675,
+    "Unique Entry ID": "YF2hBywARyaFNS2wx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Francine's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Frank's photo",
+    "Internal ID": 6625,
+    "Unique Entry ID": "6E2NZkzQ7qB2DDGYX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Frank's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Freckles's photo",
+    "Internal ID": 6462,
+    "Unique Entry ID": "EtA9Kbv9HYi8iCHc8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Freckles's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Freya's photo",
+    "Internal ID": 6736,
+    "Unique Entry ID": "Fu9nwRfWxBMxjMGbT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Freya's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Friga's photo",
+    "Internal ID": 6634,
+    "Unique Entry ID": "4DxhyzzTXRFLDDrcG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Friga's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Frita's photo",
+    "Internal ID": 6700,
+    "Unique Entry ID": "LLwQMxds7TQLiaEhd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Frita's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Frobert's photo",
+    "Internal ID": 6486,
+    "Unique Entry ID": "jWZWWYNPBbnNpNdTh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Frobert's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Fuchsia's photo",
+    "Internal ID": 6432,
+    "Unique Entry ID": "Pitoep9EWXNfkYTiW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Fuchsia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gabi's photo",
+    "Internal ID": 6667,
+    "Unique Entry ID": "Jwsy23vXZazx8jieB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gabi's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gala's photo",
+    "Internal ID": 6656,
+    "Unique Entry ID": "xGQEXSc7LrjZtcXGS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gala's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gaston's photo",
+    "Internal ID": 6666,
+    "Unique Entry ID": "cxczWPY599HrQu7zF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gaston's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gayle's photo",
+    "Internal ID": 6805,
+    "Unique Entry ID": "a6n8tAfMx7C3GPcoa",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gayle's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Genji's photo",
+    "Internal ID": 6670,
+    "Unique Entry ID": "75zDSwS62nCjtA4hj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Genji's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gigi's photo",
+    "Internal ID": 6499,
+    "Unique Entry ID": "AvWauoYJvoAusAtDE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gigi's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gladys's photo",
+    "Internal ID": 6610,
+    "Unique Entry ID": "y9nJadSz2BkJTyaot",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gladys's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gloria's photo",
+    "Internal ID": 6469,
+    "Unique Entry ID": "RqEjiFfHvGH2yz3CK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gloria's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Goldie's photo",
+    "Internal ID": 6436,
+    "Unique Entry ID": "enkxzwbtBYgjTssZM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goldie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gonzo's photo",
+    "Internal ID": 6558,
+    "Unique Entry ID": "2zq4Gp2NdYmWJsvrm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gonzo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Goose's photo",
+    "Internal ID": 6785,
+    "Unique Entry ID": "qyZTFW6TdQriy2yio",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Goose's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Graham's photo",
+    "Internal ID": 6523,
+    "Unique Entry ID": "GcE3FMqcGoM4zui8p",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Graham's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Greta's photo",
+    "Internal ID": 6602,
+    "Unique Entry ID": "5YRtbZoZvXieqaaHN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Greta's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Grizzly's photo",
+    "Internal ID": 6493,
+    "Unique Entry ID": "6pCjuQ2EQAB8SRPra",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Grizzly's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Groucho's photo",
+    "Internal ID": 6460,
+    "Unique Entry ID": "CACbxCcsiLpHK6mqY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Groucho's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gruff's photo",
+    "Internal ID": 6507,
+    "Unique Entry ID": "E8Gm2WvXuw4CeQeXu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gruff's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Gwen's photo",
+    "Internal ID": 6635,
+    "Unique Entry ID": "BrtttK7eByGfdgBn3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Gwen's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hamlet's photo",
+    "Internal ID": 6521,
+    "Unique Entry ID": "j3npvCMgm27zwzpzM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hamlet's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hamphrey's photo",
+    "Internal ID": 6529,
+    "Unique Entry ID": "9nBsstgoQzd8Rg97B",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hamphrey's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hans's photo",
+    "Internal ID": 6520,
+    "Unique Entry ID": "Qbr9pFxCkZsLpeHCn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hans's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Harry's photo",
+    "Internal ID": 6535,
+    "Unique Entry ID": "mPHyAjD2LvF3Kz6pn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Harry's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hazel's photo",
+    "Internal ID": 6722,
+    "Unique Entry ID": "NcodreDPuEYsTiY9D",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hazel's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Henry's photo",
+    "Internal ID": 6502,
+    "Unique Entry ID": "73FLY5o6D9c7zWh5s",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Henry's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hippeux's photo",
+    "Internal ID": 6536,
+    "Unique Entry ID": "vLPt8a4rgwDYn85fT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hippeux's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hopkins's photo",
+    "Internal ID": 6677,
+    "Unique Entry ID": "WPaRcNLLx7RBMbjp8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hopkins's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hopper's photo",
+    "Internal ID": 6633,
+    "Unique Entry ID": "CwPhNbCJ6ka6AS5zK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hopper's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hornsby's photo",
+    "Internal ID": 6687,
+    "Unique Entry ID": "wrzLfigpsA3Aa7QSF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hornsby's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Huck's photo",
+    "Internal ID": 6495,
+    "Unique Entry ID": "hmDu2HtCBtE3fDWop",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Huck's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Hugh's photo",
+    "Internal ID": 6647,
+    "Unique Entry ID": "Cg28u2qtxuiAZA9iD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Hugh's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Iggly's photo",
+    "Internal ID": 6640,
+    "Unique Entry ID": "pqypJJm8oex4qt6gW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Iggly's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ike's photo",
+    "Internal ID": 6515,
+    "Unique Entry ID": "FKFdCHZJX7TmyjtNp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ike's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Jacob's photo",
+    "Internal ID": 6649,
+    "Unique Entry ID": "KA2MEBXZhPxdaH64t",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jacob's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Jacques's photo",
+    "Internal ID": 6671,
+    "Unique Entry ID": "uAobwmHF8KXjBHBbf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jacques's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Jambette's photo",
+    "Internal ID": 6497,
+    "Unique Entry ID": "vuxcoFW3p5BA39MDe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jambette's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Jay's photo",
+    "Internal ID": 6560,
+    "Unique Entry ID": "r7tWQF5D7M9S34QLu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jay's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Jeremiah's photo",
+    "Internal ID": 6491,
+    "Unique Entry ID": "6zZNxSJaC7EfN9fwn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jeremiah's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Jitters's photo",
+    "Internal ID": 6604,
+    "Unique Entry ID": "atHaa2pq7f6h8tHZi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Jitters's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Joey's photo",
+    "Internal ID": 6455,
+    "Unique Entry ID": "xMCAt97gC5Aw9WDQq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Joey's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Judy's photo",
+    "Internal ID": 6993,
+    "Unique Entry ID": "y4nproADi56mN6hyA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Judy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Julia's photo",
+    "Internal ID": 6613,
+    "Unique Entry ID": "J3ThxmQCySevi6Gdt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Julia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Julian's photo",
+    "Internal ID": 6553,
+    "Unique Entry ID": "h6qzBSRGQKr383rd3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Julian's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "June's photo",
+    "Internal ID": 6780,
+    "Unique Entry ID": "3mqyRZFHhDTCZGtEM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:June's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kabuki's photo",
+    "Internal ID": 6755,
+    "Unique Entry ID": "5oXaTgdHoBTpX7QLp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kabuki's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Katt's photo",
+    "Internal ID": 6768,
+    "Unique Entry ID": "Ravm59sNYoZi6GMuw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Katt's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Keaton's photo",
+    "Internal ID": 6628,
+    "Unique Entry ID": "hMbyDoYT4XYmNy3qh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Keaton's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ken's photo",
+    "Internal ID": 6794,
+    "Unique Entry ID": "oykSRZ323prGH7twq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ken's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ketchup's photo",
+    "Internal ID": 6468,
+    "Unique Entry ID": "DEh87pMEBR2359hXo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ketchup's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kevin's photo",
+    "Internal ID": 6658,
+    "Unique Entry ID": "pXnsLFFui7wj3TycA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kevin's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kid Cat's photo",
+    "Internal ID": 6756,
+    "Unique Entry ID": "bdHqhab4L3ihZEoLP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kid_Cat's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kidd's photo",
+    "Internal ID": 6509,
+    "Unique Entry ID": "hwAJWTJMDzS8Tkbu3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kidd's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kiki's photo",
+    "Internal ID": 6749,
+    "Unique Entry ID": "ZvoEkvtnqGPMYGhan",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kiki's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kitt's photo",
+    "Internal ID": 6564,
+    "Unique Entry ID": "DBYx9W8EqcH2wYaiY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kitt's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kitty's photo",
+    "Internal ID": 6760,
+    "Unique Entry ID": "rTq4YcMqgndy2fJiG",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kitty's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Klaus's photo",
+    "Internal ID": 6549,
+    "Unique Entry ID": "WTbxDCywSzbnESepd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Klaus's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Knox's photo",
+    "Internal ID": 6792,
+    "Unique Entry ID": "W77WFu7p56HXxw5e3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Knox's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kody's photo",
+    "Internal ID": 6773,
+    "Unique Entry ID": "v3Coh2NeYY669HwAb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kody's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Kyle's photo",
+    "Internal ID": 6741,
+    "Unique Entry ID": "txDJBamxJ2CxMKofJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Kyle's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Leonardo's photo",
+    "Internal ID": 6728,
+    "Unique Entry ID": "qFFziATmGYWFmZhQS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leonardo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Leopold's photo",
+    "Internal ID": 6576,
+    "Unique Entry ID": "h9ugDqSofsXzE3GsE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Leopold's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lily's photo",
+    "Internal ID": 6484,
+    "Unique Entry ID": "7YrF9jMASukQvjC8d",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lily's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Limberg's photo",
+    "Internal ID": 6590,
+    "Unique Entry ID": "kkiTJmjcfNZo6d3dg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Limberg's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lionel's photo",
+    "Internal ID": 6579,
+    "Unique Entry ID": "GHXPZuX3RDffKWKZe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lionel's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lobo's photo",
+    "Internal ID": 6732,
+    "Unique Entry ID": "kBfuKHxbpcJBeuzFP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lobo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lolly's photo",
+    "Internal ID": 6764,
+    "Unique Entry ID": "853g6k8TMvcxJy9yh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lolly's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lopez's photo",
+    "Internal ID": 6431,
+    "Unique Entry ID": "ekdPL58ATi9JGq6fP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lopez's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Louie's photo",
+    "Internal ID": 6514,
+    "Unique Entry ID": "ghwA6xx7DksqgWJsP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Louie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lucha's photo",
+    "Internal ID": 6660,
+    "Unique Entry ID": "EQQSfMvYuni4cCawj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lucha's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lucky's photo",
+    "Internal ID": 6439,
+    "Unique Entry ID": "X9qCK4T2bnAzZbcdC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lucky's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lucy's photo",
+    "Internal ID": 6650,
+    "Unique Entry ID": "jFWgGwoc2vpYkyLCq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lucy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Lyman's photo",
+    "Internal ID": 6562,
+    "Unique Entry ID": "gM4MuznaHNy6toeSr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Lyman's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Mac's photo",
+    "Internal ID": 6448,
+    "Unique Entry ID": "8jWJNpP4T3GPHonN7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mac's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Maddie's photo",
+    "Internal ID": 6446,
+    "Unique Entry ID": "xo5CGaAhRJTv2tmuB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Maddie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Maelle's photo",
+    "Internal ID": 6457,
+    "Unique Entry ID": "b2Pze9hoiNRxmgJZs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Maelle's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Maggie's photo",
+    "Internal ID": 6654,
+    "Unique Entry ID": "XqTbC58qXo6X5iH5P",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Maggie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Mallary's photo",
+    "Internal ID": 6461,
+    "Unique Entry ID": "9T3yJh6XWRo8Jxd9y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mallary's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Maple's photo",
+    "Internal ID": 6770,
+    "Unique Entry ID": "2FjS6FJLLxYTuiwyY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Maple's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Marcel's photo",
+    "Internal ID": 6450,
+    "Unique Entry ID": "Xas6BwzKss9hmrXe7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Marcel's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Marcie's photo",
+    "Internal ID": 6572,
+    "Unique Entry ID": "3vWPu73fj6QYrACbK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Marcie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Margie's photo",
+    "Internal ID": 6477,
+    "Unique Entry ID": "tK6GWBiubaArJ8tAf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Margie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Marina's photo",
+    "Internal ID": 6607,
+    "Unique Entry ID": "M4vcdZzD5bzjKpDku",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Marina's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Marshal's photo",
+    "Internal ID": 6721,
+    "Unique Entry ID": "rqqg4iXuzfW2GPqGH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Marshal's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Mathilda's photo",
+    "Internal ID": 6565,
+    "Unique Entry ID": "LPmFTCRNXvGvTRnKC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mathilda's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Megan's photo",
+    "Internal ID": 6995,
+    "Unique Entry ID": "AnYcNfmkHutw5uvsH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Megan's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Melba's photo",
+    "Internal ID": 6556,
+    "Unique Entry ID": "hZoh39oKQ9AgaNQRd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Melba's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Merengue's photo",
+    "Internal ID": 6688,
+    "Unique Entry ID": "gir5X9pDKi56SKKTq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Merengue's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Merry's photo",
+    "Internal ID": 6762,
+    "Unique Entry ID": "rgMspfbEYr8JnAagM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Merry's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Midge's photo",
+    "Internal ID": 6637,
+    "Unique Entry ID": "L3GCGyuym8P5vxnn4",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Midge's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Mint's photo",
+    "Internal ID": 6713,
+    "Unique Entry ID": "TMbbPmJ6WtTHdAjXA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mint's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Mira's photo",
+    "Internal ID": 6683,
+    "Unique Entry ID": "fYWccWj7Y8xbSPdXD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mira's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Miranda's photo",
+    "Internal ID": 6467,
+    "Unique Entry ID": "aWZ4qFaGfzweQpCT8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Miranda's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Mitzi's photo",
+    "Internal ID": 6746,
+    "Unique Entry ID": "DycqAwyM2aZ2ph6hA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mitzi's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Moe's photo",
+    "Internal ID": 6753,
+    "Unique Entry ID": "scQC5LRA87DdPhEtz",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Moe's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Molly's photo",
+    "Internal ID": 6470,
+    "Unique Entry ID": "Y6peR5Yus9MGEZ7FT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Molly's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Monique's photo",
+    "Internal ID": 6757,
+    "Unique Entry ID": "vz5EzSbEyKfbHKQgN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monique's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Monty's photo",
+    "Internal ID": 6584,
+    "Unique Entry ID": "7pSbND2Yg346aFnfZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Monty's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Moose's photo",
+    "Internal ID": 6600,
+    "Unique Entry ID": "eTTfwWvzcoLpAbdN7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Moose's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Mott's photo",
+    "Internal ID": 6577,
+    "Unique Entry ID": "RMkqr3xQqJzjk3uNJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Mott's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Muffy's photo",
+    "Internal ID": 6701,
+    "Unique Entry ID": "gBXCR3KLGqFY27H9X",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Muffy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Murphy's photo",
+    "Internal ID": 6777,
+    "Unique Entry ID": "hEj3awWCn7q7YDpMi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Murphy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Nan's photo",
+    "Internal ID": 6505,
+    "Unique Entry ID": "yaSRc3A7X6s7aKLYR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nan's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Nana's photo",
+    "Internal ID": 6580,
+    "Unique Entry ID": "4R6ZM4yXPyjzEYDnb",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nana's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Naomi's photo",
+    "Internal ID": 6799,
+    "Unique Entry ID": "Jb8GZpkJkdKFmtrjp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Naomi's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Nate's photo",
+    "Internal ID": 6449,
+    "Unique Entry ID": "rdxhjaW5X9KqtkyWd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nate's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Nibbles's photo",
+    "Internal ID": 6708,
+    "Unique Entry ID": "CyyKqZ2RPgc48DcFY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Nibbles's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Norma's photo",
+    "Internal ID": 6797,
+    "Unique Entry ID": "oHFbmXrpoMN9uPyz8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Norma's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "O'Hare's photo",
+    "Internal ID": 6678,
+    "Unique Entry ID": "ST4c6rxCXRLkYttHK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:O'Hare's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Octavian's photo",
+    "Internal ID": 6606,
+    "Unique Entry ID": "csSdGEsxJ5RY4Z9j6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Octavian's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Olaf's photo",
+    "Internal ID": 6776,
+    "Unique Entry ID": "WgSvz9dGMj9v6eKde",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Olaf's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Olive's photo",
+    "Internal ID": 6778,
+    "Unique Entry ID": "nJ5f7isR789wZaEoX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Olive's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Olivia's photo",
+    "Internal ID": 6748,
+    "Unique Entry ID": "pz6hAiYWRHLjv3uSt",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Olivia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Opal's photo",
+    "Internal ID": 6473,
+    "Unique Entry ID": "sGryBuft7eNHX4MrP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Opal's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ozzie's photo",
+    "Internal ID": 6559,
+    "Unique Entry ID": "2S5o4C6fk8vGQN7RS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ozzie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pancetti's photo",
+    "Internal ID": 6659,
+    "Unique Entry ID": "aPWuWfwSyzHc4Y6R7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pancetti's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pango's photo",
+    "Internal ID": 6648,
+    "Unique Entry ID": "wNke7vCGvcuBBjK3Y",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pango's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Paolo's photo",
+    "Internal ID": 6478,
+    "Unique Entry ID": "kXJDgWboaLxnArvif",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paolo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Papi's photo",
+    "Internal ID": 6552,
+    "Unique Entry ID": "d28TGiHkTGcTwfhDk",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Papi's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pashmina's photo",
+    "Internal ID": 6510,
+    "Unique Entry ID": "8KS4XFc9jsx6nLQgY",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pashmina's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pate's photo",
+    "Internal ID": 6456,
+    "Unique Entry ID": "JK96et7QDqAchpwn3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pate's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Patty's photo",
+    "Internal ID": 6795,
+    "Unique Entry ID": "ELz3Ndsd8BswhpcRK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Patty's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Paula's photo",
+    "Internal ID": 6504,
+    "Unique Entry ID": "M4dfv5x9sqdK5e8pB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Paula's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Peaches's photo",
+    "Internal ID": 6547,
+    "Unique Entry ID": "wqWTvGQnHAoyCvqHN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peaches's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Peanut's photo",
+    "Internal ID": 6703,
+    "Unique Entry ID": "C6BJLMWbxg3FtJM9S",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peanut's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pecan's photo",
+    "Internal ID": 6707,
+    "Unique Entry ID": "d4Sdgj5QZnMwDz5WA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pecan's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Peck's photo",
+    "Internal ID": 6682,
+    "Unique Entry ID": "rNssisoEm5Sccw6Qf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peck's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Peewee's photo",
+    "Internal ID": 6512,
+    "Unique Entry ID": "a7gEQMYMrwptQd9Pn",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peewee's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Peggy's photo",
+    "Internal ID": 6655,
+    "Unique Entry ID": "WpnqKkYBNCC5SWWm9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Peggy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pekoe's photo",
+    "Internal ID": 6781,
+    "Unique Entry ID": "byLWBtfXLXLFks7n2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pekoe's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Penelope's photo",
+    "Internal ID": 6603,
+    "Unique Entry ID": "efpGxMb9HdNaLGvXc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Penelope's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Phil's photo",
+    "Internal ID": 6616,
+    "Unique Entry ID": "jcAqiij2g6uraAwgf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Phil's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Phoebe's photo",
+    "Internal ID": 6619,
+    "Unique Entry ID": "4Hrcu6gg3kJJAnBZg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Phoebe's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pierce's photo",
+    "Internal ID": 6622,
+    "Unique Entry ID": "sy5GZBbtpRxjQPFQR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pierce's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pietro's photo",
+    "Internal ID": 6702,
+    "Unique Entry ID": "RSfkkeKGuFsGd9Xnd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pietro's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pinky's photo",
+    "Internal ID": 6798,
+    "Unique Entry ID": "ZQQ4FvuAPhhjkMu4h",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pinky's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Piper's photo",
+    "Internal ID": 6615,
+    "Unique Entry ID": "bmMRgovYJjC6KkuK5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Piper's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pippy's photo",
+    "Internal ID": 6668,
+    "Unique Entry ID": "CmAHHXK6hyceueSYf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pippy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Plucky's photo",
+    "Internal ID": 6791,
+    "Unique Entry ID": "HgZRLMndwtnouAezK",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Plucky's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pompom's photo",
+    "Internal ID": 6459,
+    "Unique Entry ID": "hpfXj2TTobrhXsD87",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pompom's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Poncho's photo",
+    "Internal ID": 6771,
+    "Unique Entry ID": "tbHrfLQbxSDgrSfQE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Poncho's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Poppy's photo",
+    "Internal ID": 6719,
+    "Unique Entry ID": "iLfkfhxJfbMczg3Zs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Poppy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Portia's photo",
+    "Internal ID": 6442,
+    "Unique Entry ID": "FSmx8McPEhWrGhWR2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Portia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Prince's photo",
+    "Internal ID": 6496,
+    "Unique Entry ID": "yHfL9bB3viRx8Zajy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Prince's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Puck's photo",
+    "Internal ID": 6636,
+    "Unique Entry ID": "PAaDcenyMoC5BXCpe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Puck's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Puddles's photo",
+    "Internal ID": 6490,
+    "Unique Entry ID": "Qi7oaidBS8JnCDQuA",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Puddles's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Pudge's photo",
+    "Internal ID": 6772,
+    "Unique Entry ID": "JFDo6fYNQdtCaegGu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Pudge's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Punchy's photo",
+    "Internal ID": 6751,
+    "Unique Entry ID": "c3sc9wK3iwj5wt6zT",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Punchy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Purrl's photo",
+    "Internal ID": 6752,
+    "Unique Entry ID": "WCMNJZ9tWzZdqrrXc",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Purrl's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Queenie's photo",
+    "Internal ID": 6609,
+    "Unique Entry ID": "e7rTcGDornPHwzD53",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Queenie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Quillson's photo",
+    "Internal ID": 6472,
+    "Unique Entry ID": "7ZkYFDjf9Gp3FWNZh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Quillson's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Raddle's photo",
+    "Internal ID": 6498,
+    "Unique Entry ID": "6t6Hrwu4yWm3Czyix",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Raddle's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rasher's photo",
+    "Internal ID": 6646,
+    "Unique Entry ID": "jxwiMC2W5tF6YRuWp",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rasher's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Raymond's photo",
+    "Internal ID": 6996,
+    "Unique Entry ID": "vcqLeB6P8JpWpTw7e",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Raymond's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Renée's photo",
+    "Internal ID": 6689,
+    "Unique Entry ID": "54uc7Y63skrtpJKK6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Renée's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Reneigh's photo",
+    "Internal ID": 6992,
+    "Unique Entry ID": "8awaaNTx3gut8GfWF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Reneigh's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rex's photo",
+    "Internal ID": 6575,
+    "Unique Entry ID": "vQSgXHzddK7TisMev",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rex's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rhonda's photo",
+    "Internal ID": 6685,
+    "Unique Entry ID": "eAZJ2RYXZDJDRXyue",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rhonda's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ribbot's photo",
+    "Internal ID": 6485,
+    "Unique Entry ID": "s8E2JCLJR7WzrPfw7",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ribbot's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ricky's photo",
+    "Internal ID": 6714,
+    "Unique Entry ID": "dg3rSGie6HBY2y9dJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ricky's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rizzo's photo",
+    "Internal ID": 6597,
+    "Unique Entry ID": "NLHZvjFiX3dDhFwWP",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rizzo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Roald's photo",
+    "Internal ID": 6631,
+    "Unique Entry ID": "ckYaudNuDJKeXm4F8",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Roald's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Robin's photo",
+    "Internal ID": 6571,
+    "Unique Entry ID": "gGMXrd6EzF5ENXtKW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Robin's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rocco's photo",
+    "Internal ID": 6530,
+    "Unique Entry ID": "iRkEZSs3p9gicnefd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rocco's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rocket's photo",
+    "Internal ID": 6519,
+    "Unique Entry ID": "fNrCoDZyf88YmH4bu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rocket's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rod's photo",
+    "Internal ID": 6595,
+    "Unique Entry ID": "wd5tv6NL9dJ2No6iX",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rod's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rodeo's photo",
+    "Internal ID": 6715,
+    "Unique Entry ID": "gYeeE4f7X44nmJcwF",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rodeo's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rodney's photo",
+    "Internal ID": 6524,
+    "Unique Entry ID": "bERb22rSScyP9vffL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rodney's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rolf's photo",
+    "Internal ID": 6723,
+    "Unique Entry ID": "F5qwF6KKvvmrdGnaS",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rolf's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rooney's photo",
+    "Internal ID": 6570,
+    "Unique Entry ID": "9WS6SGFpa4HKyM5GW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rooney's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rory's photo",
+    "Internal ID": 6578,
+    "Unique Entry ID": "rTYtYqo3DQXm5yySZ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rory's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Roscoe's photo",
+    "Internal ID": 6543,
+    "Unique Entry ID": "KS4dQzzAgb7REtrHH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Roscoe's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rosie's photo",
+    "Internal ID": 6747,
+    "Unique Entry ID": "k2QXnAb9QXfxRevLj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rosie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rowan's photo",
+    "Internal ID": 6724,
+    "Unique Entry ID": "N7dQqF8tR5BcmKYsW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rowan's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ruby's photo",
+    "Internal ID": 6672,
+    "Unique Entry ID": "2edBuhf7ZMwXt9FRd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ruby's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Rudy's photo",
+    "Internal ID": 6767,
+    "Unique Entry ID": "xE38YW5nRh7vs7D8g",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Rudy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sally's photo",
+    "Internal ID": 6711,
+    "Unique Entry ID": "a6j777zJPnTTPorGo",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sally's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Samson's photo",
+    "Internal ID": 6594,
+    "Unique Entry ID": "o58KbxmhZTFeecNTe",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Samson's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sandy's photo",
+    "Internal ID": 6611,
+    "Unique Entry ID": "QYbj8o3oXeaEEB8A3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sandy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Savannah's photo",
+    "Internal ID": 6541,
+    "Unique Entry ID": "xrdpLjRARvcyEve9G",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Savannah's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Scoot's photo",
+    "Internal ID": 6465,
+    "Unique Entry ID": "WT7wn87soX5s3ryEr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Scoot's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Shari's photo",
+    "Internal ID": 6587,
+    "Unique Entry ID": "PxzjxBRveh6hr8mGE",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shari's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sheldon's photo",
+    "Internal ID": 6720,
+    "Unique Entry ID": "6SGuXycEifeLLPQEC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sheldon's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Shep's photo",
+    "Internal ID": 6453,
+    "Unique Entry ID": "NtFKTB6pDNEWqLbBC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Shep's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sherb's photo",
+    "Internal ID": 7212,
+    "Unique Entry ID": "u6iPdzJ7Pp4BYPKr3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sherb's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Simon's photo",
+    "Internal ID": 6581,
+    "Unique Entry ID": "QZPATsqjB76QpK3Xm",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Simon's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Skye's photo",
+    "Internal ID": 6740,
+    "Unique Entry ID": "aZTDxSGrX338jrC8e",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Skye's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sly's photo",
+    "Internal ID": 6804,
+    "Unique Entry ID": "XnerJ7fkzaYr7pg9B",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sly's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Snake's photo",
+    "Internal ID": 6665,
+    "Unique Entry ID": "rn7n4idLpo4ESGxLD",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snake's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Snooty's photo",
+    "Internal ID": 6754,
+    "Unique Entry ID": "7huArGYPgP3MFBWgf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Snooty's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Soleil's photo",
+    "Internal ID": 6525,
+    "Unique Entry ID": "CTuqhh9rjFT3jeyjf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Soleil's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sparro's photo",
+    "Internal ID": 6693,
+    "Unique Entry ID": "9iTCEHKkCYvwbGT8n",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sparro's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Spike's photo",
+    "Internal ID": 6686,
+    "Unique Entry ID": "z8uKqDv59XguPAhCC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spike's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Spork's photo",
+    "Internal ID": 6651,
+    "Unique Entry ID": "MZkBRMtPL9JBK9y4H",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Spork's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sprinkle's photo",
+    "Internal ID": 6643,
+    "Unique Entry ID": "6BLL8SgnsMtuxSnCi",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sprinkle's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sprocket's photo",
+    "Internal ID": 6612,
+    "Unique Entry ID": "J6hPTnQbNeuFFR2w3",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sprocket's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Static's photo",
+    "Internal ID": 6712,
+    "Unique Entry ID": "HZTiPjmeYYinGdjfg",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Static's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Stella's photo",
+    "Internal ID": 6694,
+    "Unique Entry ID": "h4mJugeNhGXjGFxEJ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stella's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sterling's photo",
+    "Internal ID": 6627,
+    "Unique Entry ID": "R8KCqDf3N2W3Trs6c",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sterling's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Stinky's photo",
+    "Internal ID": 6759,
+    "Unique Entry ID": "dddEbcmvm4Qhmwzzq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stinky's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Stitches's photo",
+    "Internal ID": 6774,
+    "Unique Entry ID": "YufgnyYrsG9FZmiTy",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stitches's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Stu's photo",
+    "Internal ID": 6726,
+    "Unique Entry ID": "6RJxFDFMu6j2fHnkC",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Stu's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sydney's photo",
+    "Internal ID": 6557,
+    "Unique Entry ID": "ZtSkw4w8QjYeji5Z6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sydney's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sylvana's photo",
+    "Internal ID": 6718,
+    "Unique Entry ID": "tozgqtv9R5nMrqLsw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sylvana's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Sylvia's photo",
+    "Internal ID": 6568,
+    "Unique Entry ID": "peM4T3QKaj6CkzxSr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Sylvia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "T-Bone's photo",
+    "Internal ID": 6737,
+    "Unique Entry ID": "3J3Cvy2eSpsvzXqaM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:T-Bone's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tabby's photo",
+    "Internal ID": 6758,
+    "Unique Entry ID": "SnscYsSqmTPo6bF75",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tabby's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tad's photo",
+    "Internal ID": 6492,
+    "Unique Entry ID": "C5fyKXPnGGeKKqB6x",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tad's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tammi's photo",
+    "Internal ID": 6583,
+    "Unique Entry ID": "FJ6QqXbytGHhiw2Ar",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tammi's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tammy's photo",
+    "Internal ID": 6784,
+    "Unique Entry ID": "y69NRJvLnsqbQ2bBQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tammy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tangy's photo",
+    "Internal ID": 6750,
+    "Unique Entry ID": "EoPwP7GThuJuQohy5",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tangy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tank's photo",
+    "Internal ID": 6684,
+    "Unique Entry ID": "bjMi6qQyraB8pBrFW",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tank's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tasha's photo",
+    "Internal ID": 6717,
+    "Unique Entry ID": "T8Lge7pEbCobWy36t",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tasha's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Teddy's photo",
+    "Internal ID": 6787,
+    "Unique Entry ID": "ZmB5w7yHP4qfq5Ypd",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Teddy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tex's photo",
+    "Internal ID": 6641,
+    "Unique Entry ID": "TBJbWwgKwe4Rgdesr",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tex's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tia's photo",
+    "Internal ID": 6483,
+    "Unique Entry ID": "9vfkZimwmnuAwXZH9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tia's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tiffany's photo",
+    "Internal ID": 6669,
+    "Unique Entry ID": "FB4L8qEgXfjzE3Ty2",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tiffany's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Timbra's photo",
+    "Internal ID": 6699,
+    "Unique Entry ID": "w7D5yj9t4mX2caTQQ",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Timbra's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tipper's photo",
+    "Internal ID": 6796,
+    "Unique Entry ID": "sftMAFPQF3DCNbcC6",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tipper's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tom's photo",
+    "Internal ID": 6761,
+    "Unique Entry ID": "YmNEptkDTLJGrtPQh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tom's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Truffles's photo",
+    "Internal ID": 6645,
+    "Unique Entry ID": "Ht4urWqcfj4d6BRxB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Truffles's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tucker's photo",
+    "Internal ID": 6481,
+    "Unique Entry ID": "Nbb9eSbnTHuMFYB4o",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tucker's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tutu's photo",
+    "Internal ID": 6471,
+    "Unique Entry ID": "vKAqNQwPxKaC4hq3f",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tutu's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Twiggy's photo",
+    "Internal ID": 6593,
+    "Unique Entry ID": "roZ9myYvrYC2xQppq",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Twiggy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Tybalt's photo",
+    "Internal ID": 6725,
+    "Unique Entry ID": "iKHyZZxDxEJqDyfeM",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Tybalt's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Ursala's photo",
+    "Internal ID": 6482,
+    "Unique Entry ID": "Aj29Xo8d4B52AaWfL",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Ursala's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Velma's photo",
+    "Internal ID": 6508,
+    "Unique Entry ID": "aJbmQjzHG9YMj3Eq9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Velma's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Vesta's photo",
+    "Internal ID": 6690,
+    "Unique Entry ID": "pDSXYFsdSff44nM9N",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Vesta's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Vic's photo",
+    "Internal ID": 6744,
+    "Unique Entry ID": "uL77bosx7h4XXNefH",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Vic's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Victoria's photo",
+    "Internal ID": 6540,
+    "Unique Entry ID": "Et7otsfp2wiSYvLFf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Victoria's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Violet's photo",
+    "Internal ID": 6517,
+    "Unique Entry ID": "mxQRhLCJu5b99y5zf",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Violet's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Vivian's photo",
+    "Internal ID": 6739,
+    "Unique Entry ID": "ZwaLSsPWPbKffRRhh",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Vivian's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Vladimir's photo",
+    "Internal ID": 6775,
+    "Unique Entry ID": "2S6zyprdQ7itbLhMB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Vladimir's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Wade's photo",
+    "Internal ID": 6638,
+    "Unique Entry ID": "Drb9FZ96FiwiAxJiv",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wade's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Walker's photo",
+    "Internal ID": 6443,
+    "Unique Entry ID": "ABwwZXaS8E2tgNbem",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Walker's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Walt's photo",
+    "Internal ID": 6569,
+    "Unique Entry ID": "JYWjAzLNJJ8Ycq7fw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Walt's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Wart Jr.'s photo",
+    "Internal ID": 6489,
+    "Unique Entry ID": "JfBA4G9FRNJdMuhiR",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wart_Jr.'s_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Weber's photo",
+    "Internal ID": 6466,
+    "Unique Entry ID": "GAgsnAcJ8EN3GcGJ9",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Weber's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Wendy's photo",
+    "Internal ID": 6698,
+    "Unique Entry ID": "pjMhvRTpMYTw897Cu",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wendy's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Whitney's photo",
+    "Internal ID": 6734,
+    "Unique Entry ID": "Cupffrt8yXbaDPwzN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Whitney's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Willow's photo",
+    "Internal ID": 6696,
+    "Unique Entry ID": "GjoK2MTFN9nb9xzjB",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Willow's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Winnie's photo",
+    "Internal ID": 6544,
+    "Unique Entry ID": "hoosHNCQHYwe9vBRj",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Winnie's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Wolfgang's photo",
+    "Internal ID": 6733,
+    "Unique Entry ID": "e96J8jfxzRN7YKRBs",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Wolfgang's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Yuka's photo",
+    "Internal ID": 6554,
+    "Unique Entry ID": "jy8tEY9EPf99j8MTN",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Yuka's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Zell's photo",
+    "Internal ID": 6428,
+    "Unique Entry ID": "qaHzyLmSYo7rdoGTw",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Zell's_Photo_(New_Horizons)"
+  },
+  {
+    "Name": "Zucker's photo",
+    "Internal ID": 6608,
+    "Unique Entry ID": "g94tYZjRj44JtvFkx",
+    "Nookipedia Link": "https://nookipedia.com/wiki/Item:Zucker's_Photo_(New_Horizons)"
+  }
+]
